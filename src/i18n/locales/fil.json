@@ -26,5 +26,7 @@
   "shareText": "🥠 {fortune} — Bukin mo rin ang sa iyo sa {url}",
   "loadingFortune": "Ikinakarga ang kapalaran mo…",
   "fortuneLabel": "Ang iyong kapalaran",
-  "offlineNote": "Naka-offline ka — gumagana pa rin ang mga nakaimbak na kapalaran!"
+  "offlineNote": "Naka-offline ka — gumagana pa rin ang mga nakaimbak na kapalaran!",
+  "downloadCard": "I-download ang card",
+  "cardSaved": "Na-download ang card"
 }

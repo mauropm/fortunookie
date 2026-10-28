@@ -26,5 +26,7 @@
   "shareText": "🥠 {fortune} — Kraak je eigen gelukskoekje op {url}",
   "loadingFortune": "Je fortune wordt geladen…",
   "fortuneLabel": "Jouw fortune",
-  "offlineNote": "Je bent offline — je bewaarde fortunes werken nog steeds!"
+  "offlineNote": "Je bent offline — je bewaarde fortunes werken nog steeds!",
+  "downloadCard": "Kaart downloaden",
+  "cardSaved": "Kaart gedownload"
 }

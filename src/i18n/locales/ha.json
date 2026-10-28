@@ -26,5 +26,7 @@
   "shareText": "🥠 {fortune} — Fasa naka ka ga a {url}",
   "loadingFortune": "Ana shirya saƙonka…",
   "fortuneLabel": "Saƙonka",
-  "offlineNote": "Ba ka da haɗin yanar gizo — saƙon da aka ajiye na nan tukuna!"
+  "offlineNote": "Ba ka da haɗin yanar gizo — saƙon da aka ajiye na nan tukuna!",
+  "downloadCard": "Sauke katin",
+  "cardSaved": "An sauke katin"
 }

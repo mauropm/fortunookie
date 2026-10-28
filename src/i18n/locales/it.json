@@ -26,5 +26,7 @@
   "shareText": "🥠 {fortune} — Rompi anche tu il tuo biscotto su {url}",
   "loadingFortune": "Carico la tua fortuna…",
   "fortuneLabel": "La tua fortuna",
-  "offlineNote": "Sei offline: le fortune già salvate funzionano comunque!"
+  "offlineNote": "Sei offline: le fortune già salvate funzionano comunque!",
+  "downloadCard": "Scarica la cartolina",
+  "cardSaved": "Cartolina scaricata"
 }

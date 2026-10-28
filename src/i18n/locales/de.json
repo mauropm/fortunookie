@@ -26,5 +26,7 @@
   "shareText": "🥠 {fortune} – Knacke deinen eigenen Glückskeks unter {url}",
   "loadingFortune": "Dein Spruch wird geladen …",
   "fortuneLabel": "Dein Glückspruch",
-  "offlineNote": "Du bist offline – deine gespeicherten Sprüche funktionieren weiterhin!"
+  "offlineNote": "Du bist offline – deine gespeicherten Sprüche funktionieren weiterhin!",
+  "downloadCard": "Karte herunterladen",
+  "cardSaved": "Karte heruntergeladen"
 }

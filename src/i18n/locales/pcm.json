@@ -26,5 +26,7 @@
   "shareText": "🥠 {fortune} — Crack your own for {url}",
   "loadingFortune": "E dey load your fortune…",
   "fortuneLabel": "Your Fortune",
-  "offlineNote": "You offline — but the cookies wey don save go still waka!"
+  "offlineNote": "You offline — but the cookies wey don save go still waka!",
+  "downloadCard": "Save am as card",
+  "cardSaved": "Card don for your device"
 }

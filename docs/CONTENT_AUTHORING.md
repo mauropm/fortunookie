@@ -96,6 +96,8 @@ Flat JSON with EXACTLY these keys (values translated into the target language; k
   "copy": "Copy fortune",
   "copied": "Copied to clipboard",
   "share": "Share fortune",
+  "downloadCard": "Download card",
+  "cardSaved": "Fortune card downloaded",
   "soundOn": "Sound on",
   "soundOff": "Sound off",
   "languageLabel": "Language",

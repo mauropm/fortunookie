@@ -184,6 +184,20 @@ test.describe("robustness", () => {
     expect(text.length).toBeGreaterThan(10);
   });
 
+  test("downloads a fortune card as a PNG", async ({ page }, testInfo) => {
+    test.skip(testInfo.project.name === "mobile", "desktop download path");
+    await page.goto("/");
+    await crack(page);
+    const [download] = await Promise.all([
+      page.waitForEvent("download"),
+      page.getByTestId("download-card-btn").click(),
+    ]);
+    expect(download.suggestedFilename()).toMatch(/^fortune-cookie-[a-z]+\.png$/);
+    const size =
+      (await download.path()) && (await import("node:fs")).statSync((await download.path())!).size;
+    expect(size).toBeGreaterThan(3000); // a real PNG, not empty
+  });
+
   test("clipboard failure is handled gracefully", async ({ page }, testInfo) => {
     test.skip(testInfo.project.name === "mobile", "clipboard stub best tested on desktop");
     await page.addInitScript(() => {

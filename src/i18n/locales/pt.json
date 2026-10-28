@@ -26,5 +26,7 @@
   "shareText": "🥠 {fortune} — Quebre o seu também em {url}",
   "loadingFortune": "Carregando a sua fortuna…",
   "fortuneLabel": "A sua fortuna",
-  "offlineNote": "Você está sem conexão — as fortunas em cache continuam funcionando!"
+  "offlineNote": "Você está sem conexão — as fortunas em cache continuam funcionando!",
+  "downloadCard": "Baixar cartão",
+  "cardSaved": "Cartão baixado"
 }

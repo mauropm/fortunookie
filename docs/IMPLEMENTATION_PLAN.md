@@ -21,16 +21,16 @@ Goal: a delightful, static-first, multilingual fortune-cookie website that runs 
 
 ## 2. Components
 
-| Component                                | Responsibility                                                  |
-| ---------------------------------------- | --------------------------------------------------------------- |
-| `App` / `Experience`                     | Composition, sound + counter state, meta tag sync               |
-| `FortuneCookie`                          | SVG cookie art, phase-driven break animation, crumbs + sparkles |
-| `FortuneSlip`                            | Paper slip reveal, focus management, RTL-aware text             |
-| `LanguageSelector`                       | Searchable combobox for 30 locales, full keyboard support       |
-| `ShareActions`                           | Copy (clipboard + execCommand fallback) and Web Share           |
-| `Chrome` (counter, sound toggle, footer) | Session counter, sound switch, about/privacy                    |
-| `hooks/useFortuneSession`                | Crack state machine + locale pool ownership                     |
-| `lib/fortunePool`                        | Shuffle-pool sampling, recent-history anti-repeat, fallbacks    |
+| Component                                | Responsibility                                                                |
+| ---------------------------------------- | ----------------------------------------------------------------------------- |
+| `App` / `Experience`                     | Composition, sound + counter state, meta tag sync                             |
+| `FortuneCookie`                          | SVG cookie art, phase-driven break animation, crumbs + sparkles               |
+| `FortuneSlip`                            | Paper slip reveal, focus management, RTL-aware text                           |
+| `LanguageSelector`                       | Searchable combobox for 30 locales, full keyboard support                     |
+| `ShareActions`                           | Copy (clipboard + execCommand fallback), Web Share, PNG fortune card (Canvas) |
+| `Chrome` (counter, sound toggle, footer) | Session counter, sound switch, about/privacy                                  |
+| `hooks/useFortuneSession`                | Crack state machine + locale pool ownership                                   |
+| `lib/fortunePool`                        | Shuffle-pool sampling, recent-history anti-repeat, fallbacks                  |
 
 Crack flow: `idle → anticipation (~190 ms) → breaking (~720 ms) → revealed`. The next
 fortune is drawn when the crack starts but is only handed to the UI at the reveal
@@ -79,7 +79,8 @@ timings to ~60 ms without ever gating access to the fortune.
 ## 6. Testing
 
 - **Unit** (Vitest): pool sampling/anti-repeat/refill, fallback chain, sanitization,
-  share/clipboard fallbacks, locale detection, counter, per-locale content gates.
+  share/clipboard fallbacks, fortune-card layout (wrap/shrink/ellipsis/CJK/RTL),
+  locale detection, counter, per-locale content gates.
 - **Integration** (Vitest + Testing Library): crack → reveal → counter, no-repeat,
   double-tap lock, language switch (incl. RTL), copy, offline fallback, keyboard.
 - **E2E** (Playwright, Chromium + Pixel 7): first visit, 9× cracking, language search +

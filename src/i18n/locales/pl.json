@@ -26,5 +26,7 @@
   "shareText": "🥠 {fortune} — Otwórz swoje ciastko z wróżbą na {url}",
   "loadingFortune": "Ładujemy twoją wróżbę…",
   "fortuneLabel": "Twoja wróżba",
-  "offlineNote": "Jesteś offline — zapisane wróżby nadal działają!"
+  "offlineNote": "Jesteś offline — zapisane wróżby nadal działają!",
+  "downloadCard": "Pobierz kartkę",
+  "cardSaved": "Kartka pobrana"
 }

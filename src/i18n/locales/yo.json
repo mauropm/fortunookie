@@ -26,5 +26,7 @@
   "shareText": "🥠 {fortune} — Fọ́ tirẹ ní {url}",
   "loadingFortune": "Ń mú ọ̀rọ̀ rẹ wá…",
   "fortuneLabel": "Ọ̀rọ̀ rẹ",
-  "offlineNote": "O kò sí lórí intánẹ́ẹ̀tì — àwọn ọ̀rọ̀ tí o ti fipamọ́ ṣì ń ṣiṣẹ́!"
+  "offlineNote": "O kò sí lórí intánẹ́ẹ̀tì — àwọn ọ̀rọ̀ tí o ti fipamọ́ ṣì ń ṣiṣẹ́!",
+  "downloadCard": "Gba káàdì sí i",
+  "cardSaved": "Káàdì ti wà ní ẹ̀rọ rẹ"
 }

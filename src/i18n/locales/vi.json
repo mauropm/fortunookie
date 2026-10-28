@@ -26,5 +26,7 @@
   "shareText": "🥠 {fortune} — Bẻ chiếc bánh của bạn tại {url}",
   "loadingFortune": "Đang mở lời chúc của bạn…",
   "fortuneLabel": "Lời chúc của bạn",
-  "offlineNote": "Bạn đang ngoại tuyến — những lời chúc đã lưu vẫn dùng được!"
+  "offlineNote": "Bạn đang ngoại tuyến — những lời chúc đã lưu vẫn dùng được!",
+  "downloadCard": "Tải thẻ lời chúc",
+  "cardSaved": "Đã tải thẻ lời chúc"
 }

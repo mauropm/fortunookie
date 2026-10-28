@@ -26,5 +26,7 @@
   "shareText": "🥠 {fortune} — Crack your own fortune at {url}",
   "loadingFortune": "Loading your fortune…",
   "fortuneLabel": "Your fortune",
-  "offlineNote": "You are offline — your cached fortunes still work!"
+  "offlineNote": "You are offline — your cached fortunes still work!",
+  "downloadCard": "Download card",
+  "cardSaved": "Fortune card downloaded"
 }

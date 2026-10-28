@@ -159,7 +159,10 @@ function Experience() {
                     copyLabel={t("copy")}
                     copiedLabel={t("copied")}
                     shareLabel={t("share")}
+                    downloadLabel={t("downloadCard")}
+                    cardSavedLabel={t("cardSaved")}
                     locale={locale}
+                    dir={dir}
                     onCopyFeedback={setStatusMessage}
                   />
                 )}

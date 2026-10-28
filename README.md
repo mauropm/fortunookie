@@ -35,8 +35,10 @@ Then open http://localhost:5173 and crack something open.
   persistence, browser-language detection, RTL for Arabic/Urdu/Persian/Hebrew.
 - ≥ 2,000 validated unique positive fortunes per locale (61,500+ total), loaded lazily
   per locale — a visitor never downloads the whole library.
-- Copy + Web Share with graceful desktop fallback; original crack sound synthesized via
-  Web Audio (opt-in, off by default); session cookie counter in `sessionStorage`.
+- Copy + Web Share with graceful desktop fallback; downloadable PNG fortune card
+  rendered on-device with Canvas (long-text aware, RTL + multilingual scripts); original
+  crack sound synthesized via Web Audio (opt-in, off by default); session cookie counter
+  in `sessionStorage`.
 - Offline-capable service worker, dark mode, reduced-motion mode, WCAG 2.2 AA-minded
   semantics (live regions, focus management, 44 px targets).
 
@@ -124,8 +126,8 @@ belong in `content-src/`.
   RTL, counter, crack lock, per-locale content gates, UI key/placeholder completeness.
 - `npm run test:e2e` — Playwright on the production build: first-visit without scroll,
   unlimited cracking, no immediate repeats, language search/persistence across reload,
-  RTL, keyboard-only, reduced motion, 320 px no-overflow, long-text overflow, missing
-  content/API resilience.
+  RTL, keyboard-only, reduced motion, 320 px no-overflow, long-text overflow, fortune
+  card PNG download, missing content/API resilience.
 - Lighthouse: run `npm run build && npm run preview` then Lighthouse against
   `http://localhost:4173` (see README results section below / measured values in
   `docs/`).

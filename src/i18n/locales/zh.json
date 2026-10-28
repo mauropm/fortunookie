@@ -26,5 +26,7 @@
   "shareText": "🥠 {fortune} —— 来掰一枚属于你的幸运饼干：{url}",
   "loadingFortune": "正在为你抽取好运签……",
   "fortuneLabel": "你的好运签",
-  "offlineNote": "当前离线，已缓存的好运签照样可用！"
+  "offlineNote": "当前离线，已缓存的好运签照样可用！",
+  "downloadCard": "下载祝福卡片",
+  "cardSaved": "祝福卡片已下载"
 }

@@ -26,5 +26,7 @@
   "shareText": "🥠 {fortune} — Abre la tuya en {url}",
   "loadingFortune": "Cargando tu mensaje…",
   "fortuneLabel": "Tu mensaje",
-  "offlineNote": "Estás sin conexión — ¡tus mensajes guardados siguen funcionando!"
+  "offlineNote": "Estás sin conexión — ¡tus mensajes guardados siguen funcionando!",
+  "downloadCard": "Descargar tarjeta",
+  "cardSaved": "Tarjeta descargada"
 }

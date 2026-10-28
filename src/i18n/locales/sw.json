@@ -26,5 +26,7 @@
   "shareText": "🥠 {fortune} — Pasua biskuti yako hapa: {url}",
   "loadingFortune": "Inapakia nasibu yako…",
   "fortuneLabel": "Nasibu yako",
-  "offlineNote": "Hauko mtandaoni — nasibu zilizohifadhiwa bado zinafanya kazi!"
+  "offlineNote": "Hauko mtandaoni — nasibu zilizohifadhiwa bado zinafanya kazi!",
+  "downloadCard": "Pakua kadi",
+  "cardSaved": "Kadi imepakuliwa"
 }

@@ -2,6 +2,13 @@ import { describe, expect, it, beforeEach, vi } from "vitest";
 import { render, screen, waitFor } from "@testing-library/react";
 import userEvent from "@testing-library/user-event";
 import App from "../../src/App";
+import { downloadFortuneCard } from "../../src/lib/fortuneCard";
+
+vi.mock("../../src/lib/fortuneCard", () => ({
+  downloadFortuneCard: vi.fn().mockResolvedValue(true),
+  layoutFortuneText: vi.fn(),
+  paintFortuneCard: vi.fn(),
+}));
 
 // Deterministic tiny libraries per locale so assertions are exact.
 const LIBS: Record<string, { fortunes: { id: string; t: string; c: string }[] }> = {
@@ -176,6 +183,25 @@ describe("Fortune Cookie experience", () => {
     render(<App />);
     const slip = await crackCookie(user);
     expect(slip.textContent!.trim().length).toBeGreaterThan(10);
+  });
+
+  it("downloads a fortune card and confirms with feedback", async () => {
+    const user = userEvent.setup();
+    render(<App />);
+    const slip = await crackCookie(user);
+    await user.click(screen.getByTestId("download-card-btn"));
+    await waitFor(() => {
+      expect(downloadFortuneCard).toHaveBeenCalledWith(
+        expect.objectContaining({
+          fortune: slip.textContent,
+          locale: "en",
+          dir: "ltr",
+        }),
+      );
+    }, WAIT);
+    await waitFor(() => {
+      expect(screen.getByTestId("copy-feedback").textContent).toContain("Fortune card");
+    }, WAIT);
   });
 
   it("supports keyboard cracking with Enter", async () => {

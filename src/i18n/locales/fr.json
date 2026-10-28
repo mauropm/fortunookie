@@ -26,5 +26,7 @@
   "shareText": "🥠 {fortune} — Casse le tien sur {url}",
   "loadingFortune": "Chargement de ton message…",
   "fortuneLabel": "Ton message",
-  "offlineNote": "Tu es hors ligne — tes messages en cache fonctionnent toujours !"
+  "offlineNote": "Tu es hors ligne — tes messages en cache fonctionnent toujours !",
+  "downloadCard": "Télécharger la carte",
+  "cardSaved": "Carte téléchargée"
 }

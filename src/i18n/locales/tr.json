@@ -26,5 +26,7 @@
   "shareText": "🥠 {fortune} — Kendi kurabiyeni {url} adresinde kır",
   "loadingFortune": "Mesajın geliyor…",
   "fortuneLabel": "Mesajın",
-  "offlineNote": "Çevrimdışısın — kayıtlı mesajların yine de çalışıyor!"
+  "offlineNote": "Çevrimdışısın — kayıtlı mesajların yine de çalışıyor!",
+  "downloadCard": "Kartı indir",
+  "cardSaved": "Kart indirildi"
 }

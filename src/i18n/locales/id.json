@@ -26,5 +26,7 @@
   "shareText": "🥠 {fortune} — Belah kuenya di {url}",
   "loadingFortune": "Membuka pesanmu…",
   "fortuneLabel": "Pesanmu",
-  "offlineNote": "Kamu sedang luring — pesan yang tersimpan tetap bisa dibaca!"
+  "offlineNote": "Kamu sedang luring — pesan yang tersimpan tetap bisa dibaca!",
+  "downloadCard": "Unduh kartu",
+  "cardSaved": "Kartu terunduh"
 }

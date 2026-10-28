@@ -26,5 +26,7 @@
   "shareText": "🥠 {fortune} — あなたもクッキーを割ってみて → {url}",
   "loadingFortune": "みくじを準備しています…",
   "fortuneLabel": "今日のみくじ",
-  "offlineNote": "オフラインです — 保存済みのみくじなら楽しめます"
+  "offlineNote": "オフラインです — 保存済みのみくじなら楽しめます",
+  "downloadCard": "カードを保存",
+  "cardSaved": "カードを保存しました"
 }
