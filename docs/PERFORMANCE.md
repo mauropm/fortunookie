@@ -51,8 +51,9 @@ are fetched — never all 30 locales.
 
 ## Test suite (actual run)
 
-- Vitest: **195/195 passed** (6 files)
-- Playwright: **27 passed, 1 skipped** (clipboard-stub desktop-only test skipped on mobile project)
+- Vitest: **205/205 passed** (7 files, incl. fortune-card layout/paint tests)
+- Playwright: **28 passed, 2 skipped** (desktop-only clipboard-stub and card-download
+  tests skipped on the mobile project)
 
 ## Caveats
 
