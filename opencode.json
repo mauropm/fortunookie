@@ -1,0 +1,52 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "model": "tensorfold/Qwen3.8-Flash-Next",
+  "provider": {
+    "vllm-local": {
+      "api": "openai",
+      "name": "vLLM Local",
+      "options": {
+        "baseURL": "http://100.123.129.23:8888/v1"
+      },
+      "models": {
+        "Qwen3.8-Flash-Next": {
+          "id": "Qwen3.8-Flash-Next",
+          "name": "Qwen3.8-Flash-Next",
+          "tool_call": true,
+          "reasoning": true,
+          "temperature": true,
+          "interleaved": {
+            "field": "reasoning_content"
+          },
+          "limit": {
+            "context": 262144,
+            "output": 32768
+          }
+        }
+      }
+    }
+  },
+  "agent": {
+    "build": {
+      "model": "tensorfold/Qwen3.8-Flash-Next"
+    },
+    "plan": {
+      "model": "tensorfold/Qwen3.8-Flash-Next"
+    },
+    "general": {
+      "model": "tensorfold/Qwen3.8-Flash-Next"
+    },
+    "explore": {
+      "model": "tensorfold/Qwen3.8-Flash-Next"
+    },
+    "title": {
+      "model": "tensorfold/Qwen3.8-Flash-Next"
+    },
+    "summary": {
+      "model": "tensorfold/Qwen3.8-Flash-Next"
+    },
+    "compaction": {
+      "model": "tensorfold/Qwen3.8-Flash-Next"
+    }
+  }
+}

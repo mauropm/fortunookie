@@ -1,0 +1,352 @@
+{
+  "locale": "nl",
+  "punct": { "join": ". ", "end": "." },
+  "core": [
+    { "c": "luck", "t": "Vandaag opent het leven een deur die je gisteren nog niet had gezien" },
+    { "c": "luck", "t": "Het goede nieuws waar je weken op hoopte, staat bijna op de stoep" },
+    {
+      "c": "luck",
+      "t": "Je bent klaar voor de kans die eraan komt, en die laat niet lang op zich wachten"
+    },
+    {
+      "c": "luck",
+      "t": "Een toeval met een glimlach brengt je vandaag dichter bij wat je belangrijk vindt"
+    },
+    { "c": "luck", "t": "Vandaag valt je iets toe dat je zelf nooit had durven bedenken" },
+    { "c": "luck", "t": "Een klein wonder staat vanochtend in de wachtrij, met jouw naam erop" },
+    { "c": "luck", "t": "Wie goed blijft doen wat hij doet, wordt vanzelf opgemerkt" },
+    { "c": "luck", "t": "Deze week kruist iemand je pad die een venster voor je openzet" },
+    { "c": "luck", "t": "Je geluk heeft geen haast, maar het komt er hoe dan ook" },
+    {
+      "c": "luck",
+      "t": "Zelfs het lichtste moment van vandaag kan de sleutel zijn tot iets groots"
+    },
+    { "c": "hope", "t": "Na elke lange nacht komt er een ochtend die alles lichter maakt" },
+    { "c": "hope", "t": "Er groeit al iets moois, ook al zie je nog geen blad aan de tak" },
+    { "c": "hope", "t": "Morgen is een blanco vel, en jij houdt de pen vast" },
+    { "c": "hope", "t": "Wat nu nog ver weg lijkt, komt dichterbij met elke stap die je zet" },
+    { "c": "hope", "t": "Zelfs een zaadje onder de sneeuw droomt al aan de lente" },
+    { "c": "hope", "t": "Je hoeft niet alles vandaag te weten; het begin mag klein zijn" },
+    { "c": "hope", "t": "Ergens vandaag begint een hoofdstuk dat je graag zult lezen" },
+    { "c": "hope", "t": "Elke zonsopgang is een uitnodiging om opnieuw te vertrouwen" },
+    {
+      "c": "hope",
+      "t": "De eerste ster van de avond herinnert eraan dat er altijd iets te wachten staat"
+    },
+    {
+      "c": "hope",
+      "t": "Wie een kaars aansteekt, ziet meteen hoeveel ruimte er is voor meer licht"
+    },
+    { "c": "love", "t": "Iemand denkt vandaag aan je met een glimlach die je niet verwacht" },
+    { "c": "love", "t": "Een woord van vriendschap vandaag kan een leven lang warmte geven" },
+    { "c": "love", "t": "Je hart is groot genoeg voor nóg een mooie ontmoeting" },
+    { "c": "love", "t": "Wie liefde zaait, vindt haar op de meest onverwachte plekken terug" },
+    { "c": "love", "t": "Vandaag durf je te zeggen wat je liefheeft, en je wordt gehoord" },
+    { "c": "love", "t": "Straks wacht er iemand op je verhalen, met geduld en een kan warme thee" },
+    { "c": "love", "t": "Vriendschap is een tuin; vandaag is een goede dag om samen te bloeien" },
+    { "c": "love", "t": "De warmte die je gisteren gaf, komt vandaag verdubbeld terug" },
+    { "c": "love", "t": "Een klein gebaar van vandaag is een groot gebaar voor iemand anders" },
+    { "c": "love", "t": "Liefde schuilt in details: een berichtje, een lach, een open deur" },
+    {
+      "c": "growth",
+      "t": "Je bent verder gekomen dan je denkt, en de weg wordt alleen maar mooier"
+    },
+    {
+      "c": "growth",
+      "t": "Elke nieuwe vaardigheid begint met een eerste onhandige stap, en die mag er zijn"
+    },
+    { "c": "growth", "t": "Vandaag lukt je wat een jaar geleden nog volstrekt onmogelijk leek" },
+    { "c": "growth", "t": "Wie naar binnen kijkt, vindt er een tuin die op één idee wacht" },
+    {
+      "c": "growth",
+      "t": "Vandaag leert een eerlijke fout je meer dan tien zekerheden bij elkaar"
+    },
+    { "c": "growth", "t": "Grenzen verleggen begint bij ontdekken waar je nu echt staat" },
+    { "c": "growth", "t": "Er groeit in je wat je gisteren nog voor onmogelijk hield" },
+    { "c": "growth", "t": "Elke eerlijke vraag aan jezelf opent een deur naar een vrijere kamer" },
+    { "c": "growth", "t": "De beste versie van jezelf is geen eindpunt, maar een mooie gewoonte" },
+    { "c": "growth", "t": "Je talenten staan te trappelen; geef er vandaag één een kans" },
+    { "c": "abundance", "t": "Overvloed begint met zien wat er al is; de rest volgt vanzelf" },
+    {
+      "c": "abundance",
+      "t": "Het werk van je handen draagt fruit dat je zelf nog niet geproefd hebt"
+    },
+    { "c": "abundance", "t": "Er komt een periode van volle tafels en zorgeloze namiddagen" },
+    { "c": "abundance", "t": "Wie deelde met lege handen, ontvangt vandaag een hele mand" },
+    { "c": "abundance", "t": "Er is plek aan tafel en brood genoeg voor nóg een gast" },
+    { "c": "abundance", "t": "De oogst van vandaag is gezaaid in weken van stil geduld" },
+    {
+      "c": "abundance",
+      "t": "Kleine overvloed is ook overvloed: een extra koek, een tweede kop thee"
+    },
+    {
+      "c": "abundance",
+      "t": "Je zult je verbazen hoeveel er de komende maanden op zijn plek valt"
+    },
+    { "c": "abundance", "t": "Overvloed groeit waar iemand durft te vragen en durft te geven" },
+    { "c": "abundance", "t": "Het goede leven zit hem in volle dagen en zachte avonden" },
+    { "c": "wisdom", "t": "Wie rustig luistert, hoort het antwoord dat het lawaai overstemt" },
+    { "c": "wisdom", "t": "Verstandig zijn betekent ook durven vragen om een helderder blik" },
+    { "c": "wisdom", "t": "Soms is het maken van een keuze al de halve wijsheid" },
+    { "c": "wisdom", "t": "De ervaring die je draagt, is een kompas met een eerlijke naald" },
+    { "c": "wisdom", "t": "Wie langzaam kiest, komt vaak sneller aan" },
+    { "c": "wisdom", "t": "Een goede vraag vandaag is meer waard dan een snel antwoord morgen" },
+    { "c": "wisdom", "t": "Verstand van zaken begint bij verwondering over het eenvoudige" },
+    { "c": "wisdom", "t": "Je intuïtie kent de weg; geef haar vandaag een stem" },
+    { "c": "wisdom", "t": "Uitstel is soms wijsheid die nog een nacht wil slapen" },
+    { "c": "wisdom", "t": "Luister naar de stilte tussen de woorden; daar woont de helderheid" },
+    { "c": "courage", "t": "Durf vandaag één ding te beginnen waar je hart van versnelt" },
+    { "c": "courage", "t": "Moed is geen sprong in het donker, maar de stap die je toch zet" },
+    { "c": "courage", "t": "Je droom verdient een plekje in de planning, niet alleen in je hoofd" },
+    { "c": "courage", "t": "Een zachte stem kan een dapper woord zeggen; doe het vandaag" },
+    {
+      "c": "courage",
+      "t": "Wat gisteren een muur leek, is vandaag een poort met uitzicht op nieuwe wegen"
+    },
+    {
+      "c": "courage",
+      "t": "Begin met de eerste stap; de rest van de weg laat zich eerder zien dan je denkt"
+    },
+    { "c": "courage", "t": "Iemand in jouw buurt wacht op precies jouw moed" },
+    { "c": "courage", "t": "Wie durft te vragen, krijgt vaak een verrassend ja" },
+    {
+      "c": "courage",
+      "t": "Ambitie is een vonk; bescherm haar vandaag als een vuurtje dat groot mag worden"
+    },
+    { "c": "courage", "t": "De berg blijft staan, maar jij groeit met elke stap omhoog" },
+    {
+      "c": "joy",
+      "t": "Vandaag mag het eenvoudig zijn: een warme mok, een goed lied, een glimlach"
+    },
+    { "c": "joy", "t": "De lach die vanzelf komt, is altijd de mooiste van de dag" },
+    {
+      "c": "joy",
+      "t": "Kleine vreugden zijn geen kleine vreugden; ze zijn de brandstof van harten"
+    },
+    {
+      "c": "joy",
+      "t": "Zing het lied dat je buiten en binnen kent; iemand zucht van herkenning mee"
+    },
+    {
+      "c": "joy",
+      "t": "Dankbaarheid verdubbelt wat het aanraakt; raak vandaag iets kleins aan met dank"
+    },
+    { "c": "joy", "t": "Er wacht iets smakelijks op je, en een tweede portie pret mag erbij" },
+    { "c": "joy", "t": "De zon die door de wolken breekt, knipoogt vandaag naar jou" },
+    { "c": "joy", "t": "Wie deelt in vreugde, krijgt er een hele schaal van terug" },
+    {
+      "c": "joy",
+      "t": "Er is vandaag een goede reden om vrolijk door de straat te steppen; verzin er zelf een"
+    },
+    {
+      "c": "joy",
+      "t": "Geniet van het moment voordat het een herinnering wordt; het is nu al mooi"
+    },
+    {
+      "c": "resilience",
+      "t": "Je schouders zijn sterker dan je denkt, en ze hebben al zoveel gedragen"
+    },
+    { "c": "resilience", "t": "Elke golf die voorbijging, leerde je beter te staan op het zand" },
+    {
+      "c": "resilience",
+      "t": "De veerkracht in je is oud en nieuw tegelijk, als een boom met jonge scheuten"
+    },
+    { "c": "resilience", "t": "Wat je ook achter je laat, je houdt er wijsheid en rust aan over" },
+    { "c": "resilience", "t": "De weg was hobbelig, maar je benen hebben er ritme van geleerd" },
+    {
+      "c": "resilience",
+      "t": "Honderd keer twijfelde je of het zou lukken, en honderd keer lukte het"
+    },
+    {
+      "c": "resilience",
+      "t": "Rust is ook vooruitgaan; zelfs de maan doet niets anders dan schijnen"
+    },
+    {
+      "c": "resilience",
+      "t": "Val zacht, sta langzaam op en merk hoe stevig de grond onder je staat"
+    },
+    {
+      "c": "resilience",
+      "t": "De wind buigt de tak, maar het bos blijft staan; jij hebt diep wortels"
+    },
+    {
+      "c": "resilience",
+      "t": "Na een regenachtige week druipt er van elke bladrand de geur van verse kansen"
+    },
+    { "c": "adventure", "t": "Een omweg is soms de snelste route naar iets onverwacht moois" },
+    { "c": "adventure", "t": "Er wacht een pad op je dat je schoenen een nieuw verhaal geeft" },
+    {
+      "c": "adventure",
+      "t": "Kies vandaag een straat die je nooit loopt en laat je verrassen door wat er schuilt"
+    },
+    { "c": "adventure", "t": "De wereld is breder dan je agenda; plan er vandaag een stukje van" },
+    { "c": "adventure", "t": "Voorbij de eerste berg wonen verhalen die alleen wandelaars kennen" },
+    {
+      "c": "adventure",
+      "t": "Een treinrit zonder plan kan het begin zijn van je mooiste herinnering"
+    },
+    {
+      "c": "adventure",
+      "t": "Verandering van gezichtspunt is ook reizen; kijk vandaag eens omhoog vanaf de overkant"
+    },
+    { "c": "adventure", "t": "Je kompas staat op ontdekking; de zee is dichterbij dan je denkt" },
+    { "c": "adventure", "t": "Nieuwe plekken maken oude dromen wakker; geef ze vandaag een kans" },
+    {
+      "c": "adventure",
+      "t": "Neem vandaag de route met de meeste bochten; die is altijd het verhaal waard"
+    },
+    {
+      "c": "community",
+      "t": "Een gemeenschap wordt warm van mensen zoals jij die als eerste helpen"
+    },
+    { "c": "community", "t": "De tafel loopt langer door zodra jij de deur openzet" },
+    { "c": "community", "t": "Een hand op elkaars schouder maakt elke last wat lichter" },
+    { "c": "community", "t": "Je buurt is een deken van draden; jouw draad maakt hem sterker" },
+    { "c": "community", "t": "Samen lachen is het lekkerst, en het kost helemaal niets" },
+    { "c": "community", "t": "Iemand in je straat telt stilletjes mee met jouw vrolijke groet" },
+    {
+      "c": "community",
+      "t": "Geef vandaag iets terug aan de plek die je draagt; ze geeft je meer terug"
+    },
+    {
+      "c": "community",
+      "t": "Een goed team is geen toeval, maar mensen die steeds opnieuw voor elkaar kiezen"
+    },
+    { "c": "community", "t": "Vreemden zijn buren die nog geen kop thee samen hebben gedronken" },
+    { "c": "community", "t": "Warme woorden zijn een brug die twee kanten op opengaat" },
+    { "c": "peace", "t": "De stilte in jou is geen leegte; het is een kamer met uitzicht" },
+    { "c": "peace", "t": "Adem in, adem uit; de wereld wacht even beleefd op je" },
+    { "c": "peace", "t": "Balans is geen stilstand, maar dansen op je eigen maat" },
+    { "c": "peace", "t": "Vandaag hoef je niets te bewijzen; het is genoeg dat je er bent" },
+    { "c": "peace", "t": "Geduld is een zachte rivier die alles op zijn tijd naar zee brengt" },
+    { "c": "peace", "t": "Zet de wereld even op een kier en laat de rust binnenwaaien" },
+    { "c": "peace", "t": "Waar je aandacht naartoe gaat, daar groeit ook de kalmte" },
+    { "c": "peace", "t": "De maan hoeft niet te rennen om vol te worden" },
+    { "c": "peace", "t": "Een moment van niets doen is een geschenk aan je eigen hoofd" },
+    { "c": "peace", "t": "Laat vandaag één taak rusten; de wereld draait gerust even door" }
+  ],
+  "openings": [
+    "Vandaag ontvouwt zich een plan dat al langer op je wachtte",
+    "Het leven leest vandaag voor uit een boek met een goed hoofdstuk",
+    "Er hangt iets goeds in de lucht van deze ochtend",
+    "De dag heeft een verrassing in de binnenzak voor je",
+    "De wind draagt vandaag goed nieuws uit een onverwachte richting",
+    "Er staat een klein geluk klaar op de rand van vandaag",
+    "De dagen buigen zich vandaag vriendelijk naar jou toe",
+    "De kalender van deze week heeft een sterretje bij jouw naam",
+    "Het leven knipoogt naar wie goed kijkt",
+    "Er gloort iets moois aan de rand van deze week",
+    "Het toeval heeft vandaag iets leuks voor je in petto",
+    "De ochtendzon legt een spoor van mogelijkheden over je weg",
+    "Er staat iets goeds te gebeuren: de lucht staat op groen",
+    "Het toeval heeft vanochtend jouw adres opgezocht",
+    "Ergens vandaag gaat een deur open met jouw naam op de sleutel",
+    "De seizoenen wisselen, en dit seizoen is van jou",
+    "Een zachte wind van verandering blaast jouw kant op",
+    "Het leven heeft vandaag een zakje met cadeautjes voor je",
+    "Op de rol voor de komende dagen staat een aangename verrassing",
+    "Wie vandaag zijn ogen goed openhoudt, ziet het geluk voorbijkomen",
+    "De eerste lichtstreep van de dag valt precies op jouw pad",
+    "Er brandt vanavond ergens een extra lichtje voor jou",
+    "Het nieuwe seizoen brengt een andere windrichting, en die staat gunstig",
+    "De dagen van deze maand hebben iets goeds met jou voor",
+    "Vanochtend klonk een zacht teken: jouw tijd komt dichterbij",
+    "De wereld draait vandaag een slagje langzamer voor jouw moment",
+    "Er opent zich een hoofdstuk met een zonnige eerste zin",
+    "De komende weken liggen als een ongeopend pakje voor je neer",
+    "Iemand heeft vanochtend goed over je nagedacht, zonder dat je het weet",
+    "Er staat een gunstige ster aan de hemel van deze week",
+    "Het leven heeft vandaag het beste voor je opzijgezet",
+    "De dag begint met een wenkend vooruitzicht op de hoek",
+    "Het geluk klopt zachtjes aan; vandaag is de dag om open te doen",
+    "Er ritselt goed nieuws in de brievenbus van de komende dagen",
+    "De brug tussen vandaag en morgen is gebouwd voor lichte passen",
+    "Er schuift iemand aan bij jouw tafel, met goed gezelschap en betere verhalen",
+    "Het seizoen van kleine wonderen begint vandaag, speciaal voor jou",
+    "De dageraad tekent een nieuwe route op jouw kaart",
+    "Er staat een gunstige wind klaar met jouw bestemming op het zeil",
+    "De dag giet vandaag wat extra licht door het raam van je plannen"
+  ],
+  "themes": [
+    "Geduld betaalt zich uit in momenten die je niet had durven dromen",
+    "Wie vandaag zorgvuldig zaait, proeft binnenkort van een rijke oogst",
+    "Een eerlijk woord van vandaag is een belegging met gouden rente",
+    "Kleine stapjes van vandaag worden morgen een hele weg",
+    "Vriendelijkheid komt altijd thuis, soms met vertraging, maar altijd vol",
+    "Nieuwe wegen openen zich voor wie afwijkt van het gebaande pad",
+    "Vragen om hulp is geen zwakte, maar een sterke zet",
+    "De deur van een kans staat op een kier, klaar voor een zachte duw",
+    "Je inspanningen van de laatste maanden zijn zaadjes die nu de kop opsteken",
+    "Wegen van samenwerking leiden naar bestemmingen die je alleen niet had bereikt",
+    "De tijd is rijp voor het idee dat je al lang koestert",
+    "Wie dankbaar telt wat hij heeft, vermenigvuldigt het zonder dat hij het ziet",
+    "Een onverwachte ontmoeting kan vandaag een nieuw hoofdstuk openen",
+    "Kennis delen is de enige bron die rijker wordt naarmate je eruit drinkt",
+    "De vrucht van hard werken smaakt het best in goed gezelschap",
+    "Een eerlijke vraag aan jezelf opent de deur naar een mooiere keuze",
+    "Verandering klopt zachtjes aan; wie opent, krijgt een aandenken",
+    "Je talent is een brug die iemand elders voor je laat staan",
+    "Moed groeit als je haar deelt met een bemoedigend woord",
+    "Wachttijden zijn vaak de wachtkamer van een mooie verrassing",
+    "Wie het goede doet zonder telboek, verzamelt onzichtbare schatten",
+    "Rust in je hoofd is de beste grond voor bloeiende plannen",
+    "Het juiste moment bestaat, en het begint altijd met een eerste stap",
+    "Samen sterk zijn maakt zelfs de zwaarste deur licht",
+    "Een eerlijk compliment kan vandaag iemands hele week dragen",
+    "De weg vooruit is korter dan hij leek, en veel mooier",
+    "De kans die voorbij leek te gaan, heeft een afslag naar iets beters",
+    "Je woorden planten bloemen die iemand anders straks plukt",
+    "Lieve woorden kosten niets en behoren toch tot de mooiste cadeaus",
+    "Wie voor anderen het pad vrijmaakt, loopt zelf over de breedste wegen",
+    "Uitdagingen zijn oefenschriften met een gouden kaft aan de binnenkant",
+    "Een idee dat je durft uit te spreken, krijgt vandaag vleugels",
+    "De buren van morgen zijn de vrienden van vandaag",
+    "Hoe meer je gunt, hoe meer er voor jou overblijft",
+    "Vertrouwen bouw je met kleine eerlijke stenen, dag na dag",
+    "De mooiste dingen groeien in het tempo van de rustigste tuinier",
+    "Wie toegeeft iets nog niet te weten, leert het snelst",
+    "Je bent op het goede moment begonnen, precies op tijd voor iets moois",
+    "Een half woord met een glimlach is een heel goed begin",
+    "Geluk vermeerdert zich door het over meer borden te verdelen",
+    "Er is een plaats gereserveerd op de bank van het goede nieuws",
+    "Zachte kracht verplaatst meer bergen dan haast ooit deed",
+    "Het voordeel van vandaag is een boom die morgen iemand schaduw geeft",
+    "Een keuze uit dankbaarheid is bijna altijd de juiste"
+  ],
+  "closings": [
+    "Moge deze gedachte je de hele dag warm houden",
+    "Loop vandaag met opgeheven hoofd en een licht hart door de straat",
+    "De wereld is een stuk mooier met jou erin",
+    "Blijf zo doorgaan, het goede komt eraan",
+    "Houd deze gedachte vandaag bij je als een gelukssteen in je zak",
+    "Geniet van elk klein teken dat je vandaag ziet",
+    "Het wordt goed, en misschien wel beter dan goed",
+    "Bewaar dit vonkje moed voor een dag die het nodig heeft",
+    "Laat je glimlach vandaag het antwoord zijn dat de wereld zocht",
+    "Moge de dagen lichter zijn dan je durfde hopen",
+    "Deze woorden zijn een zacht duwtje in de goede richting",
+    "Laat je leiden door de richting die je hart je wijst",
+    "Wanneer de avond valt, laat deze gedachte dan als een lampje branden",
+    "Jij verdient de zachte landing van een goede dag",
+    "Adem diep en weet dat alles op zijn plek zal vallen",
+    "De toekomst is een boek en jij houdt het potlood vast",
+    "Neem deze woorden mee als brood voor onderweg",
+    "Een goed gevoel is begonnen en komt nog wel vaker terug",
+    "Deze dag is van jou; maak er een mooi verhaal van",
+    "Wees vriendelijk voor jezelf, want daar begint alles",
+    "De beste pagina's van je boek zijn nog niet eens omgeslagen",
+    "Draag deze boodschap door de dag als een brede glimlach",
+    "Er is vandaag reden genoeg voor een vrolijke wandeling",
+    "Het goede nieuws begint stilletjes bij jou",
+    "Houd vol, de mooiste bloesems komen altijd wat later",
+    "Deze kleine wenk is het begin van een mooie reeks",
+    "Moge alles wat je aanraakt vandaag iets mooier worden",
+    "Vertrouw op je eigen licht en laat het schijnen",
+    "Een rustig hart vindt altijd de mooiste route",
+    "Deze fortune is een knipoog van het geluk; grijp hem",
+    "Ga er glimlachend onderdoor, het is de moeite waard",
+    "De moed die je zoekt, woont al in je zelf; gebruik hem vandaag",
+    "Dit is het teken waar je op wachtte; ga ervoor",
+    "Laat het geluk vandaag niet aan je neus voorbijgaan"
+  ]
+}

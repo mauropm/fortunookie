@@ -1,0 +1,8 @@
+dist
+node_modules
+public/fortunes
+package-lock.json
+docs/CONTENT_REPORT.md
+docs/CONTENT_SOURCES.md
+content-report.json
+scripts/og.svg

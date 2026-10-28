@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#faf3e3"/>
+      <stop offset="1" stop-color="#f0dfba"/>
+    </linearGradient>
+    <linearGradient id="cookie" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#eab873"/>
+      <stop offset="1" stop-color="#b97c33"/>
+    </linearGradient>
+    <linearGradient id="honey" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#e3a83c"/>
+      <stop offset="1" stop-color="#c98a1e"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="960" cy="315" r="200" fill="none" stroke="#e3a83c" stroke-width="3" opacity="0.5"/>
+  <circle cx="960" cy="315" r="240" fill="none" stroke="#e3a83c" stroke-width="1.5" opacity="0.3"/>
+  <!-- cookie -->
+  <g transform="translate(830,180) scale(2.9)">
+    <path d="M32 10 L27 19 L34 27 L26 35 L33 43 L28 51 L32 56 C17 56 8 45 8 33 C8 20 18 10 32 10 Z" fill="url(#cookie)" stroke="#8c5a22" stroke-width="1.6" stroke-linejoin="round"/>
+    <path d="M32 10 L27 19 L34 27 L26 35 L33 43 L28 51 L32 56 C47 56 56 45 56 33 C56 20 46 10 32 10 Z" fill="url(#cookie)" stroke="#8c5a22" stroke-width="1.6" stroke-linejoin="round"/>
+    <path d="M16 42 C22 36 26 33 31 32" fill="none" stroke="#8c5a22" stroke-width="1.8" stroke-linecap="round" opacity="0.6"/>
+    <path d="M48 42 C42 36 38 33 33 32" fill="none" stroke="#8c5a22" stroke-width="1.8" stroke-linecap="round" opacity="0.6"/>
+    <path d="M18 18 C24 13 29 12 31 14" fill="none" stroke="#ffe2ae" stroke-width="2" stroke-linecap="round" opacity="0.7"/>
+  </g>
+  <!-- paper slip -->
+  <g transform="rotate(-3 250 380)">
+    <rect x="70" y="330" width="470" height="130" rx="14" fill="#fffdf5" stroke="#eadfc2" stroke-width="3"/>
+    <rect x="70" y="330" width="470" height="12" rx="6" fill="url(#honey)"/>
+  </g>
+  <text x="76" y="90" font-family="Georgia, 'Times New Roman', serif" font-size="40" font-weight="bold" fill="#43301f">Fortune Cookie</text>
+  <text x="76" y="170" font-family="Georgia, 'Times New Roman', serif" font-size="56" font-weight="bold" fill="#43301f">What good fortune</text>
+  <text x="76" y="235" font-family="Georgia, 'Times New Roman', serif" font-size="56" font-weight="bold" fill="#43301f">awaits you today?</text>
+  <text x="76" y="300" font-family="Helvetica, Arial, sans-serif" font-size="26" fill="#7a6a55">A positive wish in your language — 30 languages, infinite cookies.</text>
+  <text x="76" y="545" font-family="Helvetica, Arial, sans-serif" font-size="24" font-weight="bold" fill="#c98a1e">Crack your cookie — fortunookie.example.com</text>
+</svg>

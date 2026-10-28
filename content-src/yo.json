@@ -1,0 +1,613 @@
+{
+  "locale": "yo",
+  "punct": {
+    "join": ". ",
+    "end": "."
+  },
+  "core": [
+    {
+      "c": "luck",
+      "t": "Ọjọ́ tí ọ̀run ń pèsè fún ọ lónìí kún fún àǹfààní"
+    },
+    {
+      "c": "luck",
+      "t": "Ẹnu ọjọ́ yìí ṣíkí rere fún ọ"
+    },
+    {
+      "c": "luck",
+      "t": "Ọwọ́ ọjọ́ dára wà lórí gbogbo ètò rẹ lónìí"
+    },
+    {
+      "c": "luck",
+      "t": "Bí omi ṣe ń rọra ṣàn, bẹ́ẹ̀ ni àǹfààní rẹ ń sún mọ́ ọ"
+    },
+    {
+      "c": "luck",
+      "t": "Àkókò rẹ ń bọ̀, oòrún sì ń gbé e wá fún ọ"
+    },
+    {
+      "c": "luck",
+      "t": "Oòrùn ń pè ọ láti kópa nínú ayọ̀ ọjọ́"
+    },
+    {
+      "c": "luck",
+      "t": "Ilé rẹ ń retí ìbọ̀ pẹ̀lú ẹ̀yìn rere"
+    },
+    {
+      "c": "luck",
+      "t": "Ọkà ńlá ń bọ̀ lọ́nà fún ọkàn tí ó gbẹ́kẹ̀ lé àṣẹ"
+    },
+    {
+      "c": "luck",
+      "t": "Ojú ọ̀nà rẹ mọ́, ọkàn rẹ sì kún fún ìgbẹ́kẹ̀lé"
+    },
+    {
+      "c": "luck",
+      "t": "Ayọ̀ ń wá ọ, ó sì ń fi ara rẹ̀ múlẹ̀ nílé rẹ"
+    },
+    {
+      "c": "hope",
+      "t": "Ìrètí rẹ ń dà á bí ọmọ ẹyẹ nínú ẹ́gbì"
+    },
+    {
+      "c": "hope",
+      "t": "Ọ̀la ń bọ̀ pẹ̀lú ohun ọ̀gbọ̀n tuntun fún ọ"
+    },
+    {
+      "c": "hope",
+      "t": "Bí oṣùpá ṣe ń pọ̀ sí i, bẹ́ẹ̀ ni ìrètí rẹ ń pọ̀ sí i"
+    },
+    {
+      "c": "hope",
+      "t": "Ìgbésẹ̀ kékeré lónìí ni ọ̀nà ńlá ọ̀la"
+    },
+    {
+      "c": "hope",
+      "t": "Afẹ́fẹ́ ìrètí ń fẹ́; ó ń gbé àǹfààní wá"
+    },
+    {
+      "c": "hope",
+      "t": "Kódà bí ọjọ́ bá le, ọjọ́ rere ń bọ̀"
+    },
+    {
+      "c": "hope",
+      "t": "Ọkàn rẹ ni gbòǹgbò ìrètí; ibẹ̀ ni omi ayọ̀ ti ń wọlé"
+    },
+    {
+      "c": "hope",
+      "t": "Ìràwọ̀ kékeré kan lè tan imọ́lẹ̀ gbogbo ọ̀run"
+    },
+    {
+      "c": "hope",
+      "t": "Ohun tí ọ̀run fi sí ẹ́ lọ́wọ́, kò ní é fojú ọ kọjá"
+    },
+    {
+      "c": "hope",
+      "t": "Ìrètí rẹ ń pọ́n, ó sì ń dùn bí ọ̀gẹ̀dẹ̀ tí ó ti pò"
+    },
+    {
+      "c": "love",
+      "t": "Ọ̀rẹ́ tí ó fi ọwọ́ rẹ kan ọwọ́ rẹ ni ọmọ ìyá rẹ gidi"
+    },
+    {
+      "c": "love",
+      "t": "Ìfẹ́ bíi ooru àárọ̀; ó ń mú ìtùnú wọ ilé"
+    },
+    {
+      "c": "love",
+      "t": "Ẹnu tí ó sọ ọ̀rọ̀ dára fún ọ, ọkàn rẹ ti gbà á"
+    },
+    {
+      "c": "love",
+      "t": "Ìfẹ́ kì í sọ ọ̀rọ̀ púpọ̀, iṣẹ́ rere ni ń ṣe"
+    },
+    {
+      "c": "love",
+      "t": "Ẹ jẹ́ kí ìfẹ́ gbé nínú ilé ọkàn rẹ"
+    },
+    {
+      "c": "love",
+      "t": "Ẹni tí ó bá fẹ́ ọ ní òtítọ́ yóò rí ọ̀nà sọ ọ di ọlá"
+    },
+    {
+      "c": "love",
+      "t": "Ìfẹ́ ọmọdé àti àgbàlagbà, méjèèjì ni ń mú ayọ̀ wá"
+    },
+    {
+      "c": "love",
+      "t": "Ìfẹ́ ń ká ọ mọ́, ó sì ń fún ọ ní ìtùnú"
+    },
+    {
+      "c": "love",
+      "t": "Ọ̀rẹ̀ rẹ jẹ́ digí ọkàn rẹ; wò ó, kí o sì rí ara rẹ ní ìmọ́lẹ̀"
+    },
+    {
+      "c": "love",
+      "t": "Sọ ọ̀rọ̀ rẹ pẹ̀lú ìfẹ́, ayé yóò sì máa dùn fún ọ"
+    },
+    {
+      "c": "growth",
+      "t": "Igi kékeré tí a tọ́jù ló ń di ńlá tí ẹyẹ máa ń gbé"
+    },
+    {
+      "c": "growth",
+      "t": "Ẹ̀kọ́ lónìí ni àgbà ọ̀la"
+    },
+    {
+      "c": "growth",
+      "t": "Bí ẹyẹ ṣe ń kọ́ ìfò, bẹ́ẹ̀ ni ìrírí ń kọ́ ọ"
+    },
+    {
+      "c": "growth",
+      "t": "Ìgbésẹ̀ lẹ́yìn ìgbésẹ̀ ni a fi ń dé òkè"
+    },
+    {
+      "c": "growth",
+      "t": "Owó ìmọ̀ kì í ṣòfò; ibi tí o ti kọ́ ọ ló ń san wó"
+    },
+    {
+      "c": "growth",
+      "t": "Igi tí gbòǹgbò rẹ̀ le ń fà á ní pípẹ́"
+    },
+    {
+      "c": "growth",
+      "t": "Ìrìn-àjò ìmọ̀-ara rẹ lónìí dára ju ọ̀nà tí o fi rìn tẹ́lẹ̀"
+    },
+    {
+      "c": "growth",
+      "t": "Ní gbogbo ìgbà ni ẹ̀dá tuntun ń jáde lára rẹ"
+    },
+    {
+      "c": "growth",
+      "t": "Nípa gbígbọ́ ẹ̀kọ́ ni ọmọdé fi ń di ọ̀gbọ́n"
+    },
+    {
+      "c": "growth",
+      "t": "Ọ̀gbìn tí o gbìn yìí yóò fún ọ ní òjìji pípẹ́"
+    },
+    {
+      "c": "abundance",
+      "t": "Ọwọ́ tí ó ń fún ni ọwọ́ tí ó ń gba"
+    },
+    {
+      "c": "abundance",
+      "t": "Ẹ̀ẹ̀ṣẹ̀ rẹ kì í ṣòfò; ó ń padà wá pẹ̀lú ọgọ́rùn-ún"
+    },
+    {
+      "c": "abundance",
+      "t": "Ilé tí iṣẹ́ bá wọ̀, àṣẹ kò fi í sílẹ̀"
+    },
+    {
+      "c": "abundance",
+      "t": "Ọjà àgbàlá ń pè ọ; ẹ̀ẹ̀ṣẹ̀ rẹ wà ní pípọ́"
+    },
+    {
+      "c": "abundance",
+      "t": "Bí omi odò ṣe ń ṣàn, bẹ́ẹ̀ ni àlàáfíà ń ṣàn wọ ilé rẹ"
+    },
+    {
+      "c": "abundance",
+      "t": "Ẹ̀ṣìn ọwọ́ rẹ ni ń kó ọlá jà; tẹ̀lé e"
+    },
+    {
+      "c": "abundance",
+      "t": "Ọrọ̀ ọkàn ni àlàáfíà, ìwọ sì ń pọ̀ sí i nínú rẹ̀"
+    },
+    {
+      "c": "abundance",
+      "t": "Ibi tí iṣẹ́ rere bá dé, ọlá ń wọ̀ ọ́ lọ"
+    },
+    {
+      "c": "abundance",
+      "t": "Aṣọ tuntun ń dúró fún ọ; ọjọ́ rere ń bọ̀ lọ́nà"
+    },
+    {
+      "c": "abundance",
+      "t": "Iyọ̀ àṣẹ, omi ọ̀pọ̀lọpọ̀; ọwọ́ rẹ ń fún ní pípẹ́"
+    },
+    {
+      "c": "wisdom",
+      "t": "Ohun tí ọkàn bá kọ́, ayé kò lè gbà á lọ́wọ́ rẹ"
+    },
+    {
+      "c": "wisdom",
+      "t": "Ìrònú jẹ́ ọgbẹ́ ìmọ̀; ó ń mú eso wá"
+    },
+    {
+      "c": "wisdom",
+      "t": "Ọ̀rọ̀ díẹ̀ pẹ̀lú ìmọ̀ pọ̀ ju ọ̀rọ̀ púpọ̀ láìlò lọ"
+    },
+    {
+      "c": "wisdom",
+      "t": "Ojú ọkàn ni ẹ̀kọ́ ti ń gbé; ẹ ṣí i, ó sì ń rí"
+    },
+    {
+      "c": "wisdom",
+      "t": "Ẹni tí ó bá béèrè, yóò rí ẹ̀kọ́"
+    },
+    {
+      "c": "wisdom",
+      "t": "Agbàgbà nínú ọkàn rẹ ń sọ ọ̀rọ̀; gbọ́ ọ"
+    },
+    {
+      "c": "wisdom",
+      "t": "Ìdákẹ́jọ́ jẹ́ ọkọ̀ ìmọ̀, ó sì ń gbé ọ dé ibi ìmọ̀lẹ̀"
+    },
+    {
+      "c": "wisdom",
+      "t": "Ìmọ́lẹ̀ ọkàn kì í pa á; ó máa ń tan"
+    },
+    {
+      "c": "wisdom",
+      "t": "Ìrírí kan ń kọ́ ọ̀gbọ́n ju ọgọ́rùn-ún ọ̀rọ̀ lọ"
+    },
+    {
+      "c": "wisdom",
+      "t": "Ẹ ṣíjú ọkàn rẹ; ẹ̀kọ́ àgbáyé wà nílẹ̀"
+    },
+    {
+      "c": "courage",
+      "t": "Ọkàn rẹ le; ẹ gbé e síwájú"
+    },
+    {
+      "c": "courage",
+      "t": "Bí ìgbì bá ń ga, bẹ́ẹ̀ ni agbára rẹ ń ga"
+    },
+    {
+      "c": "courage",
+      "t": "Ìgbésẹ̀ àkọ́kọ́ ni ọ̀nà fi ń yí padà sí ìtàn rere"
+    },
+    {
+      "c": "courage",
+      "t": "Ẹyin ẹyẹ kan ló ń bí igbó; ìwọ ni ẹyin yẹn"
+    },
+    {
+      "c": "courage",
+      "t": "Agbára ńlá wà nínú ọkàn rẹ, bí omi inú kànga tí kò tíì hàn"
+    },
+    {
+      "c": "courage",
+      "t": "Dúró sọin, kí ayé rí ìmọ́lẹ̀ rẹ"
+    },
+    {
+      "c": "courage",
+      "t": "Tẹ̀ ẹsẹ̀ rẹ sórí ọ̀nà, agbára yóò sì tẹ̀lé ọ"
+    },
+    {
+      "c": "courage",
+      "t": "Oòrùn kì í pa ìmọ́lẹ̀ rẹ̀ mọ́lẹ̀; jẹ́ kí ti rẹ tàn kálẹ̀"
+    },
+    {
+      "c": "courage",
+      "t": "Ìṣẹ́gun rẹ bẹ̀rẹ̀ pẹ̀lú ìgbésẹ̀ ẹlẹ́ẹ̀kan ṣoṣo"
+    },
+    {
+      "c": "courage",
+      "t": "Agbára rẹ bẹ̀rẹ̀ níbi tí ìpinnu rẹ ti wà"
+    },
+    {
+      "c": "joy",
+      "t": "Ayọ̀ ńlá wà fún ọ nínú ọjọ́ yìí"
+    },
+    {
+      "c": "joy",
+      "t": "Ayọ̀ ń gbé nínú nǹkan kékeré: oòrùn, omi tútù, ẹrin ọmọ"
+    },
+    {
+      "c": "joy",
+      "t": "Ẹrín rẹ jẹ́ ohun ọ̀ṣọ́; ẹ máa fi ọwọ́ tọ́jù ó"
+    },
+    {
+      "c": "joy",
+      "t": "Ọjọ́ rere bẹ̀rẹ̀ pẹ̀lú ọkàn tí ó dúpẹ́"
+    },
+    {
+      "c": "joy",
+      "t": "Ìmọ́lẹ̀ inú ọkàn rẹ kò ní òpin; ó ń yọ bí omi orísun"
+    },
+    {
+      "c": "joy",
+      "t": "Orin ọkàn rẹ dára; ẹ jẹ́ kí ayé gbọ́ ọ"
+    },
+    {
+      "c": "joy",
+      "t": "Ayọ̀ rẹ ń bọ̀ lọ́nà; ó gbé ẹ̀yìn rere wá"
+    },
+    {
+      "c": "joy",
+      "t": "Ẹ pàdé ọjọ́ tí ó dùn bí ọ̀gbọ̀n tí ó ti pò"
+    },
+    {
+      "c": "joy",
+      "t": "Oòrùn ń se ọjọ́ tuntun fún ọ; ó dùn, ó sì gbóná"
+    },
+    {
+      "c": "joy",
+      "t": "Ìdúpẹ́ díẹ̀ ń sọ ohun púpọ̀ di àṣẹ"
+    },
+    {
+      "c": "resilience",
+      "t": "Odò tí ó bá yí ká, ń lọ sí òkun"
+    },
+    {
+      "c": "resilience",
+      "t": "Igi tí ìjì bá tẹ́, tí kò fọ́, ń fà á pẹ́"
+    },
+    {
+      "c": "resilience",
+      "t": "Agbára rẹ ń pọ̀ sí i nígbà kọ̀ọ̀kan tí o bá gbé ẹsẹ̀ rẹ sórí ọ̀nà"
+    },
+    {
+      "c": "resilience",
+      "t": "Ìlù tí a ń lù ni ń dún; bẹ́ẹ̀ ni ìwọ ń dún sí i"
+    },
+    {
+      "c": "resilience",
+      "t": "Ẹsẹ̀ rẹ mọ ọ̀nà; ó ń rìn lọ́nà tí í ṣe"
+    },
+    {
+      "c": "resilience",
+      "t": "Agbára ọkàn rẹ ṣinṣin bí òkúta; òun ni gbòǹgbò rẹ"
+    },
+    {
+      "c": "resilience",
+      "t": "Ọkàn rẹ mọ ọ̀nà ìgbàga; ó ń tẹ ẹsẹ̀ rẹ lọ"
+    },
+    {
+      "c": "resilience",
+      "t": "Ọ̀nà ń yí, ṣùgbọ́n ìgbésẹ̀ rẹ ń lọ síwájú"
+    },
+    {
+      "c": "resilience",
+      "t": "Ẹ tẹ̀lé orin ọkàn rẹ; ó ń pe ọ sí ìbùdó rere"
+    },
+    {
+      "c": "resilience",
+      "t": "Agbára ń wá lẹ́yìn ìpèsè; ọjọ́ rere kò jìnnà"
+    },
+    {
+      "c": "adventure",
+      "t": "Ayé jẹ́ ìwé; ẹsẹ̀ rẹ ni ọwọ́ tí ń ká á"
+    },
+    {
+      "c": "adventure",
+      "t": "Ọ̀nà tuntun ń pè ọ; ó gbé ẹ̀bùn wá fún ọ"
+    },
+    {
+      "c": "adventure",
+      "t": "Oòrùn ìrìn-àjò ń fẹ́; ẹ ṣí ẹnu-ọ̀nà rẹ"
+    },
+    {
+      "c": "adventure",
+      "t": "Ẹni tí ó bá rìn púpọ̀, ìmọ̀ ń pọ̀ sí i lọ́wọ́ rẹ"
+    },
+    {
+      "c": "adventure",
+      "t": "Odò ń la òkè kọjá láti pàdé òkun"
+    },
+    {
+      "c": "adventure",
+      "t": "Ìrìn-àjò kò ní òpin; ojú ọkàn rẹ ló ń ṣí ọ̀nà"
+    },
+    {
+      "c": "adventure",
+      "t": "Ojú ọ̀nà rẹ ń fẹ̀, ó sì ń pè ọ"
+    },
+    {
+      "c": "adventure",
+      "t": "Ẹ jẹ́ kí ìfẹ́ ìmọ̀ ṣí ọ̀nà rẹ; ayé kún fún ẹ̀dá rere"
+    },
+    {
+      "c": "adventure",
+      "t": "Ọkọ̀ ìrètí rẹ ti gbé ọkọ jáde; ọjọ́ rere ń dúró ní ìbàdọ̀rí"
+    },
+    {
+      "c": "adventure",
+      "t": "Gbogbo ìlú tuntun ń pè ọ láti fi ọkàn rẹ mọ ọ"
+    },
+    {
+      "c": "community",
+      "t": "Ẹni kan kò lè kọ ilé; àwùjọ ni ń kọ́ un"
+    },
+    {
+      "c": "community",
+      "t": "Nípa ìfọwọ́sowọ́pọ̀ ni a fi ń kọ́ ayé rere"
+    },
+    {
+      "c": "community",
+      "t": "Alejo ń mu àlàáfíà wá; ọwọ́ ṣíṣí ni ń gbà á"
+    },
+    {
+      "c": "community",
+      "t": "Ẹni tí ó bá ṣe àdúgbò rẹ̀ rere, àdúgbò rẹ̀ ń dá a yìn"
+    },
+    {
+      "c": "community",
+      "t": "Àgbáyé kan ṣoṣo ni ènìyàn; ọkàn wa ni òkúta ìlèkọ"
+    },
+    {
+      "c": "community",
+      "t": "Bí ọmọ ẹyẹ bá ń pe àwọn ẹgbọ́n rẹ̀, bẹ́ẹ̀ ni ọkàn rẹ ń pe àwọn ọ̀rẹ́ rẹ"
+    },
+    {
+      "c": "community",
+      "t": "Ẹ pín oúnjẹ, ẹ sì pín ayọ̀; méjèèjì ń pọ̀ sí i nípa pípín"
+    },
+    {
+      "c": "community",
+      "t": "Ọwọ́ ẹni kan ń fọ ọwọ́ kejì, méjèèjì sì ń mọ́"
+    },
+    {
+      "c": "community",
+      "t": "Ilé tí ayọ̀ bá wọ̀, àwùjọ ń kópa nínú rẹ̀"
+    },
+    {
+      "c": "community",
+      "t": "Ẹ so ọwọ́ pọ̀, agbára yóò sì kún un"
+    },
+    {
+      "c": "peace",
+      "t": "Àlàáfíà wà níbi tí ọkàn rẹ bá ti rọ̀"
+    },
+    {
+      "c": "peace",
+      "t": "Bí omi ṣe rọ̀, bẹ́ẹ̀ ni ọjọ́ rẹ ń rọ̀"
+    },
+    {
+      "c": "peace",
+      "t": "Bí afẹ́fẹ́ ṣe ń fọ ọ̀nà, bẹ́ẹ̀ ni àlàáfíà ń fọ ọkàn rẹ"
+    },
+    {
+      "c": "peace",
+      "t": "Oòrùn ń wọ ilé pẹ̀lú àlàáfíà; bẹ́ẹ̀ ni ìwọ pẹ̀lú yóò wọ̀ ọ́"
+    },
+    {
+      "c": "peace",
+      "t": "Ọkàn tí ó mọ dúpẹ́ ń sùn pẹ̀lú àlàáfíà"
+    },
+    {
+      "c": "peace",
+      "t": "Ẹ jẹ́ kí ọ̀rọ̀ rẹ rọra bí omi, kí ó sì mu àlàáfíà wá"
+    },
+    {
+      "c": "peace",
+      "t": "Níbi tí ìrọra bá wà, àṣẹ ń gbé nílẹ̀"
+    },
+    {
+      "c": "peace",
+      "t": "Ẹ wọ aṣọ àlàáfíà lónìí; ó rọrùn, ó sì fẹsẹ̀ múlẹ̀"
+    },
+    {
+      "c": "peace",
+      "t": "Bí òṣùpá ṣe ń rẹ̀wà ní pẹ̀lẹ́, bẹ́ẹ̀ ni àlàáfíà rẹ ń rẹ̀wà"
+    },
+    {
+      "c": "peace",
+      "t": "Ẹ jẹ́ kí ọjọ́ rẹ rìn pẹ̀lú ìrọra; ẹ̀ẹ̀ṣẹ̀ àlàáfíà ni ń kún un"
+    }
+  ],
+  "openings": [
+    "Lónìí, oòrùn ń pè ọ ní orúkọ rẹ",
+    "Ọjọ́ tuntun yìí jẹ́ ẹ̀bùn",
+    "Nígbà tí oòrùn bá yọ, àǹfààní tún yọ pẹ̀lú rẹ̀",
+    "Ẹ gbé ìgbésẹ̀ síwájú pẹ̀lú ọkàn rere",
+    "Ẹ gbọ́ orin ọjọ́ yìí",
+    "Ẹ jẹ́ kí ọjọ́ yìí bẹ̀rẹ̀ pẹ̀lú ẹrín",
+    "Gbogbo nǹkan ń ṣiṣẹ́ papọ̀ fún rere rẹ",
+    "Bí omi tútù ṣe ń wọ ara, bẹ́ẹ̀ ni ọjọ́ yìí ń wọ ayé rẹ",
+    "Ẹ gbà á láàyè kí ayọ̀ wọlé",
+    "Ẹ gbẹ́kẹ̀ lé ọkàn rẹ; ó mọ ọ̀nà",
+    "Ẹ wo ìmọ́lẹ̀ tí ó wà níwájú rẹ",
+    "Ẹ sọ ọ́ di ọjọ́ rere, bẹ̀rẹ̀ láti inú ọkàn",
+    "Afẹ́fẹ́ ń gbé ìyọ̀n rere wá",
+    "Ìbẹ̀rẹ̀ ọjọ́ rẹ kún fún àṣẹ",
+    "Ẹ wo bí àgbáyé ṣe ń rẹ́rìn-ín sí ọ",
+    "Ẹnu ọjọ́ tuntun ṣí fún ẹ",
+    "Gbogbo ìgbésẹ̀ rẹ ń kọ́ ìtàn rere",
+    "Ẹ jẹ́ ká wo ọjọ́ yìí pẹ̀lú ojú rere",
+    "Ìràwọ̀ tí ó jẹ́ tirẹ ń tàn kálẹ̀ ní ọ̀run",
+    "Ẹ gbé ẹyin ìrètí rẹ lọ dáadáa",
+    "Ọjọ́ yìí ṣí ọ̀nà fún ọ",
+    "Ẹ sọ ọkàn rẹ di ilé ayọ̀",
+    "Ẹ jẹ́ kí àṣẹ ọjọ́ yìí kan ọ",
+    "Ìmọ́lẹ̀ ń bọ̀ láti ìhà gbogbo",
+    "Ẹ wo ọwọ́ rẹ; wọ́n ṣe fún nǹkan ńlá",
+    "Ẹnu ilé rẹ ṣí fún ẹ̀bùn",
+    "Ẹ tẹ́tí sí ọkàn rẹ; ó ń sọ òtítọ́",
+    "Ọ̀nà tí o wà yìí ń bí ìtàn tuntun",
+    "Oòrùn ṣáájú ọ dé ibi tí o ń lọ",
+    "Ẹ jẹ́ kí ìgbésẹ̀ rẹ kọ́kọ́ rọra, kí ó sì le",
+    "Ẹ ṣààmì ọjọ́ rẹ pẹ̀lú ìrẹ̀wẹ̀",
+    "Ẹ fi ọwọ́ rẹ kan ọjọ́ yìí",
+    "Ẹ ṣí ọkàn rẹ bí ilé fún alejo",
+    "Ẹ jẹ́ kí ayọ̀ ṣíṣe bẹ̀rẹ̀ níbì",
+    "Ọjọ́ yìí ń bèèrè ìmọ́lẹ̀ rẹ",
+    "Ẹ jẹ́ kí ìgbàgbọ́ rẹ rìn kíákíá",
+    "Oòrùn tútù ń fọ ọjọ́ rẹ mọ́",
+    "Ẹ fi ìrẹ̀wẹ̀ gbà ọjọ́ tuntun",
+    "Ẹnu ọ̀nà rẹ ń pè ọ",
+    "Ẹ máa ka ọjọ́ rẹ ní ọkàn rere"
+  ],
+  "themes": [
+    "Ìgbésẹ̀ rẹ ń pẹ́ ọ́ lọ́nà",
+    "Àṣẹ ń ṣiṣẹ́ nínú nǹkan kékeré",
+    "Iṣẹ́ rẹ ń dún káàkiri",
+    "Ọwọ́ rẹ ní ìdáhùn sí ọ̀pọ̀ ìbéèrè",
+    "Ìfẹ́ ń sọ nǹkan kékeré di ẹ̀bùn ńlá",
+    "Ọ̀nà ń fihàn fún ẹni tí ó ń rìn",
+    "Ẹ̀kọ́ ń wá ọ láti ẹnu àwọn ọmọdé àti àgbàlagbà",
+    "Àṣẹ ọwọ́ rẹ dára; tẹ̀ ẹ́sí i",
+    "Ọkàn tìtulẹ̀ ń rí ọ̀nà tí ọwọ́ kò rí",
+    "Àṣẹ ńlá ń wá láti ọ̀dọ̀ àwọn ará rẹ",
+    "Ìmọ́lẹ̀ díẹ̀ ń ṣí ọ̀nà fún ẹsẹ̀ rẹ",
+    "Ọkàn rere ń fa àwọn ọ̀rẹ́ rere",
+    "Ọjọ́ tí o ti pinnu láti rẹ́rìn-ín, gbogbo ayé ń rẹ́rìn-ín pẹ̀lú ọ",
+    "Oòrùn kì í rà á; ó ń yọ ní gbogbo òwúrọ̀",
+    "Ẹ̀ṣìn ìgbésẹ̀ rẹ ń dùn sí i",
+    "Ẹnu ọkàn rẹ ni àṣẹ ti ń jáde",
+    "Ẹnu ìjọra ni agbára ti ń bí",
+    "Ẹni tí ó bá ń fún ni ẹni tí ọjọ́ ń fún",
+    "Ìrètí ń ṣiṣẹ́ bí ọwọ́ aláṣọ tí kò sinmi",
+    "Ẹ jẹ́ kí ìrẹ̀wẹ̀ jẹ́ ọkọ̀ rẹ",
+    "Ìrìn-àjò rẹ kún fún ẹ̀dá àìsọ̀rí",
+    "Ọkàn rẹ ń fún ọ ní òkèèrè fún ọjọ́ rere",
+    "Ìjọra ń mu ohun púpọ̀ ṣẹ",
+    "Omi ìmọ̀ ń ṣàn wọ ilé rẹ",
+    "Ẹnu àṣẹ ni ọrọ̀ ti ń bẹ̀rẹ̀",
+    "Ọ̀nà ìrìn-àjò rẹ ń rẹwà sí i",
+    "Ẹsẹ̀ rẹ ń sọ ilẹ̀ di ìtàn",
+    "Ẹnu ayé ń sọ orúkọ rẹ pẹ̀lú ọ̀wọ̀",
+    "Ohun ọ̀ṣọ́ rẹ wà nínú ọkàn rẹ",
+    "Ẹni tí ó bá ń ṣe rere, ayé ń ṣe é rẹ̀",
+    "Àkókò rẹ ń dàgbà bí odò tí ó ń pọ̀ sí i",
+    "Ìtẹ̀ẹ́dúró ń fa ọjọ́ rere wá",
+    "Ẹnu ilé ọkàn rẹ ṣí fún ayọ̀",
+    "Ọ̀rọ̀ rẹ lè di ọ̀pá ìmọ́lẹ̀ fún ẹlòmíràn",
+    "Ìfẹ́ tí a pín ń kún",
+    "Ẹni tí ó bá ń dúpẹ́, ń rí ohun púpọ̀",
+    "Ẹnu ọjọ́ ọ̀la ń dún pẹ̀lú àṣẹ",
+    "Ìtẹ̀wọ́gbà ń dúró de ẹsẹ̀ rẹ",
+    "Ọwọ́ rẹ ń fún, ọkàn rẹ sì ń gba",
+    "Ìyọ̀ ayọ̀ ń kún ọjà rẹ",
+    "Ìbùdó rẹ ń yọ bí orísun",
+    "Ẹnu àárọ̀ ń wọ ilé pẹ̀lú orin",
+    "Àwùjọ ń dún bí ìlù àyájọ́",
+    "Ilé ọkàn rẹ kún fún àwọn ọ̀rẹ́ rere"
+  ],
+  "closings": [
+    "Àlàáfíà kún ọjọ́ rẹ",
+    "Ayọ̀ kún inú ilé rẹ",
+    "Ọjọ́ rẹ rẹwà",
+    "Àṣẹ bá ọ pàdé",
+    "Ìmọ́lẹ̀ rẹ máa tàn kálẹ̀",
+    "Ọkàn rẹ rọ̀",
+    "Ẹsẹ̀ rẹ máa rìn pẹ̀lú àlàáfíà",
+    "Ẹ jẹ́ kí ọjọ́ yìí jẹ́ tirẹ",
+    "Ọlá ń tẹ̀lé ọ bí òórùn ẹ̀dá",
+    "Ẹ̀bùn wá láti gbogbo ìhà",
+    "Ayé rẹ kún fún ìmọ́lẹ̀",
+    "Ọwọ́ rẹ kún fún fífún",
+    "Ẹ máa rìn pẹ̀lú ọkàn rere",
+    "Ẹ̀ṣìn rẹ pọ̀",
+    "Ẹ fi àlàáfíà parí ọjọ́ yìí",
+    "Ẹ jẹ́ kí ayọ̀ máa bá ọ rìn",
+    "Ẹ̀bùn ń bọ̀ lọ́nà fún ọ",
+    "Ẹ̀yìn ọdún rẹ dùn",
+    "Ẹ rí ọjọ́ rere kọ̀ọ̀kan",
+    "Ẹ̀kọ́ rẹ ń kún",
+    "Àgbáyé rẹ ń rẹ́rìn-ín",
+    "Ẹ jẹ́ kí ìrètí rẹ pọ̀",
+    "Ẹ wo ọjọ́ yìí gẹ́gẹ́ bí ẹ̀bùn",
+    "Ọlá àti àlàáfíà bá ọ gbé",
+    "Ẹnu rẹ dùn, ọkàn rẹ sì rọ̀",
+    "Ẹ jẹ́ kí ayọ̀ rẹ pọ̀ bí omi odò",
+    "Ẹ̀sìn ọwọ́ rẹ jẹ́ àṣẹ",
+    "Ẹ jẹ́ kí ọ̀nà rẹ rọrùn",
+    "Ẹ fi ìyọ̀ àti ayọ̀ gbé ọjọ́ rẹ",
+    "Ẹ tẹ̀lé ìmọ́lẹ̀ rẹ",
+    "Ẹ jẹ́ kí ọkàn rẹ gbà àlàáfíà",
+    "Gbogbo ọjọ́ rẹ kún fún ọlá",
+    "Ẹ ṣàdúpẹ́, ẹ sì rẹ́rìn-ín",
+    "Ẹ jẹ́ kí àlàáfíà jẹ́ tirẹ"
+  ]
+}

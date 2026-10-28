@@ -1,0 +1,613 @@
+{
+  "locale": "ha",
+  "punct": {
+    "join": ". ",
+    "end": "."
+  },
+  "core": [
+    {
+      "c": "luck",
+      "t": "Barka da safiya, akwai albarka a kan duk abin da ka taɓa yau"
+    },
+    {
+      "c": "luck",
+      "t": "Kofa da ka buga a yau, buɗe ce a gobe"
+    },
+    {
+      "c": "luck",
+      "t": "Sa'a mai kyau tana kan hanya, ka ci gaba da tafiya"
+    },
+    {
+      "c": "luck",
+      "t": "Allah Baƙi ne, kuma rana tana haskawa a kai"
+    },
+    {
+      "c": "luck",
+      "t": "Idan rana ta toshe hanya ɗaya, wata tana buɗe; ka nemi ita"
+    },
+    {
+      "c": "luck",
+      "t": "Abin da kake nema yana kusa, ko da yau ba ka gani ba"
+    },
+    {
+      "c": "luck",
+      "t": "Kwai mai ɗanɗano ba a cinka shi da ƙarfi; haka kyawun lokaci ke zuwa a hankali"
+    },
+    {
+      "c": "luck",
+      "t": "Akwai albarka a tafiya yau; matakarka na kaiwa wurin da ya dace"
+    },
+    {
+      "c": "luck",
+      "t": "Rana ta fito da sabuwar kyau, kuma ita ce naka"
+    },
+    {
+      "c": "luck",
+      "t": "Hancinka na ɗauke da alheri, kuma ɗaki mai kyau ya jira maka"
+    },
+    {
+      "c": "hope",
+      "t": "Tauraro mai haske yana fitowa da daddare; haka fatanka ke haskawa"
+    },
+    {
+      "c": "hope",
+      "t": "Duk inda rana ta faɗo, tana tashi da sabuwar ƙarfi"
+    },
+    {
+      "c": "hope",
+      "t": "Gobe na ɗauke da abin da yau bai iya ba"
+    },
+    {
+      "c": "hope",
+      "t": "Ƙirƙirar gobe tana farawa da murmushi a yau"
+    },
+    {
+      "c": "hope",
+      "t": "Sama ba shi da iyaka, haka mafarkanka ma ba su da iyaka"
+    },
+    {
+      "c": "hope",
+      "t": "Iri da aka dasa tana neman rana, kuma za ta sami ta"
+    },
+    {
+      "c": "hope",
+      "t": "Bayan hira, rana tana fitowa da sabon haske"
+    },
+    {
+      "c": "hope",
+      "t": "Hanya mai nisa ƙafafa biyu ne ke tafiyar da ita"
+    },
+    {
+      "c": "hope",
+      "t": "Fatan alheri ba ta ɓata, tana jira lokacinta kawai"
+    },
+    {
+      "c": "hope",
+      "t": "Mai fatan kyau na ganin hanya a duk inda aka duba"
+    },
+    {
+      "c": "love",
+      "t": "Ƙaunar gaske tana ƙaruwa idan an raba ta"
+    },
+    {
+      "c": "love",
+      "t": "Murna ga wanda zuciya ke so, kuma zai murna maka"
+    },
+    {
+      "c": "love",
+      "t": "Abokin gaske shi ne mai gani da zuciya, ba da ido ba"
+    },
+    {
+      "c": "love",
+      "t": "Ƙaunar iyaye tana buɗe kofofin alheri"
+    },
+    {
+      "c": "love",
+      "t": "Raba ɗanɗano da aboki, ɗanɗanon zai ƙaru"
+    },
+    {
+      "c": "love",
+      "t": "Kalma mai kyau tana da ƙarfi fiye da dubban kyauta"
+    },
+    {
+      "c": "love",
+      "t": "Wanda ya yi wa sauran kyau, zai gada kyau"
+    },
+    {
+      "c": "love",
+      "t": "Gida inda ƙauna ke zaune, bari ta zauna"
+    },
+    {
+      "c": "love",
+      "t": "Ƙafar da ta tafi domin gani, ta koma da farin ciki"
+    },
+    {
+      "c": "love",
+      "t": "Yi wa ɗan'uwanka kyau, domin kyau ba ta ɓaurewa"
+    },
+    {
+      "c": "growth",
+      "t": "Itace mai girma tana farawa da ƙaramin iri"
+    },
+    {
+      "c": "growth",
+      "t": "Ƙwararren mutum shi ne mai koyi kullum"
+    },
+    {
+      "c": "growth",
+      "t": "Ka haska, domin gidanka da maƙwabtanka ga haskenka"
+    },
+    {
+      "c": "growth",
+      "t": "Ilimi ba ya ɓatowa, ko a wane shekaru ka yi"
+    },
+    {
+      "c": "growth",
+      "t": "Ka zama mai hikima a gobe fiye da yau, ka kuma yi ƙoƙari a yau fiye da jiya"
+    },
+    {
+      "c": "growth",
+      "t": "Ƙafafa biyu ne ke tafiya, amma hankali ne ke nuna hanya"
+    },
+    {
+      "c": "growth",
+      "t": "Dutsen da aka yi amfani da shi, shi ke gina gini"
+    },
+    {
+      "c": "growth",
+      "t": "Ƙarfinka yana cikin yadda kake ƙoƙari, ba cikin sakamako ba"
+    },
+    {
+      "c": "growth",
+      "t": "Kowace ƙalubale tana ɗauke da darasi"
+    },
+    {
+      "c": "growth",
+      "t": "Wanda ya gane kuskurensa, ya fara kan hanyar gyara"
+    },
+    {
+      "c": "abundance",
+      "t": "Albarka tana zuwa ga mai shuka, kuma rana ba ta barin shi"
+    },
+    {
+      "c": "abundance",
+      "t": "Yiwuwar ka ba ta ƙarewa, domin hannunka na ba"
+    },
+    {
+      "c": "abundance",
+      "t": "Gida mai buɗe ƙofa na karɓar albarka"
+    },
+    {
+      "c": "abundance",
+      "t": "Irin da ka shuka yau, shi za ka girbe gobe"
+    },
+    {
+      "c": "abundance",
+      "t": "Arzikin zuciya ya fi na jakar, kuma dukanka na da shi"
+    },
+    {
+      "c": "abundance",
+      "t": "Mai hali kyau, arziki na bin sa kamar inuwa"
+    },
+    {
+      "c": "abundance",
+      "t": "Hannun sama bala ne, kuma albarka na sauka a kai"
+    },
+    {
+      "c": "abundance",
+      "t": "Kasuwa na buɗe, alheri kuma na sauka"
+    },
+    {
+      "c": "abundance",
+      "t": "Duk abin da ka yi a kyau, yana komawa da kari"
+    },
+    {
+      "c": "abundance",
+      "t": "Rana ta fito domin ba ka albarka, ka ci gaba da aiki"
+    },
+    {
+      "c": "wisdom",
+      "t": "Hankali shi ne fitila, kuma haskensa ba ya ƙarewa"
+    },
+    {
+      "c": "wisdom",
+      "t": "Kunne biyu ne, harshe kuma ɗaya; yi amfani da su da hikima"
+    },
+    {
+      "c": "wisdom",
+      "t": "Wani lokaci kuyanci shi ne magana mafi ƙarfi"
+    },
+    {
+      "c": "wisdom",
+      "t": "Mai hikima na gani a inda wasu ke wucewa"
+    },
+    {
+      "c": "wisdom",
+      "t": "Shawarwarin aboki ba ya ɓata hanya, yana ƙara haske"
+    },
+    {
+      "c": "wisdom",
+      "t": "Ƙarar da ka ji yau, ita ce hikimar gobe"
+    },
+    {
+      "c": "wisdom",
+      "t": "Idan ka tsaya ka duba, za ka gane"
+    },
+    {
+      "c": "wisdom",
+      "t": "Zuciya mai tsabta tana ganin abin da ido bai gani ba"
+    },
+    {
+      "c": "wisdom",
+      "t": "Nemi shawara ɗan lokaci, domin yana kawo farin ciki"
+    },
+    {
+      "c": "wisdom",
+      "t": "Gaskiya tana tafiya a hankali, amma tana isa"
+    },
+    {
+      "c": "courage",
+      "t": "Zuciya mai ƙarfi ba ta sanin komawa baya"
+    },
+    {
+      "c": "courage",
+      "t": "Ƙarfinka yana farawa da ƙoƙari na farko"
+    },
+    {
+      "c": "courage",
+      "t": "Ka tashi ka tsaya, domin duniya na fuskantar masu ƙarfin zuciya"
+    },
+    {
+      "c": "courage",
+      "t": "Hanya mai wuya tana koyar da mai tafiya, kuma kai za ka iya"
+    },
+    {
+      "c": "courage",
+      "t": "Ka ba da kai ga ƙoƙari, sakamako na bin hakan"
+    },
+    {
+      "c": "courage",
+      "t": "Gobe na ɗauke da kyauta ga mai ƙoƙari"
+    },
+    {
+      "c": "courage",
+      "t": "Kifin da bai yi iyo ba, ba zai ga zurfin kogi ba"
+    },
+    {
+      "c": "courage",
+      "t": "Tsaya a gaba, domin haskenka na cancantar haskawa"
+    },
+    {
+      "c": "courage",
+      "t": "Wanda ya yi gudu, ya kai; wanda ya yi tafiya, ya zo"
+    },
+    {
+      "c": "courage",
+      "t": "Ƙarfe ba ya fitowa daga hutawa, yana fitowa daga ƙoƙari"
+    },
+    {
+      "c": "joy",
+      "t": "Murna ba kasada ce, kuma tana samar da murna"
+    },
+    {
+      "c": "joy",
+      "t": "Ƙaramin farin ciki na rana shi ne babban arzikin rayuwa"
+    },
+    {
+      "c": "joy",
+      "t": "Ka ji dadi, domin lokaci mai kyau yana cikin yanzu"
+    },
+    {
+      "c": "joy",
+      "t": "Waƙar da zuciya ta yi, ba ta ɓacewa"
+    },
+    {
+      "c": "joy",
+      "t": "Murna ga kyawun yau, kuma gobe za ta ƙara kyau"
+    },
+    {
+      "c": "joy",
+      "t": "Ƴan uwanka na buɗe rana, kuma kai ma kana buɗe musu"
+    },
+    {
+      "c": "joy",
+      "t": "Akwai farin ciki a cikin ƙaramin abu, idan ka nemi shi"
+    },
+    {
+      "c": "joy",
+      "t": "Rana ta fito, kuma zuciyarka tana rawa"
+    },
+    {
+      "c": "joy",
+      "t": "Barka da rana, kuma barka da mutum da ka haɗu da shi"
+    },
+    {
+      "c": "joy",
+      "t": "Gamsuwa ba arzikin zinare ba ce, arzikin zuciya ne"
+    },
+    {
+      "c": "resilience",
+      "t": "Itace mai tushen ƙarfi tana tsayawa da iska"
+    },
+    {
+      "c": "resilience",
+      "t": "Ƙarfe ana narkar da shi domin a siffanta shi da kyau"
+    },
+    {
+      "c": "resilience",
+      "t": "Duk yadda ka tsaya, ya ƙara maka ƙarfi"
+    },
+    {
+      "c": "resilience",
+      "t": "Kogin da ya karkace, ya nemo sabuwar hanya"
+    },
+    {
+      "c": "resilience",
+      "t": "Mai tafiya a hankali yana isa, kuma kai ma za ka isa"
+    },
+    {
+      "c": "resilience",
+      "t": "Hasken rana yana da ƙarfi, haka ma ƙarfinka"
+    },
+    {
+      "c": "resilience",
+      "t": "Dutsen da ya hana hanya, ya zama mataki"
+    },
+    {
+      "c": "resilience",
+      "t": "Ƙafarka sun saba hanya, kuma suna ci gaba"
+    },
+    {
+      "c": "resilience",
+      "t": "Ƙoƙarin da ka yi a ɓoye, ana ganin shi a fili"
+    },
+    {
+      "c": "resilience",
+      "t": "Zuciyarka ƙarfe ce; tana siffanta kyau da ƙoƙari"
+    },
+    {
+      "c": "adventure",
+      "t": "Duniya littafi ce, kuma mai tafiya na karanta shi gaba ɗaya"
+    },
+    {
+      "c": "adventure",
+      "t": "Ka ɗauki hanya sabuwa, domin tana ɗauke da kyaututtuka"
+    },
+    {
+      "c": "adventure",
+      "t": "Kogin da ya gudana, shi ya zama kogi"
+    },
+    {
+      "c": "adventure",
+      "t": "Tafiya tana koyar da abin da zaure ba ya koyarwa"
+    },
+    {
+      "c": "adventure",
+      "t": "Ƙafar da ta fita, tana komo da ilimi"
+    },
+    {
+      "c": "adventure",
+      "t": "Babban ruwa ba shi da iyaka, haka bincikanka ma ba ya ƙarewa"
+    },
+    {
+      "c": "adventure",
+      "t": "Idan ka yi mataki na farko, hanya tana buɗe kanta"
+    },
+    {
+      "c": "adventure",
+      "t": "Ka bar ƙasa ɗaya, ka ga wasu, domin duniya ta yi faɗi"
+    },
+    {
+      "c": "adventure",
+      "t": "Tafiya ba nisan ƙafa ba ce, ainihin tafiya ta zuciya ne"
+    },
+    {
+      "c": "adventure",
+      "t": "Akwai sabuwar ƙasa a bayan kowane tuddai"
+    },
+    {
+      "c": "community",
+      "t": "Yatsa ɗaya ba ta ɓaugan kai, amma hannaye biyu na wanke fuska"
+    },
+    {
+      "c": "community",
+      "t": "Gida ba bango ba ne, mutane ne ke gina gida"
+    },
+    {
+      "c": "community",
+      "t": "Rafi ɗaya na ɗauke da ruwa, ƙungiya na ɗauke da albarka"
+    },
+    {
+      "c": "community",
+      "t": "Wanda ya tashi da abokin tafiya, ya tashi da kansa ma"
+    },
+    {
+      "c": "community",
+      "t": "Akwai ƙarfi a cikin haɗin kai, kuma haɗin kai na gina al'umma"
+    },
+    {
+      "c": "community",
+      "t": "Baƙi ya zo da albarka, gidan kuma ya cika da farin ciki"
+    },
+    {
+      "c": "community",
+      "t": "Hannaye a hannaye, hakan ne ainihin ƙarfi"
+    },
+    {
+      "c": "community",
+      "t": "Ƙauye mai haɗin kai na samun albarka"
+    },
+    {
+      "c": "community",
+      "t": "Ka ba da ɗan lokaci domin taimaka wa ɗan'uwanka, domin hakan ƙarfi ne"
+    },
+    {
+      "c": "community",
+      "t": "Abincin da aka raba na cika jiki da zuciya"
+    },
+    {
+      "c": "peace",
+      "t": "Zuciya mai nutsuwa tana zaune da duniya gaba ɗaya"
+    },
+    {
+      "c": "peace",
+      "t": "Idan ka huta ka numfashi, ƙarfi na komawa"
+    },
+    {
+      "c": "peace",
+      "t": "Sanyi a kai, sanyi a ga sauran; duniya tana daɗi"
+    },
+    {
+      "c": "peace",
+      "t": "Rana ta faɗo da laushi, kuma tana tashi da laushi"
+    },
+    {
+      "c": "peace",
+      "t": "Ruwa mai nutsuwa ne ke nuna hasken rana"
+    },
+    {
+      "c": "peace",
+      "t": "Ka bar ɗan lokaci domin kanka, domin hutawa ma aiki ne"
+    },
+    {
+      "c": "peace",
+      "t": "Gida mai nutsuwa ya fi fada mai hayani"
+    },
+    {
+      "c": "peace",
+      "t": "Mai yin sauraro da hikima, na samun nutsuwa"
+    },
+    {
+      "c": "peace",
+      "t": "Nufi da kyau, kuma ƙauna tana bin hakan kamar inuwa"
+    },
+    {
+      "c": "peace",
+      "t": "Lokaci mai kyau yana farawa da zuciya mai tsabta"
+    }
+  ],
+  "openings": [
+    "Ga wannan rana mai sabo",
+    "Yau rana ce da ta cancanci murmushi",
+    "Yayin da rana ta fito da haskenta",
+    "A cikin wannan lokaci na albarka",
+    "Ka saurari abin da zuciya ke cewa",
+    "Barka da ka, mai neman kyau",
+    "Waƙar safiya na waka maka",
+    "Ka ɗauki numfashi mai sanyi, akwai kyau da zuwa",
+    "Ga kyautar da rana ta kawo maka",
+    "A farkon wannan tafiya",
+    "Idan rana ta haska a kan kai",
+    "A yau, duniya na magana da kai",
+    "Ka shirya zuciya karɓar kyau",
+    "Wannan lokaci na naka ne",
+    "Barka da zuwa, akwai abin da ya ke jira maka",
+    "A gefen wannan rana mai kyau",
+    "Taurari sun ci wa kai waka",
+    "Rana ta fito da sabuwar kyau",
+    "Ka bar gida da ƙarfi, ka komo da farin ciki",
+    "Akwai saƙo da rana ta aike maka",
+    "Duniya na buɗe hannunta maka",
+    "Ka fara yau da murmushi",
+    "Idan ka saurari iska, tana ɗauke da kyau",
+    "Ga ƙaramin murna kan ƙoƙarinka",
+    "Bayan dare mai tsawo, rana na fitowa",
+    "Kowace safiya sabuwar hanya ce",
+    "Ka yi wa zuciya murna",
+    "Lokacin kyau ya yi kusa",
+    "Ga yau, kyauta mafi daraja",
+    "A tsakiyar wannan rana, akwai albarka",
+    "Hanyar da ka bi tana da kyau",
+    "Idan ka yi gaskiya, kyau na bin ka",
+    "Ka ɗauki wannan rana kamar kyauta",
+    "Rana ta yi alkawarin kyau a kan kai",
+    "A cikin wannan daki, akwai haske",
+    "Ka bar ƙoƙari ya yi magana",
+    "Ga rana da ba a taɓa gani ba",
+    "Ka ce wa kanka, ina iya",
+    "Allah Ya ba ka kyau, mai neman alheri",
+    "Ka zauna a hasken yau"
+  ],
+  "themes": [
+    "Akwai kofofi da ke jiran hannunka",
+    "Ƙoƙarinka zai iro da ɗanɗano",
+    "Aiki mai kyau na samar da sakamako mai kyau",
+    "Hannun da ka bas wa tana karɓar albarka",
+    "Ilimin yau na gina zauren gobe",
+    "Hakkinka ya fi zinare daraja",
+    "Ƙaunar da ka yi ɗaya, tana dawowa dubu",
+    "Haƙurinka na iya da ƙarfe",
+    "Lokacinka ya kusa isa",
+    "Sirrin ƙoƙari na bayyana da lokaci",
+    "Rana ba ta manta mai aiki",
+    "Akwai hanya a duk inda akwai niyya",
+    "Mai tafiya da kyau, duniya na buɗe masa hanya",
+    "Gamsuwa tana ƙara arzikin da ake da shi",
+    "Barka da mai jira, domin abin da ake jira yana da kyau",
+    "Ƙarar da ka ji tana ƙara maka hikima",
+    "Kyau ba ya ɓacewa, yana da waƙinsa",
+    "Ƙafarka na neman ƙasa mai kyau",
+    "Hankali na bayyana a lokacin da ake bukata",
+    "Haskenka na cancantar ya haske",
+    "Mai kyau zai ci kyau a lokacinsa",
+    "Raba abinci da ɗan'uwa, arzikin zuciya zai ƙaru",
+    "Ƙoƙari ƙadan a kullum na gina babban abu",
+    "Ƙwai ɗaya yana ɗauke da daruruwan itace",
+    "Ƙarfinka na fitowa daga cikin kai",
+    "Murna tana buɗe ƙofar farin ciki",
+    "Duk abin da ake nema da haƙuri yana da dadi",
+    "Albarka tana sauka a kan masu aiki",
+    "Ka ba da lokaci, kuma sakamako zai zo",
+    "Duniya tana amsa wa mai ƙoƙari",
+    "Ƙarar gaskiya tana kaiwa nesa",
+    "Ƙauna ba ta sanin komawa baya",
+    "Sabuwar hanya tana ɗauke da kyauta",
+    "Akwai albarka a ƙananan abubuwa",
+    "Rana tana gani, kuma tana daɗe wa mai kyau",
+    "Idan ka ba da kai ga kyau, kyau zai nemo ka",
+    "Abokin kai zai zama girman kai",
+    "Ƙarar da ka ba ɗan adam, tana komawa maka waƙa",
+    "Yawan kyau, yawan abota",
+    "Ƙafarka sun kai mataki na gaba",
+    "Alheri na bin mai shuka",
+    "Ƙarfinka ya fi yadda kake gani",
+    "Akwai alheri a duk sabuwar rana",
+    "Kai ne hasken cikin gidanka"
+  ],
+  "closings": [
+    "Allah Ya ba ka rana mai kyau",
+    "Albarka ta bi ka a kowane mataki",
+    "Zuciyarka ta yi cikin laushi",
+    "Gobe ta fi yau kyau",
+    "Allah Ya kiyaye hanyarka",
+    "Ka ci gaba da haskawa",
+    "Barka da ka a inda ka je",
+    "Rana ta haska a kai kullum",
+    "Alheri ya cika gidanka",
+    "Ka kasance cikin lafiya da farin ciki",
+    "Allah Ya buɗe maka kofofin kyau",
+    "Sa'a ta kyau ta kasance naka",
+    "Barka da naka da duk abin da kake da shi",
+    "Allah Ya ba ka ƙarfi da nutsuwa",
+    "Hasken rana ya tashi a kai",
+    "Duk mafarkanka su zama gaskiya",
+    "Allah Ya yi maka kyau a duniya",
+    "Ka kasance kamar tauraro mai haske",
+    "Barka ta sauka a kai",
+    "Allah Ya ba ka rana mai albarka",
+    "Zuciyarka ta yi cikin nutsuwa",
+    "Kyau ta nemo ka a kowane gefe",
+    "Allah Ya kiyaye masu ka",
+    "Ƙafarka ba za su gaji ba a hanyar kyau",
+    "Barka da yau, kuma barka da gobe",
+    "Allah Ya ba ka haske a zuciyarka",
+    "Ka zauna da alheri a inda ka zauna",
+    "Rana da wata su hargitse maka kyau",
+    "Abin da kake fatan, lokacinsa na kusa",
+    "Allah Ya ba ka alheri da lafiya",
+    "Rana ta wuke ka da haske",
+    "Ka rika da murmushi",
+    "Mafarkanka su tashi kamar tsuntsaye",
+    "Ƙauna ta rufe ka kamar riga"
+  ]
+}

@@ -1,0 +1,349 @@
+{
+  "locale": "tr",
+  "punct": { "join": ". ", "end": "." },
+  "core": [
+    {
+      "c": "luck",
+      "t": "Bugün kapını çalan küçük bir şans, uzun süredir beklediğin haberi getiriyor"
+    },
+    {
+      "c": "luck",
+      "t": "Niyetin temiz, yolun açık; bugün tesadüf dediklerin senin için çalışıyor"
+    },
+    { "c": "luck", "t": "Doğru zamanda doğru yerde olacaksın; gözlerini açık tut" },
+    { "c": "luck", "t": "Beklenmedik bir karşılaşma, haftalardır aradığın cevabı eline verecek" },
+    { "c": "luck", "t": "Şans, hazırlıklı zihnin dostudur; sen bugün ikisini de hak ediyorsun" },
+    { "c": "luck", "t": "Attığın küçük bir adım, bugün sana katlanarak dönecek" },
+    {
+      "c": "luck",
+      "t": "Bugün bir yerden sana gülümseyen bir kapı açılacak; içeride cesaretin hazır"
+    },
+    { "c": "luck", "t": "Talihin güleç yüzü, sabrının ödülünü tam zamanında teslim ediyor" },
+    { "c": "luck", "t": "Kaçırdığını sandığın fırsat, yarın farklı bir isimle geri geliyor" },
+    { "c": "luck", "t": "Bugün atacağın imza, yarınki güzel günlerin habercisi olacak" },
+    { "c": "hope", "t": "Yeni bir sayfa açılıyor ve kalem senin elinde" },
+    { "c": "hope", "t": "Umut, sabahın ilk ışığı gibi her gün yeniden doğuyor" },
+    { "c": "hope", "t": "Sabırla bekleyen tohum, baharın sözünü mutlaka tutar" },
+    { "c": "hope", "t": "Yarına dair inancın, bugün attığın adımlara güç veriyor" },
+    { "c": "hope", "t": "Yeni başlangıçlar takvim beklemez; bugün senin günün olabilir" },
+    { "c": "hope", "t": "İçindeki umut, taşın arasından çıkan yeşil filiz gibi dirençli" },
+    { "c": "hope", "t": "Bugün ekilen bir iyi niyet, yarın sana gölgede serinlik olacak" },
+    { "c": "hope", "t": "Her akşamın ardından gelen sabah, sana yeni bir fırsatın sözüdür" },
+    { "c": "hope", "t": "Umutlarını yüksek tut; uzaktan görünen ışık yaklaştıkça büyüyor" },
+    { "c": "hope", "t": "Kalbinin inandığı şey, yolun sonunda çoktan seni bekliyor" },
+    { "c": "love", "t": "Birinin hayatında iz bırakan sıcaklığın, bugün sana katlanarak dönüyor" },
+    {
+      "c": "love",
+      "t": "Sevdiğin insanlara bugün söyleyeceğin güzel bir söz, uzun yıllar hatırlanacak"
+    },
+    {
+      "c": "love",
+      "t": "Dostluk, paylaştıkça büyüyen tek hazinedir; bugün birini zengin edeceksin"
+    },
+    { "c": "love", "t": "Kalbinden geçen iyilik, bugün sana bir tebessüm olarak geri dönecek" },
+    {
+      "c": "love",
+      "t": "Bir arkadaşının aklına sen düştün; kısa bir mesaj onun gününü güzelleştirecek"
+    },
+    {
+      "c": "love",
+      "t": "Sevgi, bölüşüldükçe azalmayan tek ışık; senin paylaştığın gün doğumu yayılıyor"
+    },
+    {
+      "c": "love",
+      "t": "Bugün birinin yüzündeki çizgileri yumuşatan sensin; bunu sakın küçümseme"
+    },
+    { "c": "love", "t": "Küçük bir jest, büyük bir kalbin anahtarıdır; bugün o anahtarı kullan" },
+    { "c": "love", "t": "Seni düşünen biri adını gülümseyerek anıyor; fark edeceksin" },
+    { "c": "love", "t": "Sevmek de bir cesaret işidir; sen bugün ikisini birden gösteriyorsun" },
+    { "c": "growth", "t": "Öğrendiğin her şey, yarına emanet ettiğin bir tohumdur" },
+    { "c": "growth", "t": "Dün yeni öğrendiğin bir iş bugün parmaklarının ucunda; işte büyüme bu" },
+    {
+      "c": "growth",
+      "t": "Kendi yolunu çiziyorsun; haritayı kalbin çiziyor, pusulan deneyimin oluyor"
+    },
+    {
+      "c": "growth",
+      "t": "Küçük adımlarının bugünkü kararlılığı, yarının güçlü insanını inşa ediyor"
+    },
+    {
+      "c": "growth",
+      "t": "Bir alışkanlığını daha güzelleştirdin; kendini geliştiren el en saygın eldir"
+    },
+    { "c": "growth", "t": "Bugün soracağın bir soru, aylardır kapalı duran bir kapıyı açacak" },
+    {
+      "c": "growth",
+      "t": "Potansiyelin olgunlaşan bir bahçe gibi; her mevsim biraz daha bereketli"
+    },
+    { "c": "growth", "t": "Kendine yaptığın yatırım, faiziyle dönen tek hazine" },
+    { "c": "growth", "t": "İlk kez bir şey denemek, zihnin genç kalmasının sırrı" },
+    { "c": "growth", "t": "Eşikte durduğun şey, içeride seni bekleyen büyümeyi müjdeliyor" },
+    {
+      "c": "abundance",
+      "t": "Emeğinin karşılığı, beklediğinden daha cömert bir şekilde kapını çalacak"
+    },
+    {
+      "c": "abundance",
+      "t": "Bolluk, paylaşmasını bilen ellerde çoğalır; senin ellerin bereketli"
+    },
+    { "c": "abundance", "t": "Bugün atılan tohumlar, hasat zamanı sepetini dolduracak" },
+    { "c": "abundance", "t": "Kazancın kadar gönlün de geniş; bugün ikisi birlikte gülüyor" },
+    { "c": "abundance", "t": "Sofranın bereketi, bugün beklenmedik bir misafirle artacak" },
+    { "c": "abundance", "t": "Yaptığın işin değeri, bugün birinin dilinde övgüyle dolaşacak" },
+    {
+      "c": "abundance",
+      "t": "Nemli toprak çiçeği nasıl çoğaltırsa, senin emeğin de öyle çoğalıyor"
+    },
+    { "c": "abundance", "t": "Cömertliğin, önünden yürüyen bir kervan gibi sana yol açıyor" },
+    { "c": "abundance", "t": "Kısa bir süre sonra emeğinin meyvesini iki katı tadıyla yiyeceksin" },
+    {
+      "c": "abundance",
+      "t": "Bol kazançlı günler kapıda; sen hazır ol, gerisi kendiliğinden gelir"
+    },
+    { "c": "wisdom", "t": "İç sesin bugün doğruyu fısıldıyor; onu duyacağın bir an yarat" },
+    { "c": "wisdom", "t": "Sabırla verilecek bir karar, bin aceleci adıma bedel" },
+    { "c": "wisdom", "t": "Deneyimin, bugün sana yol gösteren görünmez bir rehber" },
+    { "c": "wisdom", "t": "Doğru soruyu sordun bile; cevap yarın çantanın içinde çıkacak" },
+    { "c": "wisdom", "t": "Bazen en bilge cevap sessizliktir; bugün onu da bir cevap say" },
+    { "c": "wisdom", "t": "Okuduğun her satır, karşına çıkan bir düğümü çözmene yardım edecek" },
+    { "c": "wisdom", "t": "Sezgilerin keskin; bugün kalbinin evet dediğine güven" },
+    {
+      "c": "wisdom",
+      "t": "Bir büyüğünün sözünü hatırlatacak bir olay yaşayacaksın ve işin özünü göreceksin"
+    },
+    { "c": "wisdom", "t": "Karmaşık görünen bir mesele, bu akşam zihninde sadeleşecek" },
+    {
+      "c": "wisdom",
+      "t": "Bilgi paylaşınca azalmaz; bugün anlatacağın bir şey birinin yolunu aydınlatacak"
+    },
+    { "c": "courage", "t": "Bugün sesini yükseltmen gereken bir an var; sözün altın değerinde" },
+    {
+      "c": "courage",
+      "t": "Cesaret, tam hazır hissetmeden atılan o güzel adımdır; sen bugün atacaksın"
+    },
+    { "c": "courage", "t": "Uzun süredir ertelediğin o iş, bugün kendiliğinden yoluna girecek" },
+    { "c": "courage", "t": "Bir hayalin peşine düştün; önündeki yol birer birer açılıyor" },
+    { "c": "courage", "t": "Bugün birinin senin cesaretine ihtiyacı var; örnek olacaksın" },
+    { "c": "courage", "t": "Kalbin yap diyor; geri kalanını ustalığın halledecek" },
+    { "c": "courage", "t": "Zor işler, senin kadar cesur birini bekliyordu; bugün buluşuyorsunuz" },
+    {
+      "c": "courage",
+      "t": "Bugün alacağın bir risk, yarın gururla anlatacağın hikâyene dönüşecek"
+    },
+    {
+      "c": "courage",
+      "t": "Kendi doğrunu savunacağın bir gün geliyor; arkanda rüzgâr, yanında aklın var"
+    },
+    {
+      "c": "courage",
+      "t": "Bir kapıyı ilk kez sen açacaksın; sonrasında içeride seni kutlayanlar olacak"
+    },
+    { "c": "joy", "t": "Bugün kahkahan en güzel haliyle kapını çalacak; kapıyı aç" },
+    { "c": "joy", "t": "Küçük bir sürpriz, gününün ortasına güneş gibi oturacak" },
+    { "c": "joy", "t": "Sevdiğin bir şarkı, tam da ihtiyacın olan anda karşına çıkacak" },
+    { "c": "joy", "t": "Bugün minnettarlıkla baktığın her şey, iki katı neşeyle geri dönecek" },
+    { "c": "joy", "t": "Bir çocuk gülümsemesi, senin de gününü aydınlatacak" },
+    {
+      "c": "joy",
+      "t": "İçindeki neşe, taşırmaya hazır bir çeşme gibi; bugün etrafını serinletiyor"
+    },
+    { "c": "joy", "t": "Tatlı bir haber, çayının buharı gibi sıcak bir şekilde eline ulaşacak" },
+    { "c": "joy", "t": "Bugün yaptığın bir şey, saatler sonra bile seni güldürecek" },
+    { "c": "joy", "t": "Nerede olursan ol, bugün güzel bir tesadüf yoluna çıkacak" },
+    { "c": "joy", "t": "Gülüşün bugün bulaşıcı; yanından geçen herkes biraz daha mutlu olacak" },
+    {
+      "c": "resilience",
+      "t": "Zorlu virajları yumuşak geçtin; önünde düz ve aydınlık bir yol var"
+    },
+    {
+      "c": "resilience",
+      "t": "Yılların öğrettiği dayanıklılık, bugün omuzlarında görünmez bir zırh"
+    },
+    { "c": "resilience", "t": "Kök salan bir ağaçsın; rüzgâr bugün senin gücünü alkışlıyor" },
+    { "c": "resilience", "t": "Sabrının her katmanı, yarınki başarının sağlam bir tuğlası" },
+    { "c": "resilience", "t": "Sabrı seçtin; bugün onun tatlı meyvesini yiyeceksin" },
+    {
+      "c": "resilience",
+      "t": "Bu hafta gösterdiğin metanet, yıllar sonra anlatacağın destanın ilk satırı"
+    },
+    { "c": "resilience", "t": "Aradığın huzur, sabrının ötesinde, tam da emek verdiğin yerde" },
+    { "c": "resilience", "t": "Adım adım ilerliyorsun; yavaş da olsa her adım seni yükseltiyor" },
+    {
+      "c": "resilience",
+      "t": "İçindeki güç sandığından daha geniş; bugün bir kez daha kanıtlayacaksın"
+    },
+    { "c": "resilience", "t": "Gökyüzü bugün senin için gökkuşağı çiziyor; başını kaldır ve gör" },
+    { "c": "adventure", "t": "Yeni bir rota, bugün haritanın kenarından sana göz kırpıyor" },
+    {
+      "c": "adventure",
+      "t": "Bir yolculuk çağrısı beklenmedik bir yerden gelecek; içinizden gelen sesi dinle"
+    },
+    {
+      "c": "adventure",
+      "t": "Bugün keşfedeceğin bir köşe, uzun süre aklından çıkmayacak güzellikte"
+    },
+    {
+      "c": "adventure",
+      "t": "Alışılmışın dışına çıkmak sana iyi gelecek; yarın için çantayı hazırla"
+    },
+    { "c": "adventure", "t": "Yabancı bir sokak, bugün sana tanıdık bir mutluluk gösterecek" },
+    { "c": "adventure", "t": "Bir macera, cesur olanı değil, bugün kapıdan çıkan seni bekliyor" },
+    { "c": "adventure", "t": "Haritada işaretlediğin yer, bu kez gerçekten karşına çıkacak" },
+    { "c": "adventure", "t": "Bugün kuracağın bir plan, ay sonunda tatlı bir hatıraya dönüşecek" },
+    { "c": "adventure", "t": "Rüzgâr bugün arkandan esiyor; yelkenlerini senin keyfin şişirsin" },
+    { "c": "adventure", "t": "Uzak değil, yakın bir yerde yepyeni bir dünya seni bekliyor" },
+    { "c": "community", "t": "Birlikte gülmenin gücü, bugün seni bir adım öne taşıyacak" },
+    {
+      "c": "community",
+      "t": "Komşunun aklında senin güzel bir alışkanlığın var; bugün ondan söz edilecek"
+    },
+    { "c": "community", "t": "Elini uzattığın her sofraya bereket, her gönüle huzur geliyor" },
+    { "c": "community", "t": "Bugün bir topluluk seni arayacak; varlığın onlara iyi gelecek" },
+    { "c": "community", "t": "Paylaştığın bilgi, bugün birinin hayatında güzel bir kapı açacak" },
+    { "c": "community", "t": "Yardımlaşmanın sıcaklığı, bugün senin de kapından içeri girecek" },
+    {
+      "c": "community",
+      "t": "Birlikte atılan adım, her zaman tek başına atılandan daha uzağa gider"
+    },
+    { "c": "community", "t": "Gülümsemen bugün bir mahalleyi ısıtacak kadar değerli; cömert ol" },
+    { "c": "community", "t": "Seni tanıyanlar bugün bir araya gelip seni güzel anacak" },
+    {
+      "c": "community",
+      "t": "Bir iyilik halkası bugün sana kadar döndü; halkaya bir halka daha ekle"
+    },
+    { "c": "peace", "t": "Bu akşam üzerine inecek huzur, haftalardır hak ettiğin bir dinlenme" },
+    { "c": "peace", "t": "Zihnin bugün berrak bir göl gibi; her düşünce yerine oturuyor" },
+    { "c": "peace", "t": "Yavaşla; güzellikler adımlarını yavaşlatanları ödüllendiriyor" },
+    { "c": "peace", "t": "İç dengeni bulduğun bir gün geliyor; bugün onun habercisi" },
+    { "c": "peace", "t": "Sakin bir nefes, bugün en bilge rehberin olacak" },
+    { "c": "peace", "t": "Akşam çayının buharında, günün yorgunluğuna veda ettiren bir huzur var" },
+    { "c": "peace", "t": "Düşüncelerinin bugünkü yolculuğu, seni dingin bir limanda ağırlayacak" },
+    { "c": "peace", "t": "Uyum içinde kurulan cümleler, bugün kapını iki kere çalacak" },
+    { "c": "peace", "t": "Doğada geçireceğin yarım saat, iç dünyanda bir bahar açtıracak" },
+    { "c": "peace", "t": "Huzur uzakta değil; bugün elinin altındaki bir anda saklı" }
+  ],
+  "openings": [
+    "Bugün güzel bir gün olacak",
+    "Sabahın ilk ışıkları senin için doğuyor",
+    "Takvim senin lehine değişiyor",
+    "Gökyüzü bugün senin hizanda dizilmiş yıldızlarla dolu",
+    "Kapını çalan bir sürpriz var",
+    "Rüzgâr bugün senin yönünde esiyor",
+    "Yeni bir sayfa aralanıyor",
+    "Bugün atan kalbin ritmi doğru",
+    "Uzaklardan bir mutluluk yola çıktı",
+    "Bugün atacağın her adım yere sağlam basacak",
+    "İçindeki ses bugün doğruyu söylüyor",
+    "Şans bugün senin masanda oturuyor",
+    "Her şey senin lehine şekilleniyor",
+    "Bugün bir iyilik toprağa düşüyor",
+    "Gözünü bugüne aç; güzel şeyler geliyor",
+    "Bir sabah kahvesinin sıcaklığı kadar yakın bir mutluluk var",
+    "Bugün senin için yazılmış satırlar var",
+    "Yolun bugün açık, adımların kararlı",
+    "Kalbin bugün isabetli bir karar verecek",
+    "Bugün duyacağın bir söz gününü aydınlatacak",
+    "Hayat bugün sana cömert davranacak",
+    "Bugün küçük bir mucize, sıradan bir kılıkla geziniyor",
+    "Sabrının karşılığı bugün bir postacı gibi kapında",
+    "Bu hafta, ayın en güzel haftası olacak",
+    "Geçmişin yükü bugün omuzlarından kalkıyor",
+    "Yeni bir dönem başlıyor ve sen hazırsın",
+    "Bugün senin emeğine gülümseyen bir gün",
+    "İçindeki neşe bugün taşma noktasında",
+    "Bugün bir kapı yalnızca senin için aralık",
+    "Güneş bugün omzuna sıcak bir el koyuyor",
+    "Bugün tesadüfler senin dostun",
+    "Yarına bırakılan güzel bir haber bugün yolda",
+    "Şehir bugün sana birkaç güzel köşe ayırdı",
+    "Bugün dilindeki söz, kalbindeki güzellikle buluşacak",
+    "Zamanlama bugün senin lehine çalışıyor",
+    "Bir dostun tebessümü bugün yolunu kesecek",
+    "Bugün ektiğin iyi niyetler filizleniyor",
+    "Gönlün bugün ferah, ufkun geniş",
+    "Bugün başlayacak bir şey seni uzun süre gülümsetecek",
+    "İçinde taşıdığın umut bugün karşılık buluyor"
+  ],
+  "themes": [
+    "Sabırla attığın adımlar bugün meyve veriyor",
+    "Emeğinin karşılığı beklediğinden büyük olacak",
+    "Bir iyilik yaptın, bugün sana geri dönüyor",
+    "Doğru zamanda doğru sözün gücü sende",
+    "Cömertliğin önünde yürüyüp sana yol açıyor",
+    "Sezgilerin bugün pusulan gibi çalışıyor",
+    "Küçük bir jest bugün büyük bir kapı açacak",
+    "Öğrendiklerin, karşına çıkan düğümleri çözüyor",
+    "Paylaştıkça çoğalan bereket seninle",
+    "Birinin duası bugün seninle",
+    "Kalabalığın içinde bir tebessüm seni bulacak",
+    "Kararların bugün berrak bir su gibi duru",
+    "Yeni edindiğin bir alışkanlık yarınlarının temelini atıyor",
+    "Bugün atılan imzalar yarınların rahatlığı",
+    "İç huzurun bugün en büyük servetin",
+    "Merakın seni yeni ufuklara taşıyor",
+    "Bir sözün bugün birinin gününü kurtaracak",
+    "Kazanımların sessiz ama emin adımlarla geliyor",
+    "Kalbinin sesine kulak verdiğin bir dönemdesin",
+    "Bugün kurulan güzel bir dostluk uzun soluklu olacak",
+    "Elinin emeği, gözünün nuru bugün konuşulacak",
+    "Bir fırsat, kılık değiştirip kapını yokluyor",
+    "Gelecek, bugün attığın tohumlarla güzel",
+    "Yaptığın yardımlar bir yerde titizlikle not ediliyor",
+    "Sabahın bereketi bugün işine değiyor",
+    "Bir anın kıymetini bilmek bugünkü süper gücün",
+    "Kendi kendine yeten yanın bugün daha da güçleniyor",
+    "Geçmişin dersleri bugünün rehberi oldu",
+    "Umutların birer birer gerçeğe dönüşüyor",
+    "Bir sofrada paylaşılacak mutluluk seni bekliyor",
+    "Doğallığın bugün herkesin hoşuna gidiyor",
+    "Azmin, akan su gibi mutlaka yolunu buluyor",
+    "Bugün vereceğin bir karar, yarınki huzurun anahtarı",
+    "Niyetin güzel, akıbetin de güzel olacak",
+    "Bir teşekkür, bugün beklediğinden uzakta yankılanacak",
+    "İçindeki çocuk bugün oyunbaz bir fikir fısıldıyor",
+    "Uzun bir aradan sonra güzel bir haber kapını aşındırıyor",
+    "Yaratıcılığın bugün en verimli çağında",
+    "Alçakgönüllülüğün seni gözlerde daha da büyütüyor",
+    "Bir adımın bugün yüz adım değerinde",
+    "Gönlünü açtığın yerler bugün seni bereketle karşılıyor",
+    "Güzel günlerin haberi bugün kanatlanıp uçuyor",
+    "Emek veren ellerin bugün övgünün en güzeline layık",
+    "Bugün başlayacak bir iyilik, ay sonunda sofrana dönecek"
+  ],
+  "closings": [
+    "Günün aydınlık olsun",
+    "Yolun açık, bahtın parlak olsun",
+    "Adımların bereketle dolsun",
+    "Kalbin huzurla dolsun",
+    "Bugün sana gülümseyen bir gün olsun",
+    "Neşe peşini bırakmasın",
+    "Yüreğin ferah, sofran kalabalık olsun",
+    "Güzellikler seni bulsun",
+    "Şansın bol, ufkun geniş olsun",
+    "İyilikler seninle olsun",
+    "Bugünün yarınlarına güzel izler bıraksın",
+    "Hayırlı ve güzel bir gün senin olsun",
+    "Mutluluk alışkanlığın olsun",
+    "Gülüşün hiç eksik olmasın",
+    "Rüzgâr hep arkandan essin",
+    "Yollar gül, sofran bal olsun",
+    "Daima umut senin yoldaşın olsun",
+    "Emeklerinin tadını çıkar",
+    "Keyifli bir gün seni bekliyor",
+    "İçindeki ışık hep parlak kalsın",
+    "Bolluk ve huzur el ele seninle yürüsün",
+    "Bugün hatırlanmaya değer güzel bir gün olsun",
+    "Gönlün nasıl istiyorsa öyle olsun",
+    "Şans kuşu bugün omzuna konsun",
+    "Güneş yüzünü hep ısıtsın",
+    "Her kapı sana güzel şeyler açsın",
+    "Sabrının mükâfatını bugün gör",
+    "Mutluluk seninle kol kola yürüsün",
+    "İyi ki varsın, bugün de güzelsin",
+    "Paylaştığın sevgi sana katlanarak dönsün",
+    "Adım adım güzel günlere",
+    "Bugün senin günün, keyfini çıkar",
+    "Umutların çiçek açsın",
+    "Bahtın yıldızlar gibi parlasın"
+  ]
+}

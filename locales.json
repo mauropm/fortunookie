@@ -1,0 +1,86 @@
+[
+  { "locale": "en", "flag": "🇺🇸", "nativeName": "English", "englishName": "English", "dir": "ltr" },
+  { "locale": "es", "flag": "🇲🇽", "nativeName": "Español", "englishName": "Spanish", "dir": "ltr" },
+  {
+    "locale": "zh",
+    "flag": "🇨🇳",
+    "nativeName": "中文",
+    "englishName": "Mandarin Chinese",
+    "dir": "ltr"
+  },
+  { "locale": "hi", "flag": "🇮🇳", "nativeName": "हिन्दी", "englishName": "Hindi", "dir": "ltr" },
+  { "locale": "ar", "flag": "🇸🇦", "nativeName": "العربية", "englishName": "Arabic", "dir": "rtl" },
+  { "locale": "fr", "flag": "🇫🇷", "nativeName": "Français", "englishName": "French", "dir": "ltr" },
+  {
+    "locale": "pt",
+    "flag": "🇧🇷",
+    "nativeName": "Português",
+    "englishName": "Portuguese",
+    "dir": "ltr"
+  },
+  { "locale": "bn", "flag": "🇧🇩", "nativeName": "বাংলা", "englishName": "Bengali", "dir": "ltr" },
+  { "locale": "ru", "flag": "🇷🇺", "nativeName": "Русский", "englishName": "Russian", "dir": "ltr" },
+  {
+    "locale": "id",
+    "flag": "🇮🇩",
+    "nativeName": "Bahasa Indonesia",
+    "englishName": "Indonesian",
+    "dir": "ltr"
+  },
+  { "locale": "ur", "flag": "🇵🇰", "nativeName": "اردو", "englishName": "Urdu", "dir": "rtl" },
+  { "locale": "de", "flag": "🇩🇪", "nativeName": "Deutsch", "englishName": "German", "dir": "ltr" },
+  { "locale": "ja", "flag": "🇯🇵", "nativeName": "日本語", "englishName": "Japanese", "dir": "ltr" },
+  {
+    "locale": "pcm",
+    "flag": "🇳🇬",
+    "nativeName": "Naijá (Pidgin)",
+    "englishName": "Nigerian Pidgin",
+    "dir": "ltr"
+  },
+  { "locale": "mr", "flag": "🇮🇳", "nativeName": "मराठी", "englishName": "Marathi", "dir": "ltr" },
+  { "locale": "te", "flag": "🇮🇳", "nativeName": "తెలుగు", "englishName": "Telugu", "dir": "ltr" },
+  { "locale": "tr", "flag": "🇹🇷", "nativeName": "Türkçe", "englishName": "Turkish", "dir": "ltr" },
+  { "locale": "ta", "flag": "🇮🇳", "nativeName": "தமிழ்", "englishName": "Tamil", "dir": "ltr" },
+  {
+    "locale": "vi",
+    "flag": "🇻🇳",
+    "nativeName": "Tiếng Việt",
+    "englishName": "Vietnamese",
+    "dir": "ltr"
+  },
+  { "locale": "ko", "flag": "🇰🇷", "nativeName": "한국어", "englishName": "Korean", "dir": "ltr" },
+  {
+    "locale": "it",
+    "flag": "🇮🇹",
+    "nativeName": "Italiano",
+    "englishName": "Italian",
+    "dir": "ltr"
+  },
+  { "locale": "th", "flag": "🇹🇭", "nativeName": "ไทย", "englishName": "Thai", "dir": "ltr" },
+  { "locale": "fa", "flag": "🇮🇷", "nativeName": "فارسی", "englishName": "Persian", "dir": "rtl" },
+  {
+    "locale": "sw",
+    "flag": "🇹🇿",
+    "nativeName": "Kiswahili",
+    "englishName": "Swahili",
+    "dir": "ltr"
+  },
+  { "locale": "ha", "flag": "🇳🇬", "nativeName": "Hausa", "englishName": "Hausa", "dir": "ltr" },
+  { "locale": "yo", "flag": "🇳🇬", "nativeName": "Yorùbá", "englishName": "Yoruba", "dir": "ltr" },
+  {
+    "locale": "nl",
+    "flag": "🇳🇱",
+    "nativeName": "Nederlands",
+    "englishName": "Dutch",
+    "dir": "ltr"
+  },
+  { "locale": "pl", "flag": "🇵🇱", "nativeName": "Polski", "englishName": "Polish", "dir": "ltr" },
+  {
+    "locale": "fil",
+    "flag": "🇵🇭",
+    "nativeName": "Filipino",
+    "englishName": "Filipino",
+    "dir": "ltr"
+  },
+  { "locale": "he", "flag": "🇮🇱", "nativeName": "עברית", "englishName": "Hebrew", "dir": "rtl" }
+]

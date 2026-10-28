@@ -1,0 +1,415 @@
+{
+  "locale": "it",
+  "punct": { "join": ". ", "end": "." },
+  "core": [
+    { "c": "luck", "t": "Una porta che sembrava chiusa si aprirà al momento giusto" },
+    { "c": "luck", "t": "Il caso oggi sorride a chi agisce con il cuore leggero" },
+    { "c": "luck", "t": "Un incontro inatteso cambierà in meglio la tua settimana" },
+    { "c": "luck", "t": "La fortuna bussa anche alle porte più umili" },
+    { "c": "luck", "t": "Un piccolo gesto di oggi tornerà come una grande sorpresa" },
+    { "c": "luck", "t": "Oggi la sorte infila il biglietto giusto proprio nella tua tasca" },
+    { "c": "luck", "t": "Ciò che cercavi da tempo ti trova per primo" },
+    { "c": "luck", "t": "Un colpo di fortuna premierà la tua pazienza silenziosa" },
+    { "c": "luck", "t": "I dadi del destino oggi rotolano dalla tua parte" },
+    { "c": "luck", "t": "Le occasioni bussano forte, e oggi hai l'udito buono per sentirle" },
+    { "c": "hope", "t": "Dopo la notte più lunga l'alba porta sempre colori nuovi" },
+    { "c": "hope", "t": "Un seme di speranza piantato oggi diventerà un albero ombroso" },
+    { "c": "hope", "t": "Il meglio deve ancora arrivare, e sa già la strada per casa tua" },
+    { "c": "hope", "t": "Anche una fiammella piccola basta a riaccendere il cammino" },
+    { "c": "hope", "t": "Ogni alba è la promessa gentile di un nuovo inizio" },
+    { "c": "hope", "t": "Il futuro si sta già preparando per accoglierti a braccia aperte" },
+    {
+      "c": "hope",
+      "t": "Quando una strada sembra chiusa, il cuore ne intravede un'altra più luminosa"
+    },
+    { "c": "hope", "t": "Un pensiero sereno di stasera sarà la speranza di domani mattina" },
+    {
+      "c": "hope",
+      "t": "Nessuna attesa è vana: ciò che matura nel tempo arriva nel momento migliore"
+    },
+    { "c": "hope", "t": "Anche quest'anno ha in serbo un capitolo che ti farà brillare gli occhi" },
+    { "c": "love", "t": "Un abbraccio sincero vale più di mille parole" },
+    { "c": "love", "t": "L'affetto vero si riconosce dai piccoli gesti quotidiani" },
+    { "c": "love", "t": "Qualcuno sta pensando a te con un sorriso proprio in questo momento" },
+    { "c": "love", "t": "Regala un sorriso e lo vedrai tornare indietro moltiplicato" },
+    {
+      "c": "love",
+      "t": "Le amicizie più belle sono quelle che resistono alla distanza e al tempo"
+    },
+    { "c": "love", "t": "Chi ti vuole bene davvero festeggia i tuoi successi come fossero propri" },
+    {
+      "c": "love",
+      "t": "Una parola gentile detta oggi può scaldare un cuore per tutta la settimana"
+    },
+    { "c": "love", "t": "L'amore cresce dove c'è ascolto, rispetto e un buon caffè condiviso" },
+    { "c": "love", "t": "Coltiva i legami cari: il tempo insieme è un tesoro che si moltiplica" },
+    { "c": "love", "t": "La tua compagnia è un regalo che nessuno dimenticherà" },
+    { "c": "growth", "t": "Ogni passo piccolo è pur sempre un passo avanti" },
+    { "c": "growth", "t": "Un giorno alla volta stai crescendo verso la tua luce migliore" },
+    { "c": "growth", "t": "Imparare una cosa nuova ogni giorno trasforma la vita in un'avventura" },
+    {
+      "c": "growth",
+      "t": "Ciò che ieri ti sembrava difficile oggi ti sembra naturale: riconosci il tuo progresso"
+    },
+    {
+      "c": "growth",
+      "t": "Le radici profonde reggono i rami più alti, quindi continua a crescere con calma"
+    },
+    { "c": "growth", "t": "Una domanda onesta vale più di mille risposte date per abitudine" },
+    {
+      "c": "growth",
+      "t": "Coltiva i tuoi talenti come un giardiniere coltiva il suo orto, con cura e costanza"
+    },
+    {
+      "c": "growth",
+      "t": "Ogni libro letto e ogni conversazione sincera aggiunge un colore alla tua storia"
+    },
+    {
+      "c": "growth",
+      "t": "Ogni tua abitudine gentile sta costruendo, mattone su mattone, la persona che diventerai"
+    },
+    {
+      "c": "growth",
+      "t": "Pianta oggi un'idea nuova e lascia che il tempo la trasformi in un talento"
+    },
+    { "c": "abundance", "t": "L'abbondanza inizia dalla gratitudine per ciò che si ha già" },
+    { "c": "abundance", "t": "Il frutto del tuo lavoro sta maturando nella stagione giusta" },
+    { "c": "abundance", "t": "Mani aperte ricevono volentieri: oggi lascia che qualcuno ti aiuti" },
+    {
+      "c": "abundance",
+      "t": "La tavola della vita oggi è imbandita per te, quindi siediti senza fretta"
+    },
+    { "c": "abundance", "t": "Un progetto curato in silenzio darà i suoi frutti più dolci" },
+    { "c": "abundance", "t": "La prosperità ama chi lavora sodo e condivide con generosità" },
+    {
+      "c": "abundance",
+      "t": "Moltiplica ciò che hai offrendolo: è la matematica segreta del cuore"
+    },
+    {
+      "c": "abundance",
+      "t": "I giorni a venire porteranno raccolti più ricchi di quanto il cuore abbia osato immaginare"
+    },
+    {
+      "c": "abundance",
+      "t": "Ogni seme di lavoro ben fatto germoglia abbondanza nel momento opportuno"
+    },
+    {
+      "c": "abundance",
+      "t": "Chiedi con coraggio e ricevi con gratitudine: il flusso della vita non si ferma"
+    },
+    { "c": "wisdom", "t": "Il silenzio saggio spesso dice più di mille parole" },
+    { "c": "wisdom", "t": "Ascolta due volte e parla una: la chiarezza ti seguirà ovunque" },
+    { "c": "wisdom", "t": "La risposta che cerchi abita in una domanda fatta con calma" },
+    { "c": "wisdom", "t": "Chi impara da ogni incontro cammina più veloce di chi corre da solo" },
+    { "c": "wisdom", "t": "Un consiglio preso con calma vale più di una decisione presa di corsa" },
+    { "c": "wisdom", "t": "La memoria del cuore conserva solo ciò che merita di essere ricordato" },
+    {
+      "c": "wisdom",
+      "t": "Leggi tra le righe della giornata: le lezioni migliori sono scritte in piccolo"
+    },
+    {
+      "c": "wisdom",
+      "t": "La vera chiarezza arriva quando si guarda con gli occhi della gentilezza"
+    },
+    {
+      "c": "wisdom",
+      "t": "Scegli con il cuore e verifica con la ragione: raramente sbaglierai strada"
+    },
+    {
+      "c": "wisdom",
+      "t": "Chi conosce il proprio ritmo non si lascia confondere dal rumore degli altri"
+    },
+    {
+      "c": "courage",
+      "t": "Un cuore coraggioso non è quello che non trema, ma quello che avanza comunque"
+    },
+    { "c": "courage", "t": "Osare un passo oggi ti porterà più lontano di un anno di esitazioni" },
+    {
+      "c": "courage",
+      "t": "La grinta che hai messo nei giorni difficili ti aprirà le porte più belle"
+    },
+    {
+      "c": "courage",
+      "t": "Chiedi ciò che desideri: il mondo risponde più spesso di quanto pensi"
+    },
+    {
+      "c": "courage",
+      "t": "Le idee più grandi iniziano sempre come sussurri timidi, oggi dagli voce"
+    },
+    { "c": "courage", "t": "Alzati e prova: la prima volta è sempre l'inizio di ogni capolavoro" },
+    { "c": "courage", "t": "Il traguardo è molto più vicino dell'ultima salita che hai superato" },
+    {
+      "c": "courage",
+      "t": "Fidati di quell'idea che ti torna in mente spesso: potrebbe essere quella giusta"
+    },
+    { "c": "courage", "t": "Il coraggio è come un muscolo: più lo usi, più diventa forte" },
+    { "c": "courage", "t": "Oggi scegli la strada che ti fa battere il cuore un po' più forte" },
+    { "c": "joy", "t": "Una risata improvvisa è in arrivo: preparati a ridere di gusto" },
+    {
+      "c": "joy",
+      "t": "Il profumo del pane appena sfornato ricorda che le gioie semplici sono le più vere"
+    },
+    {
+      "c": "joy",
+      "t": "Ballare da soli in cucina è una forma di felicità ingiustamente sottovalutata"
+    },
+    {
+      "c": "joy",
+      "t": "Oggi conta le cose belle, anche le più minuscole: la felicità è un raccolto di briciole"
+    },
+    { "c": "joy", "t": "Un raggio di sole che entra dalla finestra oggi è tutto per te" },
+    {
+      "c": "joy",
+      "t": "La gioia cresce quando la condividi: racconta a qualcuno la tua notizia bella"
+    },
+    { "c": "joy", "t": "Regalati oggi un piccolo piacere senza un motivo speciale: te lo meriti" },
+    {
+      "c": "joy",
+      "t": "Le canzoni cantate a squarciagola in macchina moltiplicano la buona energia"
+    },
+    {
+      "c": "joy",
+      "t": "Prima di dormire ringrazia per una cosa bella di oggi: il sonno ne sarà più dolce"
+    },
+    { "c": "joy", "t": "Il sorriso di un bambino oggi ti ricorderà perché la vita è bella" },
+    {
+      "c": "resilience",
+      "t": "Sei più resistente di quanto le giornate storte ti abbiano raccontato"
+    },
+    {
+      "c": "resilience",
+      "t": "Ogni tempesta lascia dietro di sé terra più fertile per ricominciare"
+    },
+    { "c": "resilience", "t": "Rialzarsi con un sorriso è la vittoria più silenziosa e più bella" },
+    { "c": "resilience", "t": "Il cammino già percorso ti ha insegnato che sai arrivare lontano" },
+    { "c": "resilience", "t": "Dopo ogni salita ripida il panorama ripaga di ogni passo" },
+    { "c": "resilience", "t": "La calma con cui hai affrontato ieri è la forza di oggi" },
+    { "c": "resilience", "t": "Chiedere aiuto è una forma di forza, non una resa" },
+    {
+      "c": "resilience",
+      "t": "Nessuna stagione dura per sempre: anche la più fredda prepara la primavera"
+    },
+    {
+      "c": "resilience",
+      "t": "Hai trasformato in esperienza ogni ostacolo incontrato finora, continua così"
+    },
+    {
+      "c": "resilience",
+      "t": "Un respiro profondo, un passo nuovo: la tenacia è già nel tuo carattere"
+    },
+    { "c": "adventure", "t": "Una strada mai percorsa oggi può diventare il tuo posto del cuore" },
+    {
+      "c": "adventure",
+      "t": "La mappa del mondo è aperta e c'è una città che oggi ti chiama per nome"
+    },
+    {
+      "c": "adventure",
+      "t": "Prepara uno zaino leggero: la prossima avventura inizia dietro l'angolo"
+    },
+    {
+      "c": "adventure",
+      "t": "Un viaggio breve, anche solo fino alla stazione successiva, può rimettere in ordine i pensieri"
+    },
+    {
+      "c": "adventure",
+      "t": "Perdersi un po' in una città nuova è il modo migliore per trovarsi davvero"
+    },
+    {
+      "c": "adventure",
+      "t": "Ordina il piatto che non hai mai provato: la curiosità premia chi ha fame di vita"
+    },
+    {
+      "c": "adventure",
+      "t": "Parla con uno sconosciuto oggi: dietro un nome nuovo si nasconde spesso una storia straordinaria"
+    },
+    {
+      "c": "adventure",
+      "t": "Il treno delle occasioni parte spesso dalla stazione più vicina, sali senza esitare"
+    },
+    {
+      "c": "adventure",
+      "t": "Cambia strada per tornare a casa: scoprirai una bottega, un vicolo, una sorpresa"
+    },
+    {
+      "c": "adventure",
+      "t": "Mare o montagna poco importa: conta partire con lo spirito di chi scopre"
+    },
+    { "c": "community", "t": "Un vicino gentile può rendere un intero quartiere più casa" },
+    {
+      "c": "community",
+      "t": "La festa di piazza sa di pane, musica e appartenenza: partecipa anche tu"
+    },
+    {
+      "c": "community",
+      "t": "Condividere il pranzo con chi è solo moltiplica il sapore di ogni portata"
+    },
+    {
+      "c": "community",
+      "t": "Le mani che aiutano la comunità costruiscono il futuro più solido di tutti"
+    },
+    { "c": "community", "t": "Oggi qualcuno ricorderà per sempre il tuo gesto gentile" },
+    { "c": "community", "t": "Nessun dono è troppo piccolo quando arriva al momento giusto" },
+    {
+      "c": "community",
+      "t": "Insieme si va più lontano e soprattutto si ride di più lungo la strada"
+    },
+    {
+      "c": "community",
+      "t": "Apri la porta della tua casa e il mondo busserà volentieri anche alla tua"
+    },
+    {
+      "c": "community",
+      "t": "Alla tua squadra, al tuo quartiere, alla tua famiglia: oggi dici loro grazie ad alta voce"
+    },
+    { "c": "community", "t": "Il bene che semina una comunità fiorisce per generazioni intere" },
+    { "c": "peace", "t": "Respira piano: oggi il mondo può anche rallentare con te" },
+    {
+      "c": "peace",
+      "t": "Un angolo silenzioso e una tazza calda bastano a rimettere il mondo in equilibrio"
+    },
+    { "c": "peace", "t": "La quiete non è assenza di vita, è musica che suona al volume giusto" },
+    {
+      "c": "peace",
+      "t": "Lascia correre i pensieri come nuvole e resta seduto sul prato del presente"
+    },
+    {
+      "c": "peace",
+      "t": "Fai pace con i tuoi ritmi: la calma è una forma di rispetto verso te stesso"
+    },
+    {
+      "c": "peace",
+      "t": "Una passeggiata lenta sotto gli alberi aggiusta ciò che la fretta ha storto"
+    },
+    { "c": "peace", "t": "Il rumore degli altri non deve diventare il rumore della tua testa" },
+    { "c": "peace", "t": "Oggi scegli una cosa sola e falla con tutta la tua attenzione" },
+    { "c": "peace", "t": "La sera porta con sé il diritto al riposo e a un sogno sereno" },
+    {
+      "c": "peace",
+      "t": "Un tramonto guardato senza fretta è un regalo antico che la giornata fa all'animo"
+    }
+  ],
+  "openings": [
+    "Il sole di stamattina si è alzato pensando proprio a te",
+    "Oggi il destino ha preparato una sorpresa su misura per te",
+    "Il biscotto della fortuna si è aperto stamattina con un messaggio solo per te",
+    "C'è una buona notizia in viaggio verso di te e viaggia veloce",
+    "La giornata è iniziata bene e il meglio deve ancora venire",
+    "Proprio oggi la vita ha deciso di essere generosa con te",
+    "Il risveglio di stamattina porta con sé un'energia nuova",
+    "C'è un capitolo bello della tua storia pronto a essere scritto",
+    "Il vento stasera porta notizie gentili da lontano",
+    "Oggi è uno di quei giorni in cui le cose girano per il verso giusto",
+    "Una stella discreta veglia in silenzio sui tuoi progetti più cari",
+    "La fortuna ha un debole per le persone come te",
+    "Il mattino ha in serbo per te un'occasione che non ti aspetti",
+    "Tra poche ore racconterai a qualcuno quanto è andata bene",
+    "Il calendario di oggi segnala una data speciale: quella delle nuove occasioni",
+    "Le stelle si sono messe d'accordo: oggi è il tuo giorno",
+    "Un piccolo miracolo quotidiano sta per bussare alla tua porta",
+    "La sorte ha riposto la sua carta migliore proprio nel tuo mazzo",
+    "Oggi il coraggio sarà la tua chiave migliore",
+    "Questa piccola pergamena di carta porta un messaggio che ti riguarda da vicino",
+    "Chi semina gentilezza raccoglie sorprese meravigliose",
+    "Il meglio della giornata deve ancora arrivare, e potrebbe arrivare dalle tue mani",
+    "Un'onda di energia gentile sta attraversando la tua settimana",
+    "La vita sta organizzando, in silenzio, qualcosa di bello per te",
+    "Anche oggi c'è un motivo grande per sorridere e lo scoprirai entro sera",
+    "Il tempo gira dalla tua parte, come un fiume che torna finalmente al mare",
+    "Apri gli occhi con attenzione: il bello si nasconde nei dettagli di stamattina",
+    "La tua presenza rende migliore ogni stanza in cui entri, anche quella di oggi",
+    "Oggi le porte giuste tendono ad aprirsi al primo tocco",
+    "Una pagina luminosa del tuo cammino si sta girando in questo momento",
+    "Il cuore ti ha portato fin qui per un buon motivo",
+    "Un incontro felice è già scritto nel programma della giornata",
+    "La luce dorata di oggi illumina proprio ciò che stai cercando",
+    "Ogni piccolo inizio nasconde un grande passo",
+    "Le occasioni di oggi hanno il sapore del pane caldo e delle cose sincere",
+    "Il mondo ha preparato per te un palcoscenico gentile",
+    "Oggi è un buon giorno per iniziare ciò che rimandi da tempo",
+    "Una benedizione silenziosa accompagna i tuoi passi di questa settimana",
+    "La felicità passeggia vicino a casa tua e potrebbe bussare da un momento all'altro",
+    "Il viaggio più bello ricomincia sempre dal punto in cui ti trovi adesso"
+  ],
+  "themes": [
+    "La pazienza sta lavorando per te anche quando non vedi ancora i risultati",
+    "Un'idea semplice ma geniale è proprio dietro l'angolo",
+    "La gentilezza che hai regalato la scorsa settimana sta tornando indietro",
+    "Il lavoro fatto con cura parla da sé, prima ancora di essere presentato",
+    "Un'amicizia sincera è un tesoro che non teme il passare delle stagioni",
+    "Il momento giusto per quel progetto piccolo ma caro è più vicino di ieri",
+    "La curiosità è la bussola che non arrugginisce mai",
+    "Ciò che hai seminato in silenzio sta per mostrare i primi fiori",
+    "Un complimento sincero, fatto o ricevuto, può cambiare l'intera giornata",
+    "Il sorriso con cui hai salutato qualcuno ieri continua a fare il suo effetto",
+    "La costanza è il talento segreto di chi arriva lontano",
+    "Un aiuto inatteso renderà più leggera una faccenda che ti pesava",
+    "Le parole giuste arriveranno al momento giusto: lascia che il cuore le scelga",
+    "La gratitudine trasforma l'abbastanza in abbondanza",
+    "Un talento dimenticato nel cassetto sta aspettando solo di essere ripreso in mano",
+    "La fiducia data a una persona giusta torna sempre raddoppiata",
+    "Le domande giuste aprono porte che la fretta non vede nemmeno",
+    "Ogni gesto di rispetto verso gli altri torna indietro con gli interessi",
+    "Il riposo non ruba tempo al cammino: gliene regala",
+    "La creatività ti sorprenderà nel momento più ordinario della settimana",
+    "Una decisione presa con serenità porterà frutti che dureranno a lungo",
+    "La condivisione trasforma un pane solo in un banchetto per due",
+    "Il passo piccolo di oggi è l'inizio di un cammino memorabile",
+    "Ascoltare davvero qualcuno è uno dei regali più rari e preziosi",
+    "La memoria dei momenti belli è una riserva a cui attingere in ogni stagione",
+    "Il buonumore è contagioso e tu oggi sei il portatore più simpatico",
+    "Un tavolo apparecchiato per gli amici è già metà della felicità",
+    "Le radici della tua storia sono un buon punto di partenza per volare",
+    "La prudenza di ieri e l'audacia di oggi insieme fanno un'ottima squadra",
+    "Il tempo dedicato a chi ami non è mai tempo perso, è tempo seminato",
+    "Un errore accolto con serenità può essere il maestro più paziente della tua vita",
+    "La calma con cui procedi è la tua marcia in più",
+    "Ciò che rende unica la tua giornata sono le persone che la attraversano",
+    "Il merito di un'impresa è anche di chi ha applaudito in tribuna",
+    "Ogni porta chiusa finora stava solo indirizzandoti verso quella giusta",
+    "La lettura di un buon libro può accendere la lampadina che aspettavi",
+    "La sincerità detta con dolcezza apre cuori e scioglie grovigli",
+    "Un sogno coltivato con pazienza prima o poi bussa alla porta del reale",
+    "La tua storia, con ogni curva e ogni svolta, è una guida preziosa per altri",
+    "Un gesto di perdono verso te stesso alleggerisce il passo di tutta la settimana",
+    "Le piccole abitudini fedeli costruiscono le grandi vittorie silenziose",
+    "La pioggia di ieri è il verde di domani: ogni stagione contribuisce",
+    "Chiedere scusa quando serve rende più grandi, non più piccoli",
+    "L'entusiasmo che porti nelle cose semplici le trasforma in ricordi preziosi"
+  ],
+  "closings": [
+    "Che la giornata ti restituisca tutta la bellezza che le doni",
+    "Cammina leggero: la fortuna ti riconosce dal passo",
+    "Ti auguro un sorriso largo e un caffè perfetto",
+    "Che ogni porta a cui bussi oggi si apra senza esitazioni",
+    "Vai sereno: ciò che conta si sta già mettendo in moto",
+    "Possa la settimana che viene essere morbida come un cuscino appena scosso",
+    "Ricorda: sei già abbastanza, e in più stai migliorando",
+    "Porta con te questa buona notizia come un biglietto fortunato in tasca",
+    "Porta il sole di oggi nel taschino fino a domani mattina",
+    "Buona fortuna: te la sei guadagnata con la pazienza di questi mesi",
+    "Che il tuo cammino sia lastricato di incontri felici",
+    "Respira, sorridi e vai: oggi è dalla tua parte",
+    "Stasera ti aspettano risate facili e una dolce stanchezza felice",
+    "Che ogni piccolo passo di oggi ti porti dove il cuore desidera",
+    "La vita ti è amica, soprattutto quando non te lo aspetti",
+    "Che la tua tavola sia sempre piena e il tuo cuore ancora di più",
+    "Cammina a testa alta: il mondo nota chi sorride",
+    "Ogni sera ti accoglie un sonno sereno e un risveglio gentile",
+    "Fa' che questo pensiero ti illumini la giornata come una lanterna",
+    "Il meglio deve ancora venire e tu sei pronto ad accoglierlo",
+    "La fortuna ti segue come un'ombra fedele nelle giornate di sole",
+    "Ti auguro la calma delle domeniche pomeriggio e l'energia delle vacanze appena cominciate",
+    "Oggi il mondo tifa silenziosamente per te",
+    "La tua gentilezza tornerà a casa con le tasche piene di sorprese",
+    "Vivi oggi con la leggerezza di chi sa di essere nel posto giusto",
+    "Che la salute del corpo e dello spirito ti accompagni in ogni passo",
+    "Il sorriso che porti oggi ti aprirà più strade di quante ne conti",
+    "Che le tue idee trovino sempre qualcuno pronto ad applaudirle",
+    "Vai: oggi è il giorno in cui brilli di luce tua",
+    "Che la settimana ti tratti con la stessa cura con cui tratti gli altri",
+    "Ogni bene che desideri sta già imparando la strada per casa tua",
+    "Ti auguro giorni semplici e felicità vere",
+    "Ricorda questa sensazione: è l'inizio di qualcosa di bello",
+    "Che ogni domani ti trovi sveglio, curioso e grato"
+  ]
+}

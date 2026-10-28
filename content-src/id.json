@@ -1,0 +1,358 @@
+{
+  "locale": "id",
+  "punct": { "join": ". ", "end": "." },
+  "core": [
+    { "c": "luck", "t": "Rezeki hari ini sudah menunggumu di belokan yang tak kamu duga" },
+    { "c": "luck", "t": "Kebetulan kecil hari ini bisa jadi awal dari cerita besar" },
+    { "c": "luck", "t": "Undangan baik sedang mengetuk pintumu — buka dengan senyum" },
+    { "c": "luck", "t": "Kamu sedang berada di tempat yang tepat, pada waktu yang tepat" },
+    { "c": "luck", "t": "Hal yang kamu nantikan selangkah lebih dekat dari kirimu" },
+    { "c": "luck", "t": "Keberuntungan menyukai hati yang tetap ramah saat antrean panjang" },
+    { "c": "luck", "t": "Sebuah pintu terbuka hari ini hanya karena kamu berani mengetuknya" },
+    { "c": "luck", "t": "Tawaran yang sempat membuatmu ragu akhirnya berpihak kepadamu" },
+    { "c": "luck", "t": "Sambutan hangat datang dari arah yang paling tidak kamu perkirakan" },
+    { "c": "luck", "t": "Nomor undian yang kamu pegang hari ini membawa hoki sepanjang pekan" },
+    { "c": "hope", "t": "Setelah hujan paling deras, langit tetap menyimpan pelangi" },
+    { "c": "hope", "t": "Harapan kecil yang kamu rawat lebih kuat dari seribu kegalauan" },
+    { "c": "hope", "t": "Babak baru hidupmu dimulai dari satu keputusan sederhana hari ini" },
+    { "c": "hope", "t": "Fajar tidak pernah ingkar datang, begitu pula kebaikan yang menantimu" },
+    { "c": "hope", "t": "Mimpi yang kamu tulis diam-diam sedang mencari jalannya sendiri" },
+    { "c": "hope", "t": "Usaha tidak pernah mengkhianati hasil — teruskan langkahmu" },
+    { "c": "hope", "t": "Lilin kecil cukup untuk membuka jalan menuju hari yang lebih terang" },
+    { "c": "hope", "t": "Musim berganti, dan musimmu sedang menuju panen yang indah" },
+    { "c": "hope", "t": "Satu langkah kecil hari ini adalah harapan yang kamu kirim untuk besok" },
+    { "c": "hope", "t": "Besok masih menyimpan halaman kosong yang indah untuk kamu isi" },
+    { "c": "love", "t": "Ada seseorang yang tersenyum mengingat kebaikanmu hari ini" },
+    {
+      "c": "love",
+      "t": "Pelukanmu untuk orang tersayang akan diingat jauh lebih lama dari kata-katamu"
+    },
+    { "c": "love", "t": "Cinta tumbuh subur di hati yang berani menjadi diri sendiri" },
+    {
+      "c": "love",
+      "t": "Sambunglah kabar dengan sahabat lama — suaramu penawar rindu yang paling murah"
+    },
+    { "c": "love", "t": "Senyummu pagi ini menjadi alasan seseorang percaya bahwa hari ini indah" },
+    { "c": "love", "t": "Hati selalu tahu jalan menuju rumah tempat ia dicintai" },
+    {
+      "c": "love",
+      "t": "Kata manis yang kamu ucapkan hari ini akan dipeluk seseorang sepanjang malam"
+    },
+    {
+      "c": "love",
+      "t": "Orang-orang di sebelahmu jadi lebih baik saat kamu hadir — itu juga bentuk cinta"
+    },
+    { "c": "love", "t": "Ucapkan sayang sekarang, jangan nanti-nanti, karena hati suka kepastian" },
+    {
+      "c": "love",
+      "t": "Kamu dicintai apa adanya, bahkan pada hari kamu sulit mencintai dirimu sendiri"
+    },
+    { "c": "growth", "t": "Setiap langkah maju mengubah pemandangan hidupmu, meski terasa kecil" },
+    { "c": "growth", "t": "Yang kemarin terasa berat kini menjadi otot batinmu" },
+    {
+      "c": "growth",
+      "t": "Kamu tumbuh lebih cepat dari yang kamu sadari — tengoklah setahun ke belakang"
+    },
+    { "c": "growth", "t": "Bakat barumu bersembunyi di balik rasa ingin tahu hari ini" },
+    { "c": "growth", "t": "Pohon terkuat tumbuh di tepi jalan yang paling sering dilewati angin" },
+    { "c": "growth", "t": "Ajukan satu pertanyaan baru, dan jawaban lama akan menyegarkan diri" },
+    {
+      "c": "growth",
+      "t": "Rasa ingin tahu adalah kompas yang tidak pernah salah menunjukkan arah"
+    },
+    { "c": "growth", "t": "Coba, tersandung, bangkit, ulangi — begitu keterampilan bertumbuh" },
+    { "c": "growth", "t": "Hari ini kamu lebih bijak daripada kemarin, dan itu sudah kemenangan" },
+    { "c": "growth", "t": "Luruskan punggungmu: kamu sudah tumbuh melewati keraguan yang lama" },
+    {
+      "c": "abundance",
+      "t": "Rezeki tidak selalu datang dari jalan yang kamu rencanakan, tetapi selalu sampai"
+    },
+    {
+      "c": "abundance",
+      "t": "Nasi hangat, teman bicara, dan atap yang aman adalah kekayaan yang sering dilupakan"
+    },
+    { "c": "abundance", "t": "Pintu rezeki hari ini terbuka mengikuti irama langkahmu" },
+    { "c": "abundance", "t": "Berbagi tidak membuat tipis, justru membuat penuh" },
+    {
+      "c": "abundance",
+      "t": "Kerja kerasmu akan dilihat dan dihargai dengan cara yang menyenangkan"
+    },
+    { "c": "abundance", "t": "Piring penuh dimulai dari hati yang pandai bersyukur" },
+    { "c": "abundance", "t": "Hasil yang kamu simpan dengan sabar sedang berkembang diam-diam" },
+    {
+      "c": "abundance",
+      "t": "Musim panennya sudah ditulis sejak bulan-bulan kamu menolak berhenti"
+    },
+    { "c": "abundance", "t": "Izinkan dirimu menginginkan lebih — kamu layak mengejar yang baik" },
+    {
+      "c": "abundance",
+      "t": "Alasan untuk bersyukur hari ini lebih banyak daripada yang sempat kamu hitung"
+    },
+    { "c": "wisdom", "t": "Ketenangan hari ini berbicara lebih jelas daripada seribu nasihat" },
+    { "c": "wisdom", "t": "Percayalah pada suara lembut di dadamu yang tidak pernah tergesa-gesa" },
+    {
+      "c": "wisdom",
+      "t": "Bijak bukan tahu segalanya, melainkan tahu apa yang perlu disimpan di kepala"
+    },
+    {
+      "c": "wisdom",
+      "t": "Sebelum menjawab, biarkan pikiranmu matang seperti rendang yang dimasak pelan-pelan"
+    },
+    { "c": "wisdom", "t": "Pengalaman yang kamu kumpulkan akan menuntun keputusan hari ini" },
+    {
+      "c": "wisdom",
+      "t": "Tanyakan dahulu untuk apa, maka bagaimana akan menemukan jalannya sendiri"
+    },
+    { "c": "wisdom", "t": "Buah yang manis tidak pernah dipetik tergesa dari tangkainya" },
+    { "c": "wisdom", "t": "Kamu lebih paham situasinya daripada yang kamu kira" },
+    { "c": "wisdom", "t": "Percakapan singkat hari ini bisa menjawab soal yang dipendam lama" },
+    { "c": "wisdom", "t": "Menunda sejenak juga termasuk keputusan yang matang" },
+    { "c": "courage", "t": "Lakukan hari ini yang selama ini hanya kamu rencanakan dalam kepala" },
+    { "c": "courage", "t": "Suaramu layak didengar, jadi jangan dikecilkan" },
+    { "c": "courage", "t": "Berani berarti tetap melangkah ketika kaki ingin berdiam" },
+    { "c": "courage", "t": "Mulai dari satu goresan; rencana besar dilukis sedikit demi sedikit" },
+    {
+      "c": "courage",
+      "t": "Kamu lebih tangguh daripada yang kamu yakini, dan hari ini membuktikannya"
+    },
+    {
+      "c": "courage",
+      "t": "Angkat tanganmu lebih dulu — kesempatan sering jatuh ke tangan yang berani"
+    },
+    {
+      "c": "courage",
+      "t": "Mimpi seberat satu truk dinaikkan oleh satu keputusan kecil yang tulus"
+    },
+    {
+      "c": "courage",
+      "t": "Orang yang mendaki selalu melihat lebih jauh daripada yang diam di lembah"
+    },
+    { "c": "courage", "t": "Ambil risiko yang baik; dari sanalah cerita terbaikmu lahir" },
+    {
+      "c": "courage",
+      "t": "Nyatakan idemu; dunia sedang menunggu sudut pandang yang hanya kamu punya"
+    },
+    { "c": "joy", "t": "Aroma nasi baru dan kopi pagi adalah pesta kecil yang nyata" },
+    { "c": "joy", "t": "Bersenandanglah saat bekerja — nada yang tulus menarik hal menyenangkan" },
+    { "c": "joy", "t": "Tertawalah pada hal kecil; dari situlah bahagia besar dijahit" },
+    {
+      "c": "joy",
+      "t": "Hari ini pantas dirayakan tanpa alasan, misalnya dengan es teh di siang bolong"
+    },
+    { "c": "joy", "t": "Senyummu adalah aksesori paling mahal yang kamu pakai hari ini" },
+    { "c": "joy", "t": "Catat tiga hal yang menggembirakan hari ini dan baca ulang nanti malam" },
+    { "c": "joy", "t": "Bahagia tidak menunggu waktu luang; ia sudah di sini, di gelasmu" },
+    { "c": "joy", "t": "Peluk sebentar hal sederhana yang kamu sukai, tanpa buru-buru" },
+    {
+      "c": "joy",
+      "t": "Rayakan hasil kecilmu seperti kemenangan besar, karena memang begitu adanya"
+    },
+    { "c": "joy", "t": "Ambil sepotong kue ekstra hari ini dan nikmati tanpa rasa bersalah" },
+    {
+      "c": "resilience",
+      "t": "Kamu pernah melewati hari-hari berat dan berdiri lebih gagah — begitu pula sekarang"
+    },
+    { "c": "resilience", "t": "Sungai mengelilingi batu, tetapi tetap tiba di laut" },
+    { "c": "resilience", "t": "Rumput sesudah hujan tampak paling hijau" },
+    { "c": "resilience", "t": "Sayapmu lebih kuat daripada angin mana pun yang datang dari depan" },
+    { "c": "resilience", "t": "Jatuh, tarik napas, coba lagi; begitu cara sayap belajar" },
+    { "c": "resilience", "t": "Kemarau dan hujan sama-sama bergilir; musimmu akan berpihak" },
+    {
+      "c": "resilience",
+      "t": "Semua yang dulu kamu kira tak tertanggung sudah kamu tanggung dengan anggun"
+    },
+    {
+      "c": "resilience",
+      "t": "Teh manis, selimut hangat, dan kepalamu yang jernih adalah resep bangkit lagi"
+    },
+    {
+      "c": "resilience",
+      "t": "Nakhoda yang hebat lahir dari gelombang yang ia taklukkan berulang kali"
+    },
+    {
+      "c": "resilience",
+      "t": "Seperti embun pagi, kamu selalu punya alasan baru untuk muncul lagi"
+    },
+    { "c": "adventure", "t": "Cakrawala berkedip padamu sore ini, mengajak pergi" },
+    { "c": "adventure", "t": "Beli tiket ke kota yang belum pernah kamu datangi" },
+    {
+      "c": "adventure",
+      "t": "Beloklah ke gang yang belum pernah kamu lewati; cerita bagus hidup di sana"
+    },
+    { "c": "adventure", "t": "Ikuti jarum kompas rasa ingin tahu, ia sedang menunjuk ke sana" },
+    { "c": "adventure", "t": "Kopermu sudah separuh diisi keberanian, sisanya menyusul di jalan" },
+    { "c": "adventure", "t": "Daerah asing hanyalah teman yang belum kamu sapa" },
+    {
+      "c": "adventure",
+      "t": "Hari ini cocok untuk jalan tanpa peta dan menemukan sudut kota yang memesona"
+    },
+    {
+      "c": "adventure",
+      "t": "Pendakiannya memang menguras napas, tetapi pemandangan dari puncak membayar lunas"
+    },
+    {
+      "c": "adventure",
+      "t": "Kirim kartu pos untuk dirimu sendiri dari kota lain; menyenangkan berkiriman dengan diri sendiri"
+    },
+    { "c": "adventure", "t": "Dunia luas dan ramah — berjalanlah dan buktikan sendiri" },
+    { "c": "community", "t": "Satu sapaan tulus untuk tetangga bisa menghangatkan sekampung" },
+    {
+      "c": "community",
+      "t": "Kamu dibutuhkan orang-orang di sekitarmu — beri mereka tahu hari ini"
+    },
+    { "c": "community", "t": "Kalau dipikul bersama, segunung pun terasa seperti bukit" },
+    { "c": "community", "t": "Bagikan makanan, ilmu, atau tawa; membagi adalah cara menggandakan" },
+    { "c": "community", "t": "Tawamu hari ini merekatkan satu meja penuh" },
+    { "c": "community", "t": "Bantu beban kecil seseorang; baginya, kamu pahlawan besar" },
+    {
+      "c": "community",
+      "t": "Orang-orang yang datang ke hidupmu juga bagian dari takdir yang baik"
+    },
+    { "c": "community", "t": "Ucapkan terima kasih kepada mereka yang selama ini menopangmu" },
+    { "c": "community", "t": "Rumah adalah tempat di mana teh selalu diseduhkan untukmu" },
+    {
+      "c": "community",
+      "t": "Kumpulkan orang-orangmu; cerita bersama lebih kaya daripada peti harta"
+    },
+    { "c": "peace", "t": "Hembuskan napas; dunia tetap rapi selagi kamu menuang teh" },
+    { "c": "peace", "t": "Kamu berhak atas pagi yang lambat dan sunyi yang manis" },
+    { "c": "peace", "t": "Letakkan ponsel dengan layar ke bawah dan dengarkan hujan" },
+    { "c": "peace", "t": "Harmoni lahir dari satu keputusan tenang hari ini" },
+    {
+      "c": "peace",
+      "t": "Jalan kaki tanpa tujuan adalah cara paling menenangkan untuk berdamai dengan hari yang tergesa"
+    },
+    { "c": "peace", "t": "Secangkir teh dan satu buku bagus sudah setara liburan panjang" },
+    {
+      "c": "peace",
+      "t": "Detak jam hari ini sedang berjalan santai; kamu tidak tertinggal apa pun"
+    },
+    { "c": "peace", "t": "Tenang bukan berarti tanpa pekerjaan, melainkan tanpa rasa diburu-buru" },
+    { "c": "peace", "t": "Elus kucingmu, jemur wajahmu ke matahari; semesta sedang memelukmu" },
+    { "c": "peace", "t": "Maafkan hal kecil dan tidur cukup — begitulah pagi yang ringan dimulai" }
+  ],
+  "openings": [
+    "Hari ini langit sudah memilih warna favoritmu",
+    "Awal yang baik sudah menyala, tinggal kamu menyambungnya",
+    "Alam sedang berbisik ramah untukmu hari ini",
+    "Langkah pertamamu hari ini sudah dihitung sebagai keberanian",
+    "Rezeki hari ini memakai sepatu lari dan sedang mengejarmu",
+    "Hal-hal baik sedang menyusun antrean di depan pintumu",
+    "Kamu membuka hari dengan energi yang tepat",
+    "Semesta sedang membaca ulang daftar mimpimu dan memberi centang",
+    "Udara pagi ini membawa kabar yang menyenangkan",
+    "Waktu terbaik untuk memulai adalah sepuluh menit lagi — siapkan kopi",
+    "Sinyalnya jelas: lanjutkan, jangan mundur",
+    "Hari ini bukan hari biasa; ia membawa satu hadiah kecil untukmu",
+    "Kunci yang kamu tunggu mungkin datang lewat kebetulan yang manis",
+    "Lampu hijau sudah menyala untuk rencanamu",
+    "Tetangga baik, teman baik, dan rezeki baik sedang satu arah denganmu",
+    "Hari ini pintu-pintu membuka lebih cepat daripada biasanya",
+    "Hatimu sedang berada di frekuensi yang tepat",
+    "Matahari terbit bukan tanpa sebab; hari ini giliranmu bersinar",
+    "Satu keputusan kecil hari ini akan dirayakan oleh kamu yang nanti",
+    "Kabar gembira sudah berpakaian rapi dan siap diantar",
+    "Almanak hari ini menuliskan namamu di kolom peluang",
+    "Pelan-pelan saja, tetapi jangan berhenti; jalan di depanmu sedang dimudahkan",
+    "Kamu baru saja terpilih oleh momen yang tepat",
+    "Pagi ini adalah sampul depan dari cerita yang bagus",
+    "Niat baikmu hari ini sudah sampai sebelum kamu mengucapkannya",
+    "Garis start hari ini lebih maju daripada kemarin",
+    "Keajaiban kecil sedang mencari alamat rumahmu",
+    "Daftar harapanmu sedang dirapikan dan disusun ulang menjadi rencana",
+    "Angin hari ini berpihak pada layar yang kau bentangkan",
+    "Kehadiranmu membuat ruang ini jauh lebih ramah",
+    "Tiket keberuntunganmu sudah tercetak hari ini",
+    "Jam dinding hari ini berdetak seirama dengan usahamu",
+    "Kamu sedang melewati persimpangan yang akan kamu syukuri nanti",
+    "Kopimu belum habis, tetapi kabar baik sudah mau tiba",
+    "Hari ini cocok untuk tersenyum lebih dulu, sisanya akan mengikuti",
+    "Langit menandai hari ini dengan bintang kecil khusus untukmu",
+    "Keberanianmu semalam sedang menetas pagi ini",
+    "Semua sudah hampir siap; kamu tinggal hadir",
+    "Doa ibumu dan usahamu sedang bekerja dalam satu tim",
+    "Hal yang kemarin mustahil hari ini masuk akal, dan yang masuk akal mungkin saja terjadi"
+  ],
+  "themes": [
+    "Kerja kerasmu akan dibalas dengan cara yang sopan dan menyenangkan",
+    "Kebaikan yang kamu tanam belum pernah gagal berbuah",
+    "Jalan yang kamu cari-cari sebentar lagi terlihat dari ujung mata",
+    "Kejujuranmu hari ini menang lebih jauh daripada siasat cepat",
+    "Ada proyek baru yang akan membuat matamu berbinar",
+    "Pertemuan singkat hari ini bisa menjadi jejaring paling berguna tahun ini",
+    "Sabarmu kali ini menyimpan buah paling manis",
+    "Pendengar yang baik seperti kamu selalu kebagian pintu yang terbuka",
+    "Kebaikan diam-diammu sedang mengalir balik dalam bentuk yang tak terduga",
+    "Ide yang berputar-putar di kepalamu layak diturunkan ke kertas",
+    "Hari ini akan membuat baju lamamu terasa sempit saking kamu tumbuh",
+    "Perubahan nanti akan memberi lebih banyak daripada yang diambil",
+    "Kepercayaan orang-orang adalah tabungan batinmu yang tak pernah habis panennya",
+    "Percobaan keduanya akan datang dengan tenaga yang lebih besar",
+    "Kalau dikerjakan bersama, hasilnya berlipat dan hatinya ikut lebar",
+    "Cerita pengalamanmu akan menjadi peta bagi orang lain",
+    "Mimpi itu tinggal sejengkal lagi dari jangkauan tanganmu",
+    "Pujian yang kamu tunggu sedang diucapkan di ruangan sebelah",
+    "Yang mulai tanpa menunggu sempurna biasanya yang sampai lebih dulu",
+    "Sebentar lagi ada alasan baru untuk membusungkan dada dengan wajar",
+    "Kebaikanmu hari ini pulang sebagai pertolongan di waktu yang tepat",
+    "Di dalam dirimu ada lebih banyak bekal daripada di dompet mana pun",
+    "Namamu akan disebut dengan hangat dalam obrolan yang tidak kamu dengar",
+    "Semua yang kamu kerjakan dengan cinta sedang berbuah diam-diam",
+    "Kamu sudah pandai menunggu; kini saatnya pandai mengambil",
+    "Satu kebiasaan baru pagi ini bisa mengubah seluruh tahunmu",
+    "Keringat hari ini adalah pondasi pesta nanti",
+    "Kesempatan menyapamu tepat ketika kamu hampir siap",
+    "Satu percakapan pendek bisa melengkapi kepingan yang hilang",
+    "Ketenanganmu hari ini mengalahkan riuh apa pun",
+    "Tolong-menolong kecil akan tumbuh menjadi persahabatan panjang",
+    "Kamu lebih dekat ke garis akhir daripada yang kaki ini laporkan",
+    "Buah dari tekunmu mulai masak minggu ini",
+    "Tidur cukup dan kepala dingin menyelesaikan separuh persoalan",
+    "Satu pertanyaan berani membongkar yang selama ini tertutup diam",
+    "Ada bahu yang siap menopangmu di dekat sini — tengoklah",
+    "Akar yang dalam membuat lompatan setinggi apa pun terasa aman",
+    "Sedikit kenekatan yang baik hati justru diperlukan hari ini",
+    "Kabar yang menghangatkan hati sedang menempuh jalan ke rumahmu",
+    "Semakin lebar kamu memberi, semakin luas telapak tangan menerima",
+    "Gemetar di awal tidak mengurangi hebatnya sebuah langkah",
+    "Kesabaranmu akan segera diganti nama menjadi kebijaksanaan",
+    "Kamu sedang menggarap sesuatu yang akan kamu banggakan tahun depan",
+    "Bahkan hal kecil yang dikerjakan dengan hati punya tenaga besar"
+  ],
+  "closings": [
+    "Semoga hari ini memihak kepadamu",
+    "Semua akan tiba tepat pada waktunya",
+    "Melangkahlah dan ambil bagianmu",
+    "Keberuntungan sudah berpamitan dari rumahnya dan sedang menuju ke sini",
+    "Percayalah pada dirimu; kamu sedang di tangan yang tepat, yaitu tanganmu sendiri",
+    "Semoga yang kamu impikan datang lebih cepat dari rindu",
+    "Hal baik sudah di jalan",
+    "Hiduplah santai sambil bekerja rajin",
+    "Semoga hari ini meninggalkan rasa hangat sampai malam",
+    "Kamu layak mendapat semua yang baik",
+    "Berhasil, dan bahkan lebih dari itu",
+    "Semoga rumahmu selalu penuh rezeki dan tawa",
+    "Kejar bahagiamu tanpa malu-malu",
+    "Bahagia sedang menyimpan nomor teleponmu",
+    "Biar senyummu hari ini lebih sering dari biasanya",
+    "Urusan ini akan berakhir di halaman paling indah",
+    "Simpan rasa hangat ini sampai nanti malam",
+    "Bersinarlah sampai orang-orang ikut ingin terang",
+    "Semoga jalanmu ringan dan anginnya selalu dari depan",
+    "Jadilah berani hari ini dan bersyukur setiap hari",
+    "Semoga mimpi-mimpimu berlari lebih kencang daripada langkahmu",
+    "Waktumu sedang mengantre di depan, tinggal dipanggil sebentar lagi",
+    "Semoga nasi selalu pulen dan kabar selalu baik",
+    "Semuanya akan baik karena kamu bukan tipe yang berhenti di tengah jalan",
+    "Mulailah sekarang; sisanya akan tersusun sendiri",
+    "Semoga kamu selalu dikelilingi orang-orang yang menghangatkan",
+    "Kamu di jalan yang benar — teruskan langkah yang sama",
+    "Semoga yang baik itu segera jadi nyata",
+    "Buka pintumu; yang baik sudah sampai di teras",
+    "Semoga senja nanti menemukanmu dalam keadaan puas",
+    "Tenang saja, semuanya sedang menata diri untukmu",
+    "Biar hatimu bersenandung tanpa alasan hari ini",
+    "Bawa perasaan baik ini dan bagikan kepada orang lain",
+    "Hiduplah sampai bintang-bintang penasaran ingin menonton hari-harimu"
+  ]
+}

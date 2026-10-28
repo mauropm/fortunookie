@@ -1,0 +1,921 @@
+{
+  "generatedBy": "scripts/validate-fortunes.mjs",
+  "minFortunesPerLocale": 2000,
+  "nearDupThreshold": 0.85,
+  "totalRecords": 61500,
+  "allPassed": true,
+  "locales": [
+    {
+      "locale": "en",
+      "ok": true,
+      "count": 2050,
+      "exactDuplicates": [],
+      "nearDuplicates": [],
+      "tooShort": [],
+      "tooLong": [],
+      "unicodeIssues": [],
+      "negativeHits": [],
+      "invalidCategory": 0,
+      "missing": false,
+      "nearDuplicateCount": 0
+    },
+    {
+      "locale": "es",
+      "ok": true,
+      "count": 2050,
+      "exactDuplicates": [],
+      "nearDuplicates": [],
+      "tooShort": [],
+      "tooLong": [],
+      "unicodeIssues": [],
+      "negativeHits": [],
+      "invalidCategory": 0,
+      "missing": false,
+      "nearDuplicateCount": 0
+    },
+    {
+      "locale": "zh",
+      "ok": true,
+      "count": 2050,
+      "exactDuplicates": [],
+      "nearDuplicates": [],
+      "tooShort": [],
+      "tooLong": [],
+      "unicodeIssues": [],
+      "negativeHits": [],
+      "invalidCategory": 0,
+      "missing": false,
+      "nearDuplicateCount": 0
+    },
+    {
+      "locale": "hi",
+      "ok": true,
+      "count": 2050,
+      "exactDuplicates": [],
+      "nearDuplicates": [
+        {
+          "id": "hi-00496",
+          "similarTo": "hi-00048"
+        },
+        {
+          "id": "hi-01261",
+          "similarTo": "hi-00178"
+        },
+        {
+          "id": "hi-00586",
+          "similarTo": "hi-00459"
+        },
+        {
+          "id": "hi-01550",
+          "similarTo": "hi-00820"
+        },
+        {
+          "id": "hi-01979",
+          "similarTo": "hi-01196"
+        }
+      ],
+      "tooShort": [],
+      "tooLong": [],
+      "unicodeIssues": [],
+      "negativeHits": [],
+      "invalidCategory": 0,
+      "missing": false,
+      "nearDuplicateCount": 5
+    },
+    {
+      "locale": "ar",
+      "ok": true,
+      "count": 2050,
+      "exactDuplicates": [],
+      "nearDuplicates": [],
+      "tooShort": [],
+      "tooLong": [],
+      "unicodeIssues": [],
+      "negativeHits": [],
+      "invalidCategory": 0,
+      "missing": false,
+      "nearDuplicateCount": 0
+    },
+    {
+      "locale": "fr",
+      "ok": true,
+      "count": 2050,
+      "exactDuplicates": [],
+      "nearDuplicates": [],
+      "tooShort": [],
+      "tooLong": [],
+      "unicodeIssues": [],
+      "negativeHits": [],
+      "invalidCategory": 0,
+      "missing": false,
+      "nearDuplicateCount": 0
+    },
+    {
+      "locale": "pt",
+      "ok": true,
+      "count": 2050,
+      "exactDuplicates": [],
+      "nearDuplicates": [],
+      "tooShort": [],
+      "tooLong": [],
+      "unicodeIssues": [],
+      "negativeHits": [],
+      "invalidCategory": 0,
+      "missing": false,
+      "nearDuplicateCount": 0
+    },
+    {
+      "locale": "bn",
+      "ok": true,
+      "count": 2050,
+      "exactDuplicates": [],
+      "nearDuplicates": [],
+      "tooShort": [],
+      "tooLong": [],
+      "unicodeIssues": [],
+      "negativeHits": [],
+      "invalidCategory": 0,
+      "missing": false,
+      "nearDuplicateCount": 0
+    },
+    {
+      "locale": "ru",
+      "ok": true,
+      "count": 2050,
+      "exactDuplicates": [],
+      "nearDuplicates": [],
+      "tooShort": [],
+      "tooLong": [],
+      "unicodeIssues": [],
+      "negativeHits": [],
+      "invalidCategory": 0,
+      "missing": false,
+      "nearDuplicateCount": 0
+    },
+    {
+      "locale": "id",
+      "ok": true,
+      "count": 2050,
+      "exactDuplicates": [],
+      "nearDuplicates": [
+        {
+          "id": "id-01621",
+          "similarTo": "id-00007"
+        },
+        {
+          "id": "id-01049",
+          "similarTo": "id-00034"
+        },
+        {
+          "id": "id-01023",
+          "similarTo": "id-00120"
+        },
+        {
+          "id": "id-01497",
+          "similarTo": "id-00207"
+        },
+        {
+          "id": "id-01265",
+          "similarTo": "id-00217"
+        },
+        {
+          "id": "id-01599",
+          "similarTo": "id-00259"
+        },
+        {
+          "id": "id-01532",
+          "similarTo": "id-00397"
+        },
+        {
+          "id": "id-01130",
+          "similarTo": "id-00523"
+        },
+        {
+          "id": "id-01731",
+          "similarTo": "id-00698"
+        },
+        {
+          "id": "id-01092",
+          "similarTo": "id-00822"
+        },
+        {
+          "id": "id-01192",
+          "similarTo": "id-00930"
+        },
+        {
+          "id": "id-01641",
+          "similarTo": "id-01214"
+        },
+        {
+          "id": "id-01725",
+          "similarTo": "id-01509"
+        }
+      ],
+      "tooShort": [],
+      "tooLong": [],
+      "unicodeIssues": [],
+      "negativeHits": [],
+      "invalidCategory": 0,
+      "missing": false,
+      "nearDuplicateCount": 13
+    },
+    {
+      "locale": "ur",
+      "ok": true,
+      "count": 2050,
+      "exactDuplicates": [],
+      "nearDuplicates": [
+        {
+          "id": "ur-00791",
+          "similarTo": "ur-00021"
+        },
+        {
+          "id": "ur-01069",
+          "similarTo": "ur-00827"
+        }
+      ],
+      "tooShort": [],
+      "tooLong": [],
+      "unicodeIssues": [],
+      "negativeHits": [],
+      "invalidCategory": 0,
+      "missing": false,
+      "nearDuplicateCount": 2
+    },
+    {
+      "locale": "de",
+      "ok": true,
+      "count": 2050,
+      "exactDuplicates": [],
+      "nearDuplicates": [],
+      "tooShort": [],
+      "tooLong": [],
+      "unicodeIssues": [],
+      "negativeHits": [],
+      "invalidCategory": 0,
+      "missing": false,
+      "nearDuplicateCount": 0
+    },
+    {
+      "locale": "ja",
+      "ok": true,
+      "count": 2050,
+      "exactDuplicates": [],
+      "nearDuplicates": [],
+      "tooShort": [],
+      "tooLong": [],
+      "unicodeIssues": [],
+      "negativeHits": [],
+      "invalidCategory": 0,
+      "missing": false,
+      "nearDuplicateCount": 0
+    },
+    {
+      "locale": "pcm",
+      "ok": true,
+      "count": 2050,
+      "exactDuplicates": [],
+      "nearDuplicates": [
+        {
+          "id": "pcm-00420",
+          "similarTo": "pcm-00019"
+        },
+        {
+          "id": "pcm-00631",
+          "similarTo": "pcm-00544"
+        },
+        {
+          "id": "pcm-01047",
+          "similarTo": "pcm-00849"
+        },
+        {
+          "id": "pcm-01779",
+          "similarTo": "pcm-00849"
+        },
+        {
+          "id": "pcm-01505",
+          "similarTo": "pcm-01226"
+        },
+        {
+          "id": "pcm-01664",
+          "similarTo": "pcm-01586"
+        }
+      ],
+      "tooShort": [],
+      "tooLong": [],
+      "unicodeIssues": [],
+      "negativeHits": [],
+      "invalidCategory": 0,
+      "missing": false,
+      "nearDuplicateCount": 6
+    },
+    {
+      "locale": "mr",
+      "ok": true,
+      "count": 2050,
+      "exactDuplicates": [],
+      "nearDuplicates": [],
+      "tooShort": [],
+      "tooLong": [],
+      "unicodeIssues": [],
+      "negativeHits": [],
+      "invalidCategory": 0,
+      "missing": false,
+      "nearDuplicateCount": 0
+    },
+    {
+      "locale": "te",
+      "ok": true,
+      "count": 2050,
+      "exactDuplicates": [],
+      "nearDuplicates": [],
+      "tooShort": [],
+      "tooLong": [],
+      "unicodeIssues": [],
+      "negativeHits": [],
+      "invalidCategory": 0,
+      "missing": false,
+      "nearDuplicateCount": 0
+    },
+    {
+      "locale": "tr",
+      "ok": true,
+      "count": 2050,
+      "exactDuplicates": [],
+      "nearDuplicates": [],
+      "tooShort": [],
+      "tooLong": [],
+      "unicodeIssues": [],
+      "negativeHits": [],
+      "invalidCategory": 0,
+      "missing": false,
+      "nearDuplicateCount": 0
+    },
+    {
+      "locale": "ta",
+      "ok": true,
+      "count": 2050,
+      "exactDuplicates": [],
+      "nearDuplicates": [
+        {
+          "id": "ta-00859",
+          "similarTo": "ta-00014"
+        },
+        {
+          "id": "ta-00919",
+          "similarTo": "ta-00019"
+        },
+        {
+          "id": "ta-01204",
+          "similarTo": "ta-00043"
+        },
+        {
+          "id": "ta-00769",
+          "similarTo": "ta-00045"
+        },
+        {
+          "id": "ta-01162",
+          "similarTo": "ta-00054"
+        },
+        {
+          "id": "ta-00391",
+          "similarTo": "ta-00090"
+        },
+        {
+          "id": "ta-01303",
+          "similarTo": "ta-00093"
+        },
+        {
+          "id": "ta-01252",
+          "similarTo": "ta-00111"
+        },
+        {
+          "id": "ta-01820",
+          "similarTo": "ta-00123"
+        },
+        {
+          "id": "ta-01938",
+          "similarTo": "ta-00175"
+        },
+        {
+          "id": "ta-00926",
+          "similarTo": "ta-00185"
+        },
+        {
+          "id": "ta-00197",
+          "similarTo": "ta-00194"
+        },
+        {
+          "id": "ta-01596",
+          "similarTo": "ta-00218"
+        },
+        {
+          "id": "ta-00608",
+          "similarTo": "ta-00250"
+        },
+        {
+          "id": "ta-01579",
+          "similarTo": "ta-00286"
+        },
+        {
+          "id": "ta-01125",
+          "similarTo": "ta-00288"
+        },
+        {
+          "id": "ta-01665",
+          "similarTo": "ta-00305"
+        },
+        {
+          "id": "ta-01368",
+          "similarTo": "ta-00322"
+        },
+        {
+          "id": "ta-01913",
+          "similarTo": "ta-00356"
+        },
+        {
+          "id": "ta-01240",
+          "similarTo": "ta-00357"
+        },
+        {
+          "id": "ta-01276",
+          "similarTo": "ta-00365"
+        },
+        {
+          "id": "ta-00622",
+          "similarTo": "ta-00370"
+        },
+        {
+          "id": "ta-01127",
+          "similarTo": "ta-00415"
+        },
+        {
+          "id": "ta-01367",
+          "similarTo": "ta-00520"
+        },
+        {
+          "id": "ta-01639",
+          "similarTo": "ta-00614"
+        },
+        {
+          "id": "ta-01840",
+          "similarTo": "ta-00635"
+        },
+        {
+          "id": "ta-01625",
+          "similarTo": "ta-00780"
+        },
+        {
+          "id": "ta-00901",
+          "similarTo": "ta-00789"
+        },
+        {
+          "id": "ta-00984",
+          "similarTo": "ta-00795"
+        },
+        {
+          "id": "ta-00869",
+          "similarTo": "ta-00834"
+        },
+        {
+          "id": "ta-00945",
+          "similarTo": "ta-00855"
+        },
+        {
+          "id": "ta-00999",
+          "similarTo": "ta-00856"
+        },
+        {
+          "id": "ta-02006",
+          "similarTo": "ta-00947"
+        },
+        {
+          "id": "ta-01286",
+          "similarTo": "ta-00952"
+        },
+        {
+          "id": "ta-01364",
+          "similarTo": "ta-00997"
+        },
+        {
+          "id": "ta-01167",
+          "similarTo": "ta-01041"
+        },
+        {
+          "id": "ta-01744",
+          "similarTo": "ta-01134"
+        },
+        {
+          "id": "ta-01782",
+          "similarTo": "ta-01211"
+        },
+        {
+          "id": "ta-01986",
+          "similarTo": "ta-01899"
+        },
+        {
+          "id": "ta-02008",
+          "similarTo": "ta-01926"
+        }
+      ],
+      "tooShort": [],
+      "tooLong": [],
+      "unicodeIssues": [],
+      "negativeHits": [],
+      "invalidCategory": 0,
+      "missing": false,
+      "nearDuplicateCount": 40
+    },
+    {
+      "locale": "vi",
+      "ok": true,
+      "count": 2050,
+      "exactDuplicates": [],
+      "nearDuplicates": [],
+      "tooShort": [],
+      "tooLong": [],
+      "unicodeIssues": [],
+      "negativeHits": [],
+      "invalidCategory": 0,
+      "missing": false,
+      "nearDuplicateCount": 0
+    },
+    {
+      "locale": "ko",
+      "ok": true,
+      "count": 2050,
+      "exactDuplicates": [],
+      "nearDuplicates": [],
+      "tooShort": [],
+      "tooLong": [],
+      "unicodeIssues": [],
+      "negativeHits": [],
+      "invalidCategory": 0,
+      "missing": false,
+      "nearDuplicateCount": 0
+    },
+    {
+      "locale": "it",
+      "ok": true,
+      "count": 2050,
+      "exactDuplicates": [],
+      "nearDuplicates": [],
+      "tooShort": [],
+      "tooLong": [],
+      "unicodeIssues": [],
+      "negativeHits": [],
+      "invalidCategory": 0,
+      "missing": false,
+      "nearDuplicateCount": 0
+    },
+    {
+      "locale": "th",
+      "ok": true,
+      "count": 2050,
+      "exactDuplicates": [],
+      "nearDuplicates": [],
+      "tooShort": [],
+      "tooLong": [],
+      "unicodeIssues": [],
+      "negativeHits": [],
+      "invalidCategory": 0,
+      "missing": false,
+      "nearDuplicateCount": 0
+    },
+    {
+      "locale": "fa",
+      "ok": true,
+      "count": 2050,
+      "exactDuplicates": [],
+      "nearDuplicates": [],
+      "tooShort": [],
+      "tooLong": [],
+      "unicodeIssues": [],
+      "negativeHits": [],
+      "invalidCategory": 0,
+      "missing": false,
+      "nearDuplicateCount": 0
+    },
+    {
+      "locale": "sw",
+      "ok": true,
+      "count": 2050,
+      "exactDuplicates": [],
+      "nearDuplicates": [],
+      "tooShort": [],
+      "tooLong": [],
+      "unicodeIssues": [],
+      "negativeHits": [],
+      "invalidCategory": 0,
+      "missing": false,
+      "nearDuplicateCount": 0
+    },
+    {
+      "locale": "ha",
+      "ok": true,
+      "count": 2050,
+      "exactDuplicates": [],
+      "nearDuplicates": [
+        {
+          "id": "ha-00528",
+          "similarTo": "ha-00091"
+        },
+        {
+          "id": "ha-01554",
+          "similarTo": "ha-00159"
+        },
+        {
+          "id": "ha-01294",
+          "similarTo": "ha-00211"
+        },
+        {
+          "id": "ha-01134",
+          "similarTo": "ha-00214"
+        },
+        {
+          "id": "ha-01327",
+          "similarTo": "ha-00225"
+        },
+        {
+          "id": "ha-01518",
+          "similarTo": "ha-00264"
+        },
+        {
+          "id": "ha-01341",
+          "similarTo": "ha-00309"
+        },
+        {
+          "id": "ha-00451",
+          "similarTo": "ha-00313"
+        },
+        {
+          "id": "ha-01717",
+          "similarTo": "ha-00339"
+        },
+        {
+          "id": "ha-02004",
+          "similarTo": "ha-00343"
+        },
+        {
+          "id": "ha-01568",
+          "similarTo": "ha-00370"
+        },
+        {
+          "id": "ha-01015",
+          "similarTo": "ha-00387"
+        },
+        {
+          "id": "ha-00852",
+          "similarTo": "ha-00498"
+        },
+        {
+          "id": "ha-00831",
+          "similarTo": "ha-00518"
+        },
+        {
+          "id": "ha-02003",
+          "similarTo": "ha-00568"
+        },
+        {
+          "id": "ha-01560",
+          "similarTo": "ha-00614"
+        },
+        {
+          "id": "ha-01459",
+          "similarTo": "ha-00654"
+        },
+        {
+          "id": "ha-01866",
+          "similarTo": "ha-00661"
+        },
+        {
+          "id": "ha-00887",
+          "similarTo": "ha-00696"
+        },
+        {
+          "id": "ha-00862",
+          "similarTo": "ha-00760"
+        },
+        {
+          "id": "ha-01797",
+          "similarTo": "ha-00811"
+        },
+        {
+          "id": "ha-01323",
+          "similarTo": "ha-00920"
+        },
+        {
+          "id": "ha-00943",
+          "similarTo": "ha-00932"
+        },
+        {
+          "id": "ha-02047",
+          "similarTo": "ha-00968"
+        },
+        {
+          "id": "ha-01778",
+          "similarTo": "ha-01079"
+        },
+        {
+          "id": "ha-02018",
+          "similarTo": "ha-01104"
+        },
+        {
+          "id": "ha-01431",
+          "similarTo": "ha-01105"
+        },
+        {
+          "id": "ha-01436",
+          "similarTo": "ha-01113"
+        },
+        {
+          "id": "ha-01735",
+          "similarTo": "ha-01159"
+        },
+        {
+          "id": "ha-01669",
+          "similarTo": "ha-01207"
+        },
+        {
+          "id": "ha-01680",
+          "similarTo": "ha-01270"
+        },
+        {
+          "id": "ha-01917",
+          "similarTo": "ha-01314"
+        },
+        {
+          "id": "ha-02040",
+          "similarTo": "ha-01345"
+        },
+        {
+          "id": "ha-01815",
+          "similarTo": "ha-01562"
+        },
+        {
+          "id": "ha-01865",
+          "similarTo": "ha-01563"
+        },
+        {
+          "id": "ha-01754",
+          "similarTo": "ha-01570"
+        }
+      ],
+      "tooShort": [],
+      "tooLong": [],
+      "unicodeIssues": [],
+      "negativeHits": [],
+      "invalidCategory": 0,
+      "missing": false,
+      "nearDuplicateCount": 36
+    },
+    {
+      "locale": "yo",
+      "ok": true,
+      "count": 2050,
+      "exactDuplicates": [],
+      "nearDuplicates": [
+        {
+          "id": "yo-00155",
+          "similarTo": "yo-00062"
+        },
+        {
+          "id": "yo-00570",
+          "similarTo": "yo-00100"
+        },
+        {
+          "id": "yo-00612",
+          "similarTo": "yo-00167"
+        },
+        {
+          "id": "yo-01176",
+          "similarTo": "yo-00321"
+        },
+        {
+          "id": "yo-00685",
+          "similarTo": "yo-00387"
+        },
+        {
+          "id": "yo-00775",
+          "similarTo": "yo-00408"
+        },
+        {
+          "id": "yo-01126",
+          "similarTo": "yo-00592"
+        },
+        {
+          "id": "yo-00789",
+          "similarTo": "yo-00730"
+        },
+        {
+          "id": "yo-01558",
+          "similarTo": "yo-00741"
+        },
+        {
+          "id": "yo-01407",
+          "similarTo": "yo-00847"
+        },
+        {
+          "id": "yo-01715",
+          "similarTo": "yo-01107"
+        },
+        {
+          "id": "yo-01402",
+          "similarTo": "yo-01213"
+        },
+        {
+          "id": "yo-01542",
+          "similarTo": "yo-01348"
+        },
+        {
+          "id": "yo-01452",
+          "similarTo": "yo-01431"
+        }
+      ],
+      "tooShort": [],
+      "tooLong": [],
+      "unicodeIssues": [],
+      "negativeHits": [],
+      "invalidCategory": 0,
+      "missing": false,
+      "nearDuplicateCount": 14
+    },
+    {
+      "locale": "nl",
+      "ok": true,
+      "count": 2050,
+      "exactDuplicates": [],
+      "nearDuplicates": [],
+      "tooShort": [],
+      "tooLong": [],
+      "unicodeIssues": [],
+      "negativeHits": [],
+      "invalidCategory": 0,
+      "missing": false,
+      "nearDuplicateCount": 0
+    },
+    {
+      "locale": "pl",
+      "ok": true,
+      "count": 2050,
+      "exactDuplicates": [],
+      "nearDuplicates": [],
+      "tooShort": [],
+      "tooLong": [],
+      "unicodeIssues": [],
+      "negativeHits": [],
+      "invalidCategory": 0,
+      "missing": false,
+      "nearDuplicateCount": 0
+    },
+    {
+      "locale": "fil",
+      "ok": true,
+      "count": 2050,
+      "exactDuplicates": [],
+      "nearDuplicates": [
+        {
+          "id": "fil-01966",
+          "similarTo": "fil-00199"
+        },
+        {
+          "id": "fil-00310",
+          "similarTo": "fil-00213"
+        },
+        {
+          "id": "fil-00860",
+          "similarTo": "fil-00433"
+        },
+        {
+          "id": "fil-00644",
+          "similarTo": "fil-00539"
+        },
+        {
+          "id": "fil-01362",
+          "similarTo": "fil-01245"
+        }
+      ],
+      "tooShort": [],
+      "tooLong": [],
+      "unicodeIssues": [],
+      "negativeHits": [],
+      "invalidCategory": 0,
+      "missing": false,
+      "nearDuplicateCount": 5
+    },
+    {
+      "locale": "he",
+      "ok": true,
+      "count": 2050,
+      "exactDuplicates": [],
+      "nearDuplicates": [],
+      "tooShort": [],
+      "tooLong": [],
+      "unicodeIssues": [],
+      "negativeHits": [],
+      "invalidCategory": 0,
+      "missing": false,
+      "nearDuplicateCount": 0
+    }
+  ]
+}

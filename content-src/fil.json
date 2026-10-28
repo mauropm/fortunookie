@@ -1,0 +1,394 @@
+{
+  "locale": "fil",
+  "punct": { "join": ". ", "end": "." },
+  "core": [
+    { "c": "luck", "t": "Ang swerte ay dala-dala na ng hangin papunta sa iyo ngayong araw" },
+    {
+      "c": "luck",
+      "t": "Ang tamang tao, ang tamang oras, at ang tamang lugar ay magkakatagpo sa daan mo"
+    },
+    {
+      "c": "luck",
+      "t": "Isang maliit na tsansa ang maaaring bumukas ng malaking pinto para sa iyo"
+    },
+    { "c": "luck", "t": "Ang iyong pagpupursige ay malapit nang matagpuan ng kapalaran" },
+    { "c": "luck", "t": "May biyayang naghihintay sa iyo sa likod ng susunod mong hakbang" },
+    {
+      "c": "luck",
+      "t": "Ang kabutihang itinanim mo ay mamumulaklak sa panahong hindi mo inaasahan"
+    },
+    {
+      "c": "luck",
+      "t": "Pagbalik-tanawin mo ang nakaraan, mapapansin mong maraming pinto ang nabuksan dahil sa tapang mo"
+    },
+    {
+      "c": "luck",
+      "t": "Ang tadhana ay mahilig magtago sa mga simpleng araw, kaya pansinin ang mga detalye"
+    },
+    { "c": "luck", "t": "Hindi ka huli, binabati ka lang ng kapalaran sa tamang oras" },
+    { "c": "luck", "t": "Ang bawat mabuting gawa mo ay bumabalik nang may kasamang biyaya" },
+    { "c": "hope", "t": "May bagong simulang nakahandang sumikat sa umaga ng bukas" },
+    { "c": "hope", "t": "Kahit gaano kabagabag ang gabi, pinaninindigan ng araw na sumikat ulit" },
+    { "c": "hope", "t": "Ang pag-asang alagaan mo ay binhi, patalunan mo ito ng tiyaga" },
+    { "c": "hope", "t": "May liwanag na dumarating mula sa direksyong hindi mo pa tinitingnan" },
+    { "c": "hope", "t": "May kwento pa ang pangarap mong akala mong tapos na" },
+    { "c": "hope", "t": "Sa tuwing umaga, may bagong pagkakataong dumarating sa iyo" },
+    { "c": "hope", "t": "Hindi pa katapusan, kabanata lang ito ng mas magandang susunod" },
+    { "c": "hope", "t": "Ang pusong naniniwala ay may lakas na baguhin ang mundo" },
+    { "c": "hope", "t": "Ang bukas ay puting papel, at ikaw ang magsusulat ng kwento" },
+    {
+      "c": "hope",
+      "t": "Kahit gaano kahina ang apoy, kayang-kaya nitong pagmainitin ang iyong kamay"
+    },
+    { "c": "love", "t": "May taong ngumingiti sa iyo nang hindi mo nalalaman" },
+    { "c": "love", "t": "Ang pagmamahal na totoo ay lumalago kapag ibinabahagi" },
+    { "c": "love", "t": "Gawing masaya ang araw ng isang taong minamahal mo ngayon" },
+    { "c": "love", "t": "Ang tamang tao ay lilingon sa iyo kapag dumating ang kanyang oras" },
+    { "c": "love", "t": "May nagmamahal sa iyo sa tahimik ngunit tapat na paraan" },
+    { "c": "love", "t": "Ang yakap ng pamilya ay pinakamainit na tahanan sa mundo" },
+    { "c": "love", "t": "Magmahal nang walang kondisyon, doon mo makikita ang tunay na yaman" },
+    {
+      "c": "love",
+      "t": "Ang tunay na kaibigan ay parang bituin: kahit hindi laging nakikita, nandoon pa rin"
+    },
+    {
+      "c": "love",
+      "t": "Ang mga simpleng salitang may tunay na pagmamahal ay nagpapaganda ng mundo"
+    },
+    { "c": "love", "t": "Hindi kailanman huli para muling mabuksan ang puso sa pag-ibig" },
+    { "c": "growth", "t": "Ang bersyon mo ngayong taon ay mas matapang kaysa noong nakaraan" },
+    {
+      "c": "growth",
+      "t": "Ang bawat pagkakamali ay leksyon na nagdaragdag sa mapa ng iyong paglalakbay"
+    },
+    { "c": "growth", "t": "Tumutubo ka kahit saan ka itanim, tanda ito ng matibay na puno" },
+    { "c": "growth", "t": "Ang lakas mong hindi mo pa kilala ay lumalawak araw-araw" },
+    { "c": "growth", "t": "Ang pagpapatawad sa sarili ay unang hakbang patungo sa kalayaan" },
+    { "c": "growth", "t": "Ang tagumpay mo ngayon ay bunga ng iyong tiyaga kahapon" },
+    {
+      "c": "growth",
+      "t": "Hindi ka natututo ng mga bagay nang walang dahilan, ang bawat aral ay bahagi ng pag-unlad"
+    },
+    {
+      "c": "growth",
+      "t": "Ang pagbabago ay dahan-dahan ngunit tiyak, tulad ng binhing tumataas patungo sa araw"
+    },
+    {
+      "c": "growth",
+      "t": "Ang tanong na bakit hindi ako ay madalas ang simula ng malaking paglago"
+    },
+    {
+      "c": "growth",
+      "t": "Ang iyong pag-unlad ay parang palayan: kahit hindi agad nakikita, tumutubo pa rin"
+    },
+    {
+      "c": "abundance",
+      "t": "Ang swerte ay dumadaloy na parang ilog at nakabukas ang daan papunta sa iyo"
+    },
+    { "c": "abundance", "t": "Handa ka nang tanggapin ang biyayang matagal mong hinihintay" },
+    {
+      "c": "abundance",
+      "t": "Ang pagpapahalaga mo sa maliliit na bagay ang nagbubukas ng malalaking pinto"
+    },
+    {
+      "c": "abundance",
+      "t": "Ang bulsa mo, puso mo, at bahay mo ay pantay na puno ng pasasalamat"
+    },
+    {
+      "c": "abundance",
+      "t": "Sa bawat pinto ng pagkakataong napansin mo, may iba pang naghihintay nang tahimik"
+    },
+    { "c": "abundance", "t": "Ang yaman ay dumadaloy sa taong marunong magbigay" },
+    { "c": "abundance", "t": "Ang iyong sipag noon ay nagbubunga ng tagumpay ngayon" },
+    {
+      "c": "abundance",
+      "t": "Maraming pagkakataon ang nakapaligid sa iyo, kailan mo lang silang pansinin"
+    },
+    {
+      "c": "abundance",
+      "t": "Mas mayaman ka na sa mga taong nagmamahal sa iyo kaysa sa anumang ginto"
+    },
+    { "c": "abundance", "t": "May pintong oportunidad na bubukas pa lang para sa iyo bukas" },
+    { "c": "wisdom", "t": "Ang tamang desisyon ay dumarating sa taong marunong maghintay" },
+    { "c": "wisdom", "t": "Minsan, ang katahimikan ang pinakamatalinong sagot" },
+    {
+      "c": "wisdom",
+      "t": "Ang tanong ay susi: magtanong ng tama at magbubukas ang hinintay mong pinto"
+    },
+    { "c": "wisdom", "t": "Magtiwala sa damdamin mo, ang loob ay madalas tama" },
+    { "c": "wisdom", "t": "Ang karanasan ay guro ng buhay; makinig sa kanyang aral" },
+    {
+      "c": "wisdom",
+      "t": "Ang tunay na karunungan ay ang pag-alam kailan magsalita at kailan makinig"
+    },
+    { "c": "wisdom", "t": "Mag-isip bago tumalon, ang pag-iisip ang pakpak ng desisyon" },
+    { "c": "wisdom", "t": "Ang mapayapang isip ay malinaw na salamin ng katotohanan" },
+    { "c": "wisdom", "t": "Ang mabuting gabay ay maaaring dumarating sa hindi inaasahang bibig" },
+    { "c": "wisdom", "t": "Ang pagiging tapat sa sarili ang pinakamataas na uri ng karunungan" },
+    {
+      "c": "courage",
+      "t": "Ang malaking tagumpay ay nagsisimula sa isang maliliit ngunit tapat na hakbang"
+    },
+    { "c": "courage", "t": "Ang tapang mong hawak mo ay higit pa sa sa tingin mo" },
+    { "c": "courage", "t": "Hayaan mong ang mga pangarap mo ang maging tinig mo ngayong araw" },
+    { "c": "courage", "t": "Ang mundo ay bumubukas ng daan para sa may matibay na paninindigan" },
+    {
+      "c": "courage",
+      "t": "Kaya mo ang bagay na binabalak mo ngayon, may patunay ka na mula sa kahapon"
+    },
+    {
+      "c": "courage",
+      "t": "Itaas ang noo, itayo ang lakas, at hayaang marinig ang mundo ang iyong tinig"
+    },
+    {
+      "c": "courage",
+      "t": "Ang mga magagandang tagumpay ay dumarating sa mga taong nagtitiwala sa kanilang sarili"
+    },
+    {
+      "c": "courage",
+      "t": "Ang iyong determinasyon ay apoy na lalong kumukulo kapag pinapayagpag ng hangin"
+    },
+    {
+      "c": "courage",
+      "t": "Hindi ka nag-iisa sa hamong ito, ang mga nagmamahal sa iyo ay kasama mo"
+    },
+    { "c": "courage", "t": "Ang tapang ay likas sa iyo; pakinggan mo lang ang iyong puso" },
+    { "c": "joy", "t": "Ang iyong ngiti ay may lakas na pagandahin ang araw ng iba" },
+    {
+      "c": "joy",
+      "t": "Ang simpleng pagkain kasama ang mga minamahal ay kayamanang hindi nabibili"
+    },
+    {
+      "c": "joy",
+      "t": "Maraming bagay ang dapat ipagdiwang ngayong araw, at magsimula sa sarili mo"
+    },
+    { "c": "joy", "t": "Ang musika at tawanan ay sabay-sabay na dumarating sa iyong bahay" },
+    { "c": "joy", "t": "Ang masayang alaala ay ginto sa kahon ng iyong puso" },
+    { "c": "joy", "t": "May dahilan kang ngumingiti na hindi mo pa napapansin ngayon" },
+    { "c": "joy", "t": "Ang pagpapasalamat ay nagpaparami ng mabubuting bagay sa buhay" },
+    { "c": "joy", "t": "Ang iyong ngiti ay parang bulaklak na namumukadkad sa amihan" },
+    { "c": "joy", "t": "May biyaya sa maliliit na bagay na puno ng saya" },
+    { "c": "joy", "t": "Ang saya ay dumadaloy sa bahay na puno ng pasasalamat at pagmamahal" },
+    { "c": "resilience", "t": "Ang mga hamong lumipas ay nagpapatibay ng iyong loob" },
+    { "c": "resilience", "t": "Bawat bagyo ay may katapusan, at mas matagal pa ang iyong pag-asa" },
+    {
+      "c": "resilience",
+      "t": "Tulad ng kawayan, marunong kang yumuko sa unos at muling tumayo nang matatag"
+    },
+    {
+      "c": "resilience",
+      "t": "Nakalampasan mo na ang maraming mahihirap na araw, kaya kaya mo rin ang susunod"
+    },
+    { "c": "resilience", "t": "Ang pagod ay pansamantala, ngunit ang lakas mo ay pangmatagalan" },
+    { "c": "resilience", "t": "Ang bawat araw na natapos mo ay patunay ng iyong katatagan" },
+    { "c": "resilience", "t": "Ang pagtitiyaga mo ngayon ay pundasyon ng iyong tagumpay bukas" },
+    { "c": "resilience", "t": "Ang alon na bumabalik ay patunay na ang dagat ay hindi sumusuko" },
+    { "c": "resilience", "t": "Ang lakas mong natutunan ay lalong lumalim sa panahon ng pagsubok" },
+    { "c": "resilience", "t": "Ang iyong paninindigan ay matibay na katulad ng bato ng bundok" },
+    {
+      "c": "adventure",
+      "t": "Sa daang hindi mo pa nalalaman, may magagandang kwentong nakalaan para sa iyo"
+    },
+    {
+      "c": "adventure",
+      "t": "Maglakbay ka kahit sa malapit, maraming biyaya sa harap ng iyong mata"
+    },
+    {
+      "c": "adventure",
+      "t": "Ang mundo ay bukas na aklat, at may bagong kabanatang naghihintay sa iyo"
+    },
+    {
+      "c": "adventure",
+      "t": "Sundan ang kompas ng iyong puso; dadalhin ka nito sa magandang lugar"
+    },
+    {
+      "c": "adventure",
+      "t": "Sa susunod mong pagpasok sa bagong grupo, may bagong kaibigan kang makikilala"
+    },
+    {
+      "c": "adventure",
+      "t": "Isang simpleng paglalakad sa bagong kalye ang maaaring maging kwentong ihahaina mo sa hinaharap"
+    },
+    {
+      "c": "adventure",
+      "t": "May bundok na naghihintay sa mga hakbang mo, at may dagat na naghihintay sa iyong mga ngiti"
+    },
+    { "c": "adventure", "t": "Hindi mo kailangan ng mapa kung bukas ang puso mo sa bagong lugar" },
+    {
+      "c": "adventure",
+      "t": "Ang susunod mong hakbang patungong hindi pa kilalang lugar ay pagbubukas ng pinto ng kagandahan"
+    },
+    {
+      "c": "adventure",
+      "t": "Magtiwala ka sa daan, kahit hindi mo pa nakikita ang katapusan, ligtas ang landas"
+    },
+    {
+      "c": "community",
+      "t": "Buhay pa rin ang bayanihan, makikita mo ito sa maliit na tulong ng iyong kapitbahay"
+    },
+    {
+      "c": "community",
+      "t": "Ang iyong kabutihan ay babalik sa iyo sa pamamagitan ng kamay ng iba pang tao"
+    },
+    { "c": "community", "t": "Sa hapag-kainan, lumalaki ang puso at lumalawak ang pamilya" },
+    {
+      "c": "community",
+      "t": "Ang isang ngiti mo sa kalsada ay maaaring maging dahilan ng saya ng buong barangay"
+    },
+    {
+      "c": "community",
+      "t": "Maglaan ka ng oras para sa mga taong buong-puso nang nagbibigay sa iyo"
+    },
+    {
+      "c": "community",
+      "t": "Kapag nagtulungan, ang mabigat ay nagiging magaan at ang malayo ay nagiging malapit"
+    },
+    { "c": "community", "t": "Ang maliit mong tulong ay may malaking alon sa buhay ng iba" },
+    {
+      "c": "community",
+      "t": "Sa bawat pagtitipon ng pamilya, may bagong alaala at lumalakas na samahan"
+    },
+    { "c": "community", "t": "Ang tunay na bayani ay makikita sa simpleng pagtulong sa kapwa" },
+    { "c": "community", "t": "Ang bukas mong kamay ay pagpapala sa maraming puso" },
+    { "c": "peace", "t": "Ang katahimikan ng umaga ay biyayang pangginhawaan mo" },
+    { "c": "peace", "t": "Kapag payapa ang puso, sumusunod ang mundo sa kanyang bilis" },
+    {
+      "c": "peace",
+      "t": "Umupo ka sandali at huminga nang malalim, may itinuturo ang katahimikan"
+    },
+    {
+      "c": "peace",
+      "t": "Ang tamang bilis ng buhay ay hindi mabilis at hindi mabagal, kundi tama para sa iyo"
+    },
+    { "c": "peace", "t": "Sa bawat paghinga, may bagong pasasalamat na dumarating" },
+    { "c": "peace", "t": "Ang isiping payapa ay tahanan ng liwanag" },
+    { "c": "peace", "t": "Magpahinga ang iyong isip, ang sagot ay darating sa oras ng pagtitigil" },
+    { "c": "peace", "t": "Ang payapang gabi ay nagbubukas ng umagang dalang-dala ang biyaya" },
+    { "c": "peace", "t": "Ang simpleng buhay ay puno ng kayamanang hindi nabibili" },
+    { "c": "peace", "t": "Sa loob ng katahimikan, naririnig ang tunay na tinig ng puso" }
+  ],
+  "openings": [
+    "Ngayong araw, may maliit na biyayang nakalaan para sa iyo",
+    "Habang binabuksan mo ang mga mata ngayong umaga, alalahanin ang lakas mo",
+    "Ang hangin ng hapon ay dala-dala ang balita ng magandang pagbabago",
+    "Sa gitna ng abala ng araw, may sagot na naghihintay sa iyo",
+    "Maraming bagay ang magiging maayos, simula pa lang ngayong sandali",
+    "Sa susunod na liko ng daan, may nakahandang magandang balita para sa iyo",
+    "Ang tiyaga mo noong nakaraang linggo ay malapit nang magbunga",
+    "Sa paglubog ng araw ngayong gabi, may darating na pagpapala",
+    "Nangyayari na ang mga bagay, dahan-dahan ngunit tiyak",
+    "Sa bawat hakbang mo, may gabay na tahimik na sumasayaw sa tabi mo",
+    "Isang simpleng pagpaplano ngayong umaga ang magbubukas ng magandang araw",
+    "Sa mesa ng mga kaibigan, may kwentong magpapatawa sa iyo",
+    "Puno ang daan mo ng mga senyas na nararapat basahin ngayon",
+    "Sa pagbubukas ng pinto bukas, may magandang pangyayaring haharapin sa iyo",
+    "Ang unang kape ngayong umaga ay dadala ng ideyang matagal mong hinihintay",
+    "Sa kalagitnaan ng ingay, may katahimikan na nag-aalay ng linaw sa isip",
+    "Isang matandang kaibigan ang mag-iisip sa iyo ngayong araw",
+    "Sa bawat pag-iyab ng iyong mga mata, may pagkakataong dumadaloy",
+    "Ang hininga mo ngayon ay pintuan ng bagong enerhiya",
+    "Sa kanto ng kalye, may ngiting hindi mo pa nakikita",
+    "Ang buwan ay saksi sa mga pangarap mo, at handa itong tumulong",
+    "Sa susunod na oras, pansinin ang maliliit na senyas ng kaligayahan",
+    "Isang mainit na mensahe mula sa kaibigan ang dumarating sa hindi inaasahang oras",
+    "Ang mabuting asal mo kahapon ay binibigyan ng bunga ngayon",
+    "Sa daan pauwi, may awit na bigla mong maaalala, tanda ito ng saya",
+    "Ang umagang ito ay nakalaan para sa isang magandang pangyayari",
+    "Sa oras ng tanghalian, may biyayang dadaan sa iyong mesa",
+    "Ang isang maliit na kabutihan ngayon ang binhi ng tagumpay bukas",
+    "Sa hatinggabi, may bituing parang ngumingiti sa iyo",
+    "Ang huling oras ng araw ay nagdadala ng biglaang pasasalamat sa puso",
+    "Sa tahimik na hardin ng bahay mo, may kapayapaang naghihintay sa iyo",
+    "Sa bagong yugto ng buhay mo, tumutubo ang lahat ng itinanim mo",
+    "Ang liwanag ng buwan sa bintana mo ay paalala ng malapit na pagpapala",
+    "Sa unang yakap ng pamilya ngayong umaga, may lakas na dumarating",
+    "Sa hapunan, may lumang kwentong muling makuwento sa ngiti",
+    "Ang bawat bagong simula ay may amoy ng mainit na kape at pag-asa",
+    "Sa mahabang lakad pauwi, may bagong ideyang doon dumarating",
+    "Ang bulaklak sa mesa ng kusina ay munting paalala ng malaking biyaya",
+    "May oras na nakalaan para sa iyo sa bawat pag-ikot ng mundo",
+    "Sa tahimik na sandali bago matulog, may hiling na dumarating nang malinaw"
+  ],
+  "themes": [
+    "Ang iyong kabutihan ang susi sa pintuang bagong oportunidad",
+    "Ang iyong integridad ang pundasyon ng lahat ng magandang bagay na darating sa buhay mo",
+    "Malapit na ang tagumpay, minsan nasa likod lang ng liko",
+    "Ang iyong mabuting hangarin ay gumagawa ng daan kahit sa gitna ng gubat",
+    "Ang pagpapakumbaba ay nagpapalaki ng iyong impluwensya sa mga tao",
+    "Ang mga taong tunay mong minamahal ay lalong lumalapit sa iyo",
+    "Ang biyaya ay dumadaloy sa pusong marunong tumanggap at magbigay",
+    "Ang iyong pagiging tapat ang magdadala sa iyo sa tamang desisyon",
+    "Ang iyong pasensya ngayong araw ang magiging malaking tagumpay sa hinaharap",
+    "Ang bawat mabuting salitang binibigkas mo ay nagpapabago ng mundo ng isang tao",
+    "Mabuti ang iyong husga, sundin ang instinto mo ngayong araw",
+    "Ang pagmamahal sa kapwa ay nagpapayaman ng bulsa at ng puso",
+    "Ang lakas ng loob mong maging totoo ang pinakamalaking yaman mo",
+    "Ang mga pangarap mo ay isinusulat sa tamang oras",
+    "Ang pagtitiwala mo sa proseso ang nagbubukas ng tulong mula sa hindi inaasahang direksyon",
+    "Ang tamang oras ay hindi nagmamadali, darating ito sa kanyang sariling takbo",
+    "Ang iyong ngiti ngayon ang magiging sanhi ng mga ngiti bukas",
+    "Malinaw ang iyong puso, at ang malinaw na puso ay may lakas",
+    "Ang maliliit na gawaing gawa nang bukas ang puso ay nagiging malalaking alaala",
+    "Ang mga hamon ngayon ay naglalagay ng pundasyon para sa iyong tagumpay",
+    "Ang iyong pagiging matapat ang nag-aakit ng mga taong matapat din",
+    "Kalusugan at lakas ang sumasayaw sa bawat hakbang mo",
+    "Ang pasasalamat ay laging nakakakitira ng mas maraming biyaya",
+    "Ang iyong tapang ngayong araw ang magiging kwento ng iyong mga apo",
+    "Ang bawat pagsubok ay balot ng araling ginto",
+    "Ang mabuting galaw mo ay hindi nakakalimutan ng tadhana",
+    "Ang iyong malasakit sa iba ang bumubuo ng tulay papunta sa tagumpay",
+    "Ang mga kakayahan mo ay parang mga bituin: lalong lumiliwanag kapag madilim ang paligid",
+    "Ang pagtutulungan ang nagpapagaan ng buhat ng buong barangay",
+    "Ang iyong dedikasyon ngayong gabi ay binubuhusan ng tagumpay bukas",
+    "Ang iyong tagumpay ay lumalapit nang tahimik, kahit hindi mo naririnig ang mga yabag nito",
+    "Hindi laging nasa malayo ang biyaya, minsan nasa hapag-kainan lang ito",
+    "Ang bawat mabuting gawa ay may daanan papunta sa pinagmulan nito",
+    "Ang iyong kabaitan ang tunay na lakas na hindi nasusukat",
+    "Puno ang hinaharap mo ng mga pintong hindi pa nabubuksan",
+    "Ang iyong malasakit sa pamilya ay kayamanang hindi kayang bilhin ng pera",
+    "Ang tamang desisyon ay ipinanganak kapag nagkasundo ang puso at isipan",
+    "Ang iyong karanasan ang pinakamatalinong guro, makinig ka ngayong araw",
+    "Ang mga bagong pakikipagkaibigan ay dumarating sa mga taong marunong ngumiti",
+    "Ang iyong paniniwala sa sarili ang nagbubukas ng mga pintong matagal nang nakasara",
+    "May sariling biyaya ang bawat araw, tanggapin ito nang may bukas na mga braso",
+    "Ang tagumpay ng iba ay hindi kalaban mo, may sarili kang orasan",
+    "Ang iyong mga kamay ay likas para magtanim ng mabuti at magani ng saya",
+    "Ang iyong liwanag ay hindi dapat itago, kailangan ng mundo nito"
+  ],
+  "closings": [
+    "Palaging may biyaya sa iyong daan",
+    "Mapalad ka ngayong araw at sa lahat ng araw na darating",
+    "Sa iyo ang mundo, tumayo at tanggapin ito",
+    "Magpakita ka lang ng mabuti, at ang lahat ng mabuti ay darating sa iyo",
+    "Panatilihing bukas ang puso, puno ito ng dahilan para ngumiti",
+    "Ikaw ay minamahal, ikaw ay sapat, ikaw ay handa",
+    "Nasa paligid mo ang biyaya, at nasa loob mo din",
+    "Ang iyong ngiti ay ilaw ng mundo",
+    "Maglakad kang may tiwala, ligtas ang daan",
+    "Ligtas ang mga pangarap mo sa kamay ng tadhana",
+    "Tanggapin mo ang biyayang dumarating sa iyo ngayon",
+    "Payapa ang gabing ito at maganda ang bukas",
+    "Salamat sa pagiging ikaw, mahalaga ka sa maraming tao",
+    "Puno ng maliliit na himala ang iyong araw",
+    "Panatilihing matatag ang loob, marangal ang wakas ng kwento mo",
+    "Kasama mo ang tagumpay sa bawat hakbang",
+    "Laging may lugar ng pag-asa sa iyong puso",
+    "Tahimik na tanggapin ang mga magagandang bagay na dumarating",
+    "Maganda ang mundo, at mas maganda ka pa",
+    "Puno ng tawa at init ang iyong bahay",
+    "Sa bawat sandali, may bukas na pintuang naghihintay sa iyo",
+    "Patuloy na isinusulat ang iyong kwento nang may init ng pagmamahal",
+    "Magtiwala ka, maganda ang mga bagay na hindi mo pa nakikita",
+    "Laging kasama mo ang gabay kahit saan ka pumunta",
+    "Ang iyong puso ang maging kompas mo sa lahat ng pinto",
+    "Ang saya ang tahanan ng iyong araw",
+    "Halos makita mo na ang magandang balita sa daan mo",
+    "Tandaan: hindi ka nag-iisa sa anumang hakbang mo",
+    "Maganda ang buhay para sa pusong puno ng pasasalamat",
+    "Ang iyong pagmamahal ay babalik sa iyo nang may sampung ganda",
+    "Ang iyong pananampalataya ang magiging lakas ng iyong puso",
+    "Abutin mo ang mga pangarap mo, nakahaba na ang iyong kamay",
+    "Ipagdiwang mo ang araw, ikaw ang bituin nito",
+    "Ang mabuting hangin ay dala ang mga pangarap mo patungo sa katuparan"
+  ]
+}

@@ -1,0 +1,28 @@
+// Small built-in fallback library (English). Used only if both the selected
+// locale's file and English fail to load, so the cookie can *always* crack.
+export const FALLBACK_FORTUNES: readonly string[] = [
+  "A small opportunity will open the door to something wonderful.",
+  "Your kindness is creating good fortune in ways you cannot yet see.",
+  "The next step you take may bring you closer to a dream.",
+  "Good things grow when you give them patience and care.",
+  "Today is a wonderful day to believe in new possibilities.",
+  "A pleasant surprise is traveling your way right now.",
+  "Your steady effort is quietly building a bright future.",
+  "Something you lost long ago will return with new meaning.",
+  "A kind word you shared is coming back to you today.",
+  "The warmth you give others is lighting your own path.",
+  "A door you thought was closed has a window waiting open.",
+  "Small joys today are seeds of tomorrow's happiness.",
+  "You are closer than you think to a moment worth celebrating.",
+  "Luck favors your gentle heart — keep going.",
+  "An unexpected hello will brighten your week.",
+  "Your patience is about to be rewarded in a simple, lovely way.",
+  "A new idea will sparkle in your mind this week.",
+  "The good you do returns to you multiplied.",
+  "Today carries a quiet gift just for you.",
+  "Hope is blooming somewhere you have not looked yet.",
+  "Your courage inspires more people than you know.",
+  "A gentle storm of good news is on the horizon.",
+  "Trust the pace of your own journey — it is exactly right.",
+  "Something wonderful is beginning with a single small step.",
+];

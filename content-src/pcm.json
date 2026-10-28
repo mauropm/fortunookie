@@ -1,0 +1,439 @@
+{
+  "locale": "pcm",
+  "punct": { "join": ". ", "end": "." },
+  "core": [
+    {
+      "c": "luck",
+      "t": "Today go carry one small surprise wey go turn to big smile for your face"
+    },
+    {
+      "c": "luck",
+      "t": "Chance dey waka towards your side, you just need make you open your door"
+    },
+    {
+      "c": "luck",
+      "t": "The thing wey you begin quietly today go show everybody pepper next month"
+    },
+    { "c": "luck", "t": "One small favour wey you do before go come back to you today" },
+    { "c": "luck", "t": "Your name don enter one good discussion wey no be you start" },
+    { "c": "luck", "t": "Luck don see your passport and e already apply for visa to go meet you" },
+    {
+      "c": "luck",
+      "t": "For the place wey you dey expect small tin, big blessing dey hide for there"
+    },
+    {
+      "c": "luck",
+      "t": "Today di right bus go collect you on time, and you go land everywhere you dey go fine"
+    },
+    { "c": "luck", "t": "Somebody wey you help long time don remember you, good news dey come" },
+    { "c": "luck", "t": "Your star dey rise slowly but e dey rise with sense and steady hand" },
+    { "c": "hope", "t": "Morning don break, and everything wey e carry na fresh chance for you" },
+    {
+      "c": "hope",
+      "t": "Whatever yesterday look like, today dey open clean book for your own story"
+    },
+    { "c": "hope", "t": "Hope no dey sleep, e dey just count the days till your own turn" },
+    { "c": "hope", "t": "The seed wey you plant for rain day go give you sweet fruit soon" },
+    { "c": "hope", "t": "You no done yet, and that one na the best news we get today" },
+    { "c": "hope", "t": "One door wey close before don open again, only this time e open wide" },
+    { "c": "hope", "t": "New beginning dey knock your door, no mind say you still dey make tea" },
+    { "c": "hope", "t": "Even cloud get lining, and today your own go shine like new coin" },
+    { "c": "hope", "t": "Tomorrow dey carry chair sit down for your corner, e ready to hold you" },
+    {
+      "c": "hope",
+      "t": "When you start to think say road don finish, road dey just learn new turn"
+    },
+    {
+      "c": "love",
+      "t": "Somebody dey smile when dem remember your name, even though you no dey their side"
+    },
+    { "c": "love", "t": "Your kind heart dey attract people wey go water you when you dry" },
+    { "c": "love", "t": "Love dey near you today, e dey find the right street to your house" },
+    { "c": "love", "t": "Make you talk the nice thing wey dey your heart, today na the right day" },
+    {
+      "c": "love",
+      "t": "Friendship wey start today go age like good palm oil, e go better with time"
+    },
+    { "c": "love", "t": "The person wey dey miss you don find small excuse to send you message" },
+    { "c": "love", "t": "Your hug fit fix one person whole week, no underestimate am" },
+    { "c": "love", "t": "Kindness wey you show today go travel far and come back with friends" },
+    {
+      "c": "love",
+      "t": "For the middle of plenty crowd, one person dey grateful say dem born you for this world"
+    },
+    { "c": "love", "t": "Love no dey rush, but today e dey jog towards your direction" },
+    { "c": "growth", "t": "The version of you wey dey come go make today version proud" },
+    {
+      "c": "growth",
+      "t": "You dey grow even for the days wey you just dey rest, and that one normal"
+    },
+    { "c": "growth", "t": "One small lesson today go save you plenty wahala tomorrow" },
+    { "c": "growth", "t": "Your courage dey stretch like muscle, today go prove am again" },
+    { "c": "growth", "t": "What you no fit do last month go enter your hand like water today" },
+    { "c": "growth", "t": "Nobody see the work wey you dey do but heaven no dey sleep" },
+    { "c": "growth", "t": "You dey turn page by page, and di story dey sweet pass before" },
+    { "c": "growth", "t": "New skill dey follow you like small faithful puppy, feed am well" },
+    {
+      "c": "growth",
+      "t": "The thing wey you dey dodge before go stand for you today like open door"
+    },
+    { "c": "growth", "t": "Plant small today, harvest big, na the law of your own season" },
+    {
+      "c": "abundance",
+      "t": "Money side go smile for your matter, small small e go gather like rain for bucket"
+    },
+    {
+      "c": "abundance",
+      "t": "Your table go spread wider this season, plenty guest go want to sit down"
+    },
+    {
+      "c": "abundance",
+      "t": "Blessing dey flow from one corner to another, and your name dey on the list"
+    },
+    { "c": "abundance", "t": "The harvest of your quiet work dey come, and e heavy pass basket" },
+    {
+      "c": "abundance",
+      "t": "Prosperity dey learn your address, soon e go dey knock without warning"
+    },
+    {
+      "c": "abundance",
+      "t": "More than you need, less than you expect, na so your year dey shape"
+    },
+    { "c": "abundance", "t": "One opportunity wey you no even price go pay you back plenty times" },
+    { "c": "abundance", "t": "Your hand go carry plenty, and your heart go know how to share am" },
+    {
+      "c": "abundance",
+      "t": "Good things dey pile for your corner like yam for barn, plenty and steady"
+    },
+    {
+      "c": "abundance",
+      "t": "Increase no dey count speed, e dey count direction, and your direction correct"
+    },
+    { "c": "wisdom", "t": "Today your sense go sharp like new blade, use am cut correct path" },
+    {
+      "c": "wisdom",
+      "t": "The right answer dey already for your chest, e just dey wait for quiet minute"
+    },
+    {
+      "c": "wisdom",
+      "t": "Listen twice before you answer once, wisdom go pay you salary for that one"
+    },
+    { "c": "wisdom", "t": "Old proverb don wake up today to guide your footsteps" },
+    { "c": "wisdom", "t": "You go know the right time to speak and the right time to chop" },
+    { "c": "wisdom", "t": "The question wey you dey avoid na him go open the door for you" },
+    { "c": "wisdom", "t": "Patience and sense dey your side, both of dem hold your hand today" },
+    { "c": "wisdom", "t": "Choice wey you make small today go save your big tomorrows" },
+    {
+      "c": "wisdom",
+      "t": "Experience dey whisper to you today, and na your own voice e dey borrow"
+    },
+    {
+      "c": "wisdom",
+      "t": "Clear head and soft heart go carry you go places wey strong hand no fit reach"
+    },
+    {
+      "c": "courage",
+      "t": "Take the step wey your leg dey want to dodge, ground go steady you well"
+    },
+    { "c": "courage", "t": "Your dream no get expiry date, today na fine day to start am" },
+    {
+      "c": "courage",
+      "t": "Nobody fit tell you say you no fit, especially you the one wey dey always try"
+    },
+    {
+      "c": "courage",
+      "t": "Courage no mean say your leg no dey shake, na say e dey shake but e dey march"
+    },
+    {
+      "c": "courage",
+      "t": "That big thing wey you dey look from far go become small thing by evening"
+    },
+    { "c": "courage", "t": "Your voice get power today, and people go lean their ears come near" },
+    {
+      "c": "courage",
+      "t": "Raise your hand for the thing wey you want, heaven dey count raised hands"
+    },
+    {
+      "c": "courage",
+      "t": "Wahala come for visit today, e no get appointment to carry you go anywhere"
+    },
+    {
+      "c": "courage",
+      "t": "Start where you dey, use wetin you get, and di road go appear as you dey walk"
+    },
+    {
+      "c": "courage",
+      "t": "The lion inside you dey stretch e leg today, make you no hold am back"
+    },
+    {
+      "c": "joy",
+      "t": "Something small go make you laugh today and you go forget wetin make you frown"
+    },
+    { "c": "joy", "t": "Today joy go find you even for queue, e no need your address" },
+    {
+      "c": "joy",
+      "t": "Your smile dey do important national service, continue to use am everyday"
+    },
+    {
+      "c": "joy",
+      "t": "Good news dey travel with one song wey you love, make you ready to dance small"
+    },
+    { "c": "joy", "t": "The way sun shine this morning na for your own celebration" },
+    { "c": "joy", "t": "Gratitude dey open plenty door wey complaint no fit find key for" },
+    { "c": "joy", "t": "Today fine thing go happen for your area and everybody go hear am" },
+    { "c": "joy", "t": "Enjoy the small chops and di bigger ones, both of dem belong to you" },
+    {
+      "c": "joy",
+      "t": "Laughter dey plan to visit your house today, make your sitting room warm for am"
+    },
+    { "c": "joy", "t": "Your happiness no need big budget, small things dey arrange demself fine" },
+    {
+      "c": "resilience",
+      "t": "You don survive plenty tough days already, and each one teach you something"
+    },
+    { "c": "resilience", "t": "This challenge na just stair, and your leg strong pass stair" },
+    {
+      "c": "resilience",
+      "t": "Whatever bend you today no go break you, na bend make tree no snap"
+    },
+    {
+      "c": "resilience",
+      "t": "You dey come back stronger, and this time you bring sense with you"
+    },
+    { "c": "resilience", "t": "Rain go finish, sun go remember your name, na so the sky dey work" },
+    {
+      "c": "resilience",
+      "t": "The same fire wey burn dry leaf go make your resolve shine like gold"
+    },
+    { "c": "resilience", "t": "Pick yourself with gentle hands, na champion you dey rebuild" },
+    { "c": "resilience", "t": "Slow recovery still dey move, and movement na movement" },
+    { "c": "resilience", "t": "You carry patience like shield and courage like walking stick" },
+    { "c": "resilience", "t": "Your comeback story go sweet pass the setback, hold your own" },
+    {
+      "c": "adventure",
+      "t": "New road dey call your name today, no be far, just around one corner"
+    },
+    {
+      "c": "adventure",
+      "t": "Pack small curiosity for your pocket, adventure like light traveller"
+    },
+    { "c": "adventure", "t": "One journey wey you dey postpone don reduce e price, today na time" },
+    {
+      "c": "adventure",
+      "t": "Strange food dey wait to become your new favourite, trust your tongue"
+    },
+    {
+      "c": "adventure",
+      "t": "Maps dey change for you this week, everywhere you go you go find good shortcut"
+    },
+    { "c": "adventure", "t": "Today go give you one story wey your grandchildren go love to hear" },
+    {
+      "c": "adventure",
+      "t": "If you travel with good heart, everybody you meet go become your guide"
+    },
+    {
+      "c": "adventure",
+      "t": "Di world get plenty open doors, and today one of dem get your name for front"
+    },
+    { "c": "adventure", "t": "Small detour today go carry you go place wey fine picture dey waka" },
+    {
+      "c": "adventure",
+      "t": "Go where your feet dey guide, the best view dey always find the brave"
+    },
+    {
+      "c": "community",
+      "t": "Neighbour wey you greet small go remember you when good thing dey share"
+    },
+    { "c": "community", "t": "Your circle dey grow with people wey go clap when you win" },
+    {
+      "c": "community",
+      "t": "Today one hand go extend for you, and another hand go dey your side"
+    },
+    {
+      "c": "community",
+      "t": "Community of good people dey gather for your corner, you just dey reach"
+    },
+    { "c": "community", "t": "When you share your bread, your pot go find extra pot" },
+    { "c": "community", "t": "Somebody wey you never meet go speak well of you today" },
+    {
+      "c": "community",
+      "t": "Together dey easy, and today your people dey ready to waka with you"
+    },
+    {
+      "c": "community",
+      "t": "The village wey support you dey bigger than you think, your people plenty"
+    },
+    { "c": "community", "t": "Your gift go meet person wey need am exact today, no doubt am" },
+    {
+      "c": "community",
+      "t": "Good company dey your future like shade for hot afternoon, enjoy the cool"
+    },
+    { "c": "peace", "t": "Your mind dey find quiet like river wey don see the sea" },
+    { "c": "peace", "t": "Today go come soft, dey go soft, and finish soft" },
+    {
+      "c": "peace",
+      "t": "Peace dey your pocket like small smooth stone, touch am whenever you need"
+    },
+    { "c": "peace", "t": "Breathe in calm, breathe out rush, and your day go balance itself" },
+    { "c": "peace", "t": "Nothing fit disturb the corner of your heart wey you already tidy" },
+    { "c": "peace", "t": "Rest no be reward, na luggage for the journey, pack am well" },
+    { "c": "peace", "t": "Your heart get sense, today e dey speak and everybody go hear" },
+    { "c": "peace", "t": "Slow water sweet, and your own dey pour gentle and steady" },
+    { "c": "peace", "t": "Make peace with yesterday, am and today don already shake hand for you" },
+    { "c": "peace", "t": "Quiet joy dey come like evening breeze, just open your window small" },
+    {
+      "c": "luck",
+      "t": "The universe dey shuffle deck for you today, and your cards dey look fine"
+    },
+    { "c": "hope", "t": "Even the longest night dey carry sunrise inside im pocket" },
+    { "c": "love", "t": "The way you take care of people go come back to you with interest" },
+    { "c": "growth", "t": "Your head dey grow pass the hat wey people give you, keep learning" },
+    {
+      "c": "abundance",
+      "t": "Season of plenty dey knock, make you find bigger pot for your kitchen"
+    },
+    {
+      "c": "wisdom",
+      "t": "Two ears and one mouth, use dem in that proportion today and you go win"
+    },
+    { "c": "courage", "t": "Begin with shaking voice, the song go steady himself along the way" },
+    {
+      "c": "joy",
+      "t": "One small dance for kitchen this morning go set the tone for the whole day"
+    },
+    { "c": "resilience", "t": "The rope wey tie you before don turn to rope for jumping games" },
+    {
+      "c": "adventure",
+      "t": "Put on your travelling slippers, even the street wey you know go show you new face"
+    },
+    {
+      "c": "community",
+      "t": "Your small contribution go enter the big pot of your people and sweet am"
+    },
+    { "c": "peace", "t": "Like hammock for veranda, today dey invite you to swing slow" }
+  ],
+  "openings": [
+    "Your morning start with one good news",
+    "Today wake up and e dey look you well well",
+    "Sun don rise and e carry fresh chance for your hand",
+    "Di day begin soft, like fresh bread wey dem just cut",
+    "Open your eye, today get your own name for front",
+    "Something nice dey follow you from yesterday, e just reach today",
+    "Today na small festival for your life, no be birthday but e dey look like am",
+    "Di air for your street today carry good favour",
+    "Your day open like market wey full of sweet option",
+    "Before you even finish your tea, blessing don start to arrange itself",
+    "Di moon do im best last night make you fit sleep well, now morning take over",
+    "Di road wey you dey avoid before go greet you today like old friend",
+    "Your name dey on good luck tongue this morning",
+    "One door wey you knock before don finally hear you",
+    "Di week don turn to your side, and e dey smile",
+    "Today even the birds dey sing with your own melody",
+    "Something wey you forget don come back to make you happy",
+    "Good thing dey do warm up exercise for your area",
+    "Di morning dew dey wash your way clean for today",
+    "Today you go need only half of the plan, di other half na pure blessing",
+    "Di sun don put on e best colour just for your opening scene",
+    "Make you wash your face, put on confidence, today dey wait for you",
+    "One fine surprise don enter your day without appointment",
+    "Today your pocket, your heart and your mind go dey in one agreement",
+    "Di day wey you dey pray for don finally show up",
+    "Your morning light, your path clear, your heart light",
+    "Today no be ordinary day, e dey carry special delivery",
+    "Even the wind dey push your back for the right direction",
+    "Fine thing dey gather for your corner like rain cloud wey ready to bless",
+    "Your day start fine, and e no plan to stop fine",
+    "Di clock don strike for your own time to shine",
+    "Something good dey boil for pot, e just need small patience",
+    "Today favour go dey your front and rear",
+    "New day don land, and na you be the VIP",
+    "Di sky write one good sentence for you this morning",
+    "Today laughter dey your side like old friendship",
+    "Everybody wey love you dey root for you this morning",
+    "Your day dey open like fresh page, and pen dey your hand",
+    "Good luck dey jog towards your house, e no dey far",
+    "Today the good side of life dey take you on tour"
+  ],
+  "themes": [
+    "Small steps today go carry you go far tomorrow",
+    "Wetin you plant for quiet go shout for public",
+    "One good turn dey collect another good turn, and dem go visit you together",
+    "Your consistency dey build one strong house wey rain no fit shake",
+    "Count your blessings small small, dem go multiply like fish for net",
+    "Learn something small today and keep am for your back pocket",
+    "Patience and hustle dey dance together for your matter",
+    "Good people dey come and careless schedule dey go",
+    "Your heart get compass, e know the road to good thing",
+    "When you share, your store dey grow instead of reduce",
+    "Courage no dey shout, e just dey take the next step",
+    "Your good name be your best account for this world",
+    "Every effort dey count, even the ones wey nobody see",
+    "Di right time dey prepare itself while you dey work",
+    "Small rest dey turn tired person to fresh champion",
+    "When you speak good word, you dey plant garden wey everybody go sit for",
+    "Your story still dey write, and di best chapter dey near",
+    "Humble people dey collect wisdom like plenty water",
+    "One honest word today go save ten excuse tomorrow",
+    "Opportunities like early bus, dem dey collect the ones wey dey there",
+    "Your dream deserve one small schedule, give am date and time",
+    "What you dey give freely go come back with interest",
+    "Di tree wey bend dey survive storm, your softness na strength",
+    "Listen well, answer better, and people go respect your voice",
+    "Progress no need to loud, e just need to steady",
+    "Two small good habits go chop one big wahala",
+    "When you lift one person, your own height dey increase",
+    "Your season no dey compete with anybody else own",
+    "Use your head, but no forget to carry your heart",
+    "Good question dey open door wey right answer no fit knock",
+    "Every challenge dey carry envelope, open am you find lesson inside",
+    "Your table go bigger, your heart go softer, your load go lighter",
+    "Faith without work na song without drum, so keep both of dem",
+    "A calm head dey choose better than fast hand",
+    "Blessing dey flow to the place wey gratitude dey stay",
+    "Make your yes mean yes, and make your no protect your peace",
+    "Di world dey reward people wey start before dem ready",
+    "Little by little, bird build im nest and fly far",
+    "New skill for your hand na key for new room",
+    "When you do good, goodness dey learn your address",
+    "Your body dey carry strength wey you no yet use, save am for today",
+    "Make you look up, your horizon don widen since last week",
+    "The hand wey dey give dey always dry faster than the one wey dey hold",
+    "Tomorrow dey borrow strength from wetin you do today"
+  ],
+  "closings": [
+    "Your day go wrap with sweet smile",
+    "Good news go reach you before evening",
+    "Blessing go dey your front, and peace go dey your back",
+    "You go sleep tonight with light heart",
+    "Everything wey suppose sweet you today go sweet you",
+    "Hold your own, your time dey shine",
+    "Today go end like fine song wey everybody enjoy",
+    "Good thing dey come, and e no dey late",
+    "Your cup go full, e go even overflow small",
+    "Na so, the good life dey your side",
+    "Walk your own walk, your road dey clap for you",
+    "Today go obey you, and e go obey you well",
+    "Make sweet mouth follow you everywhere you step",
+    "Your joy no get expiry, e dey just keep renewing",
+    "Di best for today dey still come, but even di rest fine",
+    "Go and collect wetin dey your name today",
+    "Your day go finish soft like pillow wey happy person sleep on",
+    "One more good thing dey your pocket already",
+    "Nothing fit spoil today for you, e too fine for that",
+    "You too much, and today go agree with you",
+    "Fine person like you no dey miss good day",
+    "Keep shining, your light dey show other people road",
+    "Today go write you for good book",
+    "Every step you take today go bless you back",
+    "Your people go proud of you before night fall",
+    "Small happiness go find you, big one dey trail am",
+    "Enjoy today well well, na your own portion be that",
+    "Your name go come up for good place today",
+    "Peace go sit for your house like family",
+    "Today your smile go cost nothing but e go worth plenty",
+    "Good wind dey push your boat, make you just steer",
+    "Tomorrow go meet you with full belly and soft bed",
+    "Di good thing wey you dey carry, e go land today",
+    "Your day go close like golden evening, warm and sweet"
+  ]
+}

@@ -1,0 +1,358 @@
+{
+  "locale": "pl",
+  "punct": { "join": ". ", "end": "." },
+  "core": [
+    {
+      "c": "luck",
+      "t": "Dzisiejszy dzień otwiera przed tobą bramę, której jeszcze nie dostrzegasz"
+    },
+    {
+      "c": "luck",
+      "t": "Zbieg okoliczności ustawił się dziś w kolejce po to, żeby spotkać właśnie ciebie"
+    },
+    { "c": "luck", "t": "Dobre wieści są już w drodze i lada moment zapukają do twych drzwi" },
+    { "c": "luck", "t": "Na rogu najbliższych dni czeka na ciebie małe szczęście z rozbiegu" },
+    { "c": "luck", "t": "Kto sieje cierpliwość, zbiera plon piękniejszy, niż wskazuje kalendarz" },
+    { "c": "luck", "t": "Los dziś szczególnie sprzyja tym, którzy patrzą sercem" },
+    {
+      "c": "luck",
+      "t": "Jedna krótka rozmowa może dziś otworzyć ścieżkę, o której marzysz po cichu"
+    },
+    {
+      "c": "luck",
+      "t": "Szczęście nie ma zegarka, a jednak przychodzi w najlepszej możliwej chwili"
+    },
+    { "c": "luck", "t": "Dziś nawet drobny przypadek może okazać się początkiem czegoś wielkiego" },
+    { "c": "luck", "t": "Pomyślny wiatr właśnie nabiera siły dokładnie nad twoim statkiem" },
+    { "c": "hope", "t": "Po każdej długiej nocy przychodzi świt, który rozjaśnia wszystkie drogi" },
+    { "c": "hope", "t": "Już pod śniegiem śni o wiośnie pierwsze ziarno" },
+    { "c": "hope", "t": "Jutro jest czystą kartką, a pióro trzymasz w swoich dłoniach" },
+    { "c": "hope", "t": "To, co dziś wydaje się dalekie, przybliża się z każdym twoim krokiem" },
+    { "c": "hope", "t": "Każdy wschód słońca to ciche zaproszenie, by ufać od nowa" },
+    { "c": "hope", "t": "Gdzieś dziś zaczyna się rozdział, który będziesz czytać z uśmiechem" },
+    { "c": "hope", "t": "Nadzieja rośnie po cichu jak trawa przebijająca się przez chodnik" },
+    { "c": "hope", "t": "Nawet mały płomyk potrafi utrzymać ciepło do rana" },
+    { "c": "hope", "t": "Pierwsza jaskółka już leci i niesie ze sobą całą wiosnę" },
+    {
+      "c": "hope",
+      "t": "Nie musisz wiedzieć wszystkiego dziś; początek może być mały i nieśmiały"
+    },
+    { "c": "love", "t": "Ktoś dziś pomyśli o tobie z uśmiechem, którego się nie spodziewasz" },
+    {
+      "c": "love",
+      "t": "Jedno ciepłe słowo powiedziane dziś może ogrzewać czyjeś serce przez lata"
+    },
+    { "c": "love", "t": "Twoje serce ma jeszcze miejsce na kolejne piękne spotkanie" },
+    { "c": "love", "t": "Kto hojnie dzieli się dobrem, rozpoznaje miłość na każdym kroku" },
+    { "c": "love", "t": "Przyjaciel czeka dziś na twoją historię i na drugą filiżankę herbaty" },
+    { "c": "love", "t": "Przyjaźń jest ogrodem; dziś jest dobra pogoda, by kwitnąć we dwoje" },
+    { "c": "love", "t": "Ciepło, które ofiarujesz innym, wraca do ciebie podwojone" },
+    { "c": "love", "t": "Powiedz dziś głośno, co kochasz, a usłyszysz piękną odpowiedź" },
+    {
+      "c": "love",
+      "t": "Miłość mieszka w szczegółach: w wiadomości, w uśmiechu, w otwartych drzwiach"
+    },
+    { "c": "love", "t": "Drobny gest dziś znaczy dla kogoś więcej, niż sam podejrzewasz" },
+    { "c": "growth", "t": "Twoja droga jest dalsza, niż przypuszczasz, i coraz piękniejsza" },
+    {
+      "c": "growth",
+      "t": "Każda umiejętność zaczyna się od niezgrabnego pierwszego kroku i warto go postawić"
+    },
+    { "c": "growth", "t": "Dziś przychodzi ci łatwo to, co rok temu wydawało się niemożliwe" },
+    { "c": "growth", "t": "Kto zagląda w głąb siebie, znajduje tam ogród czekający na pomysł" },
+    {
+      "c": "growth",
+      "t": "Dzisiejszy drobny błąd może nauczyć cię więcej niż cały szereg pewników"
+    },
+    {
+      "c": "growth",
+      "t": "Granice przesuwa się najpierw cicho, w środku, a potem cały świat to widzi"
+    },
+    {
+      "c": "growth",
+      "t": "W tobie rośnie właśnie to, co jeszcze wczoraj wydawało się nieosiągalne"
+    },
+    { "c": "growth", "t": "Każde szczere pytanie do siebie otwiera nowe, jasne wnętrze" },
+    { "c": "growth", "t": "Najlepsza wersja ciebie to nie meta, lecz piękny codzienny zwyczaj" },
+    { "c": "growth", "t": "Twoje talenty czekają w przedpokoju; daj dziś szansę jednemu z nich" },
+    { "c": "abundance", "t": "Obfitość zaczyna się od dostrzeżenia tego, co już jest" },
+    { "c": "abundance", "t": "Praca twoich rąk wyda owoce słodsze, niż pamiętasz" },
+    { "c": "abundance", "t": "Nadchodzi czas pełnych stołów i beztroskich popołudni" },
+    { "c": "abundance", "t": "Kto dzielił się chlebem, dziś otrzymuje cały bochenek z masłem" },
+    {
+      "c": "abundance",
+      "t": "Przy stole jest wolne krzesło, a chleba starczy dla następnego gościa"
+    },
+    { "c": "abundance", "t": "Plon dzisiejszego dnia zasiano w cichych, cierpliwych tygodniach" },
+    {
+      "c": "abundance",
+      "t": "Drobna obfitość to też obfitość: dodatkowy cukierek, druga filiżanka kakao"
+    },
+    {
+      "c": "abundance",
+      "t": "Zdziwisz się, jak wiele rzeczy ułoży się na swoje miejsce w najbliższych tygodniach"
+    },
+    {
+      "c": "abundance",
+      "t": "W twoich planach jest miejsce, a w życiu dość przestrzeni na jeszcze jeden piękny pomysł"
+    },
+    { "c": "abundance", "t": "Pełne dni i łagodne wieczory — tak właśnie wygląda dobre życie" },
+    { "c": "wisdom", "t": "Kto słucha spokojnie, ten słyszy odpowiedź zagłuszaną przez pośpiech" },
+    { "c": "wisdom", "t": "Mądrość to także odwaga, by poprosić o jaśniejsze wyjaśnienie" },
+    { "c": "wisdom", "t": "Czasem sama podjęta decyzja jest już połową mądrości" },
+    { "c": "wisdom", "t": "Doświadczenie, które nosisz w sobie, jest kompasem, który nie kłamie" },
+    { "c": "wisdom", "t": "Kto wybiera powoli, zwykle szybciej dociera na miejsce" },
+    {
+      "c": "wisdom",
+      "t": "Dzisiejsze dobre pytanie jest warte więcej niż jutrzejsza szybka odpowiedź"
+    },
+    { "c": "wisdom", "t": "Mądrość zaczyna się od zdumienia nad rzeczami prostymi" },
+    { "c": "wisdom", "t": "Twój wewnętrzny głos zna skrót; daj mu dziś dojść do słowa" },
+    {
+      "c": "wisdom",
+      "t": "Odkładanie bywa mądrością, która chciała przespać się jeszcze jedną noc"
+    },
+    { "c": "wisdom", "t": "Wsłuchaj się w ciszę między słowami — tam właśnie mieszka jasność" },
+    { "c": "courage", "t": "Miej dziś odwagę zacząć jedną rzecz, od której szybciej bije serce" },
+    {
+      "c": "courage",
+      "t": "Odwaga to nie wielki skok, lecz mały krok postawiony mimo drżenia kolan"
+    },
+    {
+      "c": "courage",
+      "t": "Twoje marzenie zasługuje na miejsce w kalendarzu, nie tylko w myślach"
+    },
+    { "c": "courage", "t": "Cichy głos też potrafi powiedzieć dzielne słowo — zrób to dziś" },
+    { "c": "courage", "t": "To, co wczoraj wydawało się ścianą, dziś okazuje się bramą" },
+    {
+      "c": "courage",
+      "t": "Zacznij od pierwszego zdania, a reszta historii napisze się szybciej, niż myślisz"
+    },
+    { "c": "courage", "t": "Ktoś w twoim otoczeniu czeka właśnie na twoją odwagę" },
+    { "c": "courage", "t": "Kto pyta śmiało, często słyszy w odpowiedzi piękne tak" },
+    { "c": "courage", "t": "Ambicja jest iskierką — chowaj ją dziś jak ognisko, które ma urosnąć" },
+    { "c": "courage", "t": "Góra zostanie na miejscu, za to ty urośniesz z każdym krokiem w górę" },
+    { "c": "joy", "t": "Dziś wystarczy prosta rzecz: ciepły kubek, dobra piosenka, czyjś uśmiech" },
+    { "c": "joy", "t": "Najpiękniejszy śmiech dnia przychodzi sam, bez zaproszenia" },
+    { "c": "joy", "t": "Małe radości są paliwem wielkich serc — tankuj je hojnie" },
+    { "c": "joy", "t": "Zaśpiewaj piosenkę, którą znasz na pamięć; ktoś chętnie dołączy" },
+    {
+      "c": "joy",
+      "t": "Wdzięczność podwaja to, czego się dotknie; dotknij dziś z wdzięcznością czegoś małego"
+    },
+    {
+      "c": "joy",
+      "t": "Czeka na ciebie dziś coś pysznego, a druga porcja przyjemności też jest dozwolona"
+    },
+    { "c": "joy", "t": "Słońce przebijające się przez chmury mruga dziś właśnie do ciebie" },
+    { "c": "joy", "t": "Kto dzieli radość, dostaje z powrotem całą miseczkę radości" },
+    { "c": "joy", "t": "Jest dziś dobry powód, by iść przez miasto z podskokami — wymyśl go sam" },
+    { "c": "joy", "t": "Ciesz się tą chwilą, zanim zostanie wspomnieniem; już teraz jest piękna" },
+    { "c": "resilience", "t": "Twoje ramiona są silniejsze, niż myślisz, i wiele już uniosły" },
+    { "c": "resilience", "t": "Każda fala, która odeszła, nauczyła cię lepiej stać na nogach" },
+    {
+      "c": "resilience",
+      "t": "Twoja wytrwałość jest stara i młoda jednocześnie, jak drzewo z nowymi pędami"
+    },
+    {
+      "c": "resilience",
+      "t": "Cokolwiek zostawiasz za sobą, oddajesz mu w zamian mądrość i spokój"
+    },
+    { "c": "resilience", "t": "Droga była wyboista, ale twoje nogi złapały z nią dobry rytm" },
+    {
+      "c": "resilience",
+      "t": "Sto razy wątpliwość mówiła, że się nie uda, i sto razy jednak się udało"
+    },
+    { "c": "resilience", "t": "Odpoczynek też jest posuwaniem się naprzód" },
+    { "c": "resilience", "t": "Upadaj miękko, wstawaj powoli i sprawdź, jak pewna jest ziemia" },
+    {
+      "c": "resilience",
+      "t": "Wiatr ugina gałęzie, ale las wciąż stoi; masz w sobie siłę starych dębów"
+    },
+    { "c": "resilience", "t": "Po tygodniu deszczu każdy liść pachnie świeżymi możliwościami" },
+    { "c": "adventure", "t": "Nadkładanie drogi bywa najszybszą trasą do nieoczekiwanego piękna" },
+    {
+      "c": "adventure",
+      "t": "Czeka na ciebie szlak, który opowie twoim butom zupełnie nową historię"
+    },
+    { "c": "adventure", "t": "Wybierz dziś ulicę, której jeszcze nie znasz, i daj się zaskoczyć" },
+    {
+      "c": "adventure",
+      "t": "Świat jest szerszy niż twój kalendarz — wpisz w niego dziś choć kawałek"
+    },
+    { "c": "adventure", "t": "Za górą mieszkają historie znane tylko wędrowcom" },
+    {
+      "c": "adventure",
+      "t": "Podróż bez planu może stać się najpiękniejszym wspomnieniem tego roku"
+    },
+    {
+      "c": "adventure",
+      "t": "Zmiana punktu widzenia też jest podróżą; dziś spójrz na świat z nowej strony"
+    },
+    {
+      "c": "adventure",
+      "t": "Twój kompas jest nastawiony na odkrywanie, a morze jest bliżej, niż myślisz"
+    },
+    { "c": "adventure", "t": "Nowe miejsca budzą stare marzenia — daj im dziś szansę" },
+    {
+      "c": "adventure",
+      "t": "Ruszaj najbardziej krętą drogą; takie historie opowiada się potem najlepiej"
+    },
+    {
+      "c": "community",
+      "t": "Wspólnota grzeje się od ludzi, którzy jako pierwsi podają pomocną dłoń"
+    },
+    { "c": "community", "t": "Stół będzie dłuższy, jeśli otworzysz drzwi" },
+    { "c": "community", "t": "Ramię przy ramieniu niesie każdy ciężar lżej" },
+    {
+      "c": "community",
+      "t": "Sąsiedztwo jest jak kołdra z wielu nitek — twoja nitka wzmacnia ją najbardziej"
+    },
+    { "c": "community", "t": "Śmiech dzielony z innymi smakuje najlepiej ze wszystkich" },
+    { "c": "community", "t": "Ktoś w twojej okolicy liczy po cichu na twój uśmiech" },
+    { "c": "community", "t": "Oddaj dziś coś miejscu, które cię nosi — odda ci z nawiązką" },
+    {
+      "c": "community",
+      "t": "Wspaniały zespół to nie przypadek, lecz ludzie wybierający się nawzajem"
+    },
+    { "c": "community", "t": "Nieznajomi to sąsiedzi, którzy jeszcze nie wypili razem herbaty" },
+    { "c": "community", "t": "Ciepłe słowa są mostem otwierającym się w obie strony" },
+    { "c": "peace", "t": "Cisza w tobie nie jest pustką; to pokój z pięknym widokiem" },
+    { "c": "peace", "t": "Wdech, wydech — świat poczeka przez chwilę uprzejmie" },
+    { "c": "peace", "t": "Równowaga to nie bezruch, lecz taniec we własnym tempie" },
+    { "c": "peace", "t": "Dziś nie musisz niczego udowadniać; wystarczy, że jesteś" },
+    {
+      "c": "peace",
+      "t": "Cierpliwość jest łagodną rzeką, która w swoim czasie niesie wszystko do morza"
+    },
+    { "c": "peace", "t": "Uchylij drzwi świata i wpuść do środka spokojny wiatr" },
+    { "c": "peace", "t": "Tam, gdzie kierujesz uwagę, tam rozrasta się spokój" },
+    { "c": "peace", "t": "Księżyc nie musi się śpieszyć, żeby się dopełnić" },
+    { "c": "peace", "t": "Chwila nicnierobienia to prezent dla twojej głowy" },
+    { "c": "peace", "t": "Odłóż dziś jedną troskę na półkę; świat poradzi sobie bez niej do jutra" }
+  ],
+  "openings": [
+    "Poranek zaczyna się dziś uśmiechem zapisanym na twoje imię",
+    "Dzień ma w kieszeni niespodziankę przygotowaną właśnie dla ciebie",
+    "W powietrzu unosi się dziś coś dobrego",
+    "Nad twoimi najbliższymi dniami zapala się małe, pogodne światełko",
+    "Dni pochylają się dziś ku tobie przychylnie",
+    "W kalendarzu tego tygodnia jest gwiazdka z twoim imieniem",
+    "Świat dziś mruga do tych, którzy patrzą uważnie",
+    "Coś pięknego majaczy na skraju tego tygodnia",
+    "Los ma dla ciebie niespodziankę schowaną za najbliższym rogiem",
+    "Poranne słońce kładzie na twojej drodze ścieżkę możliwości",
+    "Dziś na niebie widać dobry znak — wszystko idzie w dobrą stronę",
+    "Przypadek sprawdził twój adres i wybrał się w twoją stronę",
+    "Gdzieś dziś otwierają się drzwi z kluczem podpisanym twoim imieniem",
+    "Pory roku się zmieniają, a ta pora należy do ciebie",
+    "Łagodny wiatr zmian wieje dziś ku tobie",
+    "Życie wsypało ci dziś do kieszeni garść drobnych przyjemności",
+    "W najbliższych dniach czeka cię coś miłego",
+    "Kto dziś szeroko otworzy oczy, zobaczy szczęście przechodzące przez ulicę",
+    "Pierwszy pasek światła dnia pada prosto na twoją ścieżkę",
+    "Gdzieś zapalono dziś dla ciebie dodatkową świeczkę",
+    "Za pasem nowa pora roku z dobrym scenariuszem",
+    "Dni tego miesiąca mają wobec ciebie dobre zamiary",
+    "Dziś rano rozbrzmiał cichy dzwonek: twój czas się przybliża",
+    "Świat dziś zwalnia kroku, jakby specjalnie dla twojej chwili",
+    "Otwiera się rozdział z pogodnym pierwszym zdaniem",
+    "Najbliższe tygodnie leżą przed tobą jak nierozpakowane prezenty",
+    "Ktoś dziś rano pomyślał o tobie dobrze, choć o tym nie wiesz",
+    "Na niebie tego tygodnia świeci dla ciebie korzystna gwiazda",
+    "Życie zachowało dla ciebie dziś to, co najlepsze",
+    "Dzień zaczyna się od uśmiechu tuż za zakrętem",
+    "Szczęście cicho puka — dziś jest dzień, żeby otworzyć",
+    "W skrzynce na najbliższe dni szeleści dobra nowina",
+    "Między dziś a jutrem stoi most zbudowany do lżejszych kroków",
+    "Przy twojej stronie stołu ktoś przysuwa krzesło z dobrym towarzystwem",
+    "Sezon małych cudów właśnie się zaczyna — i to dla ciebie",
+    "Świt kreśli na twojej mapie zupełnie nową trasę",
+    "Korzystny wiatr już dmucha, a twój kurs rysuje się coraz wyraźniej",
+    "W korytarzu dni zapaliło się dziś dodatkowe światło",
+    "Pierwsza zorza maluje dziś dla ciebie pogodne znaki",
+    "W kalendarzu życia zbliża się strona ze słońcem i uśmiechem"
+  ],
+  "themes": [
+    "Cierpliwość wypłaca dywidendy chwilami, których nie śmiemy nawet pragnąć",
+    "Kto starannie sieje, ten wkrótce kosztuje sowitych zbiorów",
+    "Szczere słowo powiedziane dziś to lokata ze złotym oprocentowaniem",
+    "Małe kroki dzisiejszego dnia złożą się jutro na piękną drogę",
+    "Życzliwość zawsze wraca do domu — czasem z opóźnieniem, lecz zawsze pełna",
+    "Nowe ścieżki otwierają się przed tymi, którzy schodzą z utartych szlaków",
+    "Poprosić o pomoc to nie słabość, lecz mądry pierwszy krok",
+    "Drzwi jednej okazji stoją otworem, czekając na delikatne pchnięcie",
+    "Wysiłki ostatnich miesięcy są ziarnami, które właśnie podnoszą główki",
+    "Ścieżki współpracy prowadzą do miejsc niedostępnych dla samotnych wędrowców",
+    "Nadszedł czas dojrzały dla pomysłu od dawna pielęgnowanego w sekrecie",
+    "Kto wdzięcznie liczy to, co ma, mnoży to niepostrzeżenie",
+    "Nieoczekiwane spotkanie może dziś otworzyć nowy, piękny rozdział",
+    "Dzielenie się wiedzą jest jedynym źródłem, które się wypełnia, gdy się z niego czerpie",
+    "Owoce ciężkiej pracy smakują najlepiej w poczciwym towarzystwie",
+    "Szczere pytanie zadane sobie otwiera drogę do piękniejszego wyboru",
+    "Zmiana cicho puka do drzwi; kto otworzy, ten dostanie pamiątkę",
+    "Twój talent jest mostem, który ktoś gdzieś zostawia dla ciebie",
+    "Odwaga rośnie, kiedy podlewa się ją dobrym słowem",
+    "Poczekalnie bywają przedpokojami miłych niespodzianek",
+    "Kto czyni dobrze bez liczenia, gromadzi niewidzialne skarby",
+    "Spokój w głowie jest najlepszą glebą dla rozkwitających planów",
+    "Właściwy moment istnieje i zawsze zaczyna się pierwszym krokiem",
+    "Razem można unieść nawet najcięższe drzwi",
+    "Jeden szczery komplement potrafi nieść czyjś cały tydzień",
+    "Droga przed tobą jest krótsza, niż się wydawało, i o wiele ładniejsza",
+    "Okazja, która zdawała się przebrzmiała, ma odnogę prowadzącą do czegoś lepszego",
+    "Twoje słowa sadzą kwiaty, które ktoś inny zerwie w przyszłym tygodniu",
+    "Kto innym budzi radość, sam dostaje jej całą kieszeń",
+    "Kto innym podaje rękę, sam trafia na najbardziej gościnne progi",
+    "Wyzwania są zeszytami z ćwiczeniami, a ich wnętrze bywa złote",
+    "Pomysł wypowiedziany na głos dostaje dziś skrzydła",
+    "Jutrzejsi sąsiedzi wyrastają z dzisiejszej życzliwości",
+    "Im więcej darujesz, tym więcej zostaje dla ciebie",
+    "Zaufanie buduje się z małych uczciwych kamieni, dzień po dniu",
+    "Najpiękniejsze rzeczy rosną w tempie najspokojniejszego ogrodnika",
+    "Kto przyzna, że czegoś nie wie, ten uczy się najszybciej",
+    "Zaczynasz w najlepszym momencie — dokładnie na czas, by zdążyć po coś pięknego",
+    "Półsłówko powiedziane z uśmiechem to cały piękny początek",
+    "Szczęście rozmnaża się, gdy rozkłada się je na więcej talerzy",
+    "Jest już zarezerwowane miejsce na ławeczce dobrych wiadomości",
+    "Łagodna siła przenosi więcej gór niż pośpiech",
+    "Dzisiejsza przysługa jest drzewem, które jutro da komuś cień",
+    "Wybór dokonany z wdzięcznością prawie zawsze okazuje się właściwy"
+  ],
+  "closings": [
+    "Niech ta myśl trzyma cię w cieple przez cały dzień",
+    "Idź dziś z podniesioną głową i lekkim sercem",
+    "Świat jest piękniejszy z tobą w środku",
+    "Tak trzymaj — dobre już jest w drodze",
+    "Noś tę myśl dziś jak kamyk szczęścia w kieszeni",
+    "Ciesz się każdym drobnym znakiem dzisiejszego dnia",
+    "Będzie dobrze — i może jeszcze lepiej niż dobrze",
+    "Zachowaj tę odważną myśl na dzień, który jej potrzebuje",
+    "Niech twój uśmiech będzie dziś odpowiedzią, której świat szukał",
+    "Niech dni będą lżejsze, niż się ośmielasz zakładać",
+    "Te słowa to małe pchnięcie w dobrym kierunku",
+    "Zaufaj kierunkowi, który wskazuje ci serce",
+    "Gdy nadejdzie wieczór, niech ta myśl świeci jak mała lampka",
+    "Należy ci się dziś miękkie lądowanie po dobrym dniu",
+    "Oddychaj głęboko — wszystko ułoży się na swoje miejsce",
+    "Przyszłość jest książką, a ołówek trzymasz w dłoni",
+    "Weź te słowa ze sobą jak chleb na drogę",
+    "Dobre samopoczucie już się zaczęło i długo jeszcze się nie skończy",
+    "Ten dzień należy do ciebie — uczyń z niego piękną opowieść",
+    "Życzliwość wobec siebie jest początkiem wszystkiego",
+    "Najpiękniejsze strony twojej książki jeszcze nie zostały przewrócone",
+    "Przejdź przez dzień z tą wiadomością jak z szerokim uśmiechem",
+    "Jest dziś dość powodów, by iść przez świat wesoło",
+    "Dobre nowiny mają to do siebie, że zaczynają się od ciebie",
+    "Trwaj wytrwale — najpiękniejsze kwiaty zakwitają późno",
+    "Ten drobny znak to początek pięknej serii",
+    "Niech wszystko, czego dziś dotkniesz, stanie się odrobinę piękniejsze",
+    "Ufaj własnemu światłu i świeć przed siebie",
+    "Spokojne serce zawsze znajduje najlepszą drogę",
+    "To dzisiejsze mrugnięcie szczęścia — złap je w locie",
+    "Idź przez to z uśmiechem — warto",
+    "Odwagę masz już w sobie — użyj jej dziś",
+    "To właśnie ten znak, na który warto było poczekać; śmiało",
+    "Nie pozwól szczęściu dziś przebiec ci koło nosa"
+  ]
+}
