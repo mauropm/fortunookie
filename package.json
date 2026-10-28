@@ -2,6 +2,8 @@
   "name": "fortune-cookie",
   "private": true,
   "version": "1.0.0",
+  "license": "MIT",
+  "author": "mauro parra <mauropm@gmail.com>",
   "type": "module",
   "description": "Fortune Cookie — A little luck for everyone. Crack a cookie, receive a positive fortune in 30 languages.",
   "scripts": {

@@ -1,5 +1,7 @@
 # 🥠 Fortune Cookie — A little luck for everyone
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 Crack a cookie, get a positive fortune — free, instantly, in **30 languages**, with a
 satisfying break animation, crumbs, sparkles and a paper slip reveal. No login, no ads,
 no limits, no tracking. A static-first app designed to run on the cheapest VPS you can
@@ -209,4 +211,4 @@ can never ship.
 
 ## License
 
-MIT — see [LICENSE](LICENSE).
+MIT © 2026 mauro parra <mauropm@gmail.com> — see [LICENSE](LICENSE).
